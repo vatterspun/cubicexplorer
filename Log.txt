@@ -1,0 +1,553 @@
+17.4.2012
+* Old file previews should be now disregarded properly.
+* QuickView tab now closes on Detach.
+
+14.4.2012
++ Added "Paint It Black" theme (thanks to PirateMonkey)
+================================================================================
+14.4.2012
+* Worked with QuickView.
+* Added file descriptions to installers.
++ Added Save As button to translator.
+
+9.4.2012
++ Rewrote QuickView
+
+7.4.2012
+* Updated Polish translation (thanks to Seethi).
+---
+24.3.2012
+* Updated Hungarian translation (thanks to Mezei Zoltan).
+* Updated Italian translation (thanks to Folgore101).
+* Updated French translation (thanks to BB).
+
+14.3.2012
+* Updated Swedish translation (thanks to eson).
+================================================================================
+13.3.2012
+- Check selection now changes focus.
+* Chanced Update type Weekly to Snapshot.
+* Updated Chinese Simplified translation (thanks to lcz20).
+
+10.3.2012
+- Fixed Allow Move button in Stack toolbar.
+
+9.3.2012
+- Fixed status bar not updating on tab change bug.
+================================================================================
+9.3.2012
+- Fixed bug that caused MainToolbar to not remember it's visibility.
+* Changed QuickView text viewer so it doesn't lock files.
+* It's now possible to customize StackToolbar.
+- Fixed crash in FileSearch when search has finished.
+- Removed exceptions when setting files are locked.
+---
+- Fixed translation issue in FileSearch.
+
+8.3.2012
++ Added loading screen.
+
+7.3.2012
+* Shortcuts are now opened properly when middle clicking.
+* Updated French translation (thanks to BB).
+* Fixed toolbar bugs.
+
+1.3.2012
+* Updated Portuguese translation (thanks to Mário Gonçalves).
+
+================================================================================
+25.2.2012
++ Added Stretcher toolbar item.
+* Filters toolbar can now be customized.
+* Text Filter toolbar item now supports history.
+---
+* Updated default settings
+
+22.2.2012
+* File Search now shows the search values in the tab title.
+---
++ Added "New File" button.
+* Updated Italian translation (thanks to Folgore101).
+
+18.2.2012
+- Fixed bug that might cause crash when closing File Search tab.
+* Session now remembers most of FileSearch settings.
+
+17.2.2012
++ Added tab controls to Tabs toolbar button.
++ Added icon for Tabs menu.
+* Updated French translation (thanks to BB).
+- Fixed translation bug.
+- Fixed tab X button draw bug.
+
+15.2.2012
+* Updated Spanish translation (thanks to juanmanuel).
+
+11.2.2012
++ Added Tabs toolbar button.
+================================================================================
+10.2.2012
++ Added advanced option MainForm->ChangeCurrentDirVar. Setting it to False will fix "Folder in use" bug.
+- Fixed background text bug when file/folder is added in empty folder.
+---
++ Added icon for InfoBar.
+---
++ Added confirmation prompt if open dialogs are found when quitting CE.
+
+9.2.2012
++ Added "Restore Default Layout" button to Help menu and Options->Display.
+* Changed Text editor default title from "Untitled" to "New text file".
+
+8.2.2012
+* Filter list now updated file counts when text filter is used.
++ Added "New Folder" to the background menu.
+
+7.2.2012
+* Updated Brazilian Portuguese translation (thanks to Luciano Sturaro).
+* Updated Russian translation (thanks to sergus).
++ Added "OpenInNewTab" advanced option for DriveBar.
+* Auto scrolls now after paste.
+* Pressing Enter or selecting "Open in new tab" from Context menu will now open multible folders.
++ Added Exclude to Filters menu.
++ Added Exclude and Strict filter buttons to Customizer.
+
+================================================================================
+27.1.2012
+* Changed "Refresh Fileview" icon to green.
+- Fixed resize bug when using Fullscreen mode.
+* Updated French translation (thanks to BB).
+* Updated Russian translation (thanks to Vitaly).
+* Text filter now searches from complete file name (including extension).
++ Added exclude button to filters panel.
+* Swapped Ctrl+PgUp and Ctrl+PgDown to work other way around.
+---
++ Added SelectPasted and SortAfterPaste settings for Fileview.
+
+17.1.2012
+* Rename is now possible in Search tab.
+================================================================================
+16.1.2012
+* Uninstaller now unregisters CE as default file manager.
+* Updated Romanian translation (thanks to  Stefan Arhip).
+
+15.1.2012
+* Finalized "Register as default file manager" function.
+
+14.1.2012
+* Changed path handling to support environment variables.
+- Fixed separator bug in FileSearch when using multible locations.
+* Search button now shows progress dots when running.
+* CurrentDirectory is now changed to the active path.
++ Added option to register CE as default file manager.
+
+16.11.2011
+* Updated Dutch translation (thanks to Karel Baerten).
+---
+- Fixed bug in session loading when /icon switch is used.
+================================================================================
+11.11.2011
+- Fixed missing 7z.dll bug.
+- Fixed issue where CE saved settings to working folder.
+---
++ Added /icon command line switch to change CE's icon.
++ Added "Refresh Fileview" button.
+- Fixed CheckBox selection bug in SingleClickBrowse mode.
+* Updated Brazilian Portuguese translation (thanks to Luciano Sturaro).
+
+4.11.2011
++ Added support for libraries on command line.
++ Added support for system variables in Address Bar.
++ Added hint to Tray Icon.
+================================================================================
+9.10.2011
+* Updated Portuguese translation (thanks to Mário Gonçalves).
+* Updated Korean translation (thanks to Jinhwan-Jeong).
+* Updated Ukrainian translation (thanks to Igor Paliychuk).
+* Updated French translation (thanks to BB).
+* Updated German translation (thanks to nefycee).
+* Updated Slovak translation (thanks to Sepp Winkler).
+* Updated Italian translation (thanks to Folgore101).
+* Updated Japanese translation (thanks to benok).
+
+6.10.2011
++ Added "Lock Toolbars" setting.
+* Not using LockWindowUpdate anymore.
+
+28.8.2011
+- Fixed Bookmark multi selection.
+* Updated Spanish translation (thanks to juanmanuel).
+- Removed default hotkey (Ctrl+Z) from Undo Delete.
+
+27.8.2011
++ Added "System Power" toolbar button.
+- Removed "Item Count" and "Day Limit" editors from Undo Delete.
+* Updated German translation (thanks to nefycee).
+* Updated French translation (thanks to BB).
+* Updated Hungarian translation (thanks to Mezei Zoltan).
++ Added icon for "Always On Top".
++ Added icon for "New Window".
+
+21.8.2011
++ Added "FullRowDblClick" and "FolderUpOnDblClick" Advanced options for FileView.
+- Fixed bug with Context Menu key.
+- Fixed possible crash on start up.
+- Fixed possible crash in Bookmarks.
+- Fixed possible crash in Version Manager.
+* Updated French translation (thanks to BB).
+* Updated Spanish translation (thanks to Juan Manuel).
+* Updated Italian translation (thanks to Folgore101).
+
+20.8.2011
+* Updated Readme and License files.
+* Tweaked "Double click Folder Up".
+
+19.8.2011
+* Added icons for "Select All", "Invert Selection" and "Checkbox Selection".
++ Added "Item Count" and "Day Limit" editors to UndoDelete menu.
+
+18.8.2011
++ Added "Restore All" and "Restore List" to Undo Delete.
+* Updated German translation (thanks to nefycee).
+
+17.8.2011
+* Updated Swedish translation (thanks to eson).
+* Updated Russian translation (thanks to ext5).
+* Tweaked resource usage with Undo Delete button.
+================================================================================
+14.8.2011
+* Improved Undo Delete button.
+- Fixed Multi Selection in Bookmark panel.
++ Added icon for Undo Delete.
+* Usability fix to Update settings.
+* Updated French translation (thanks to BB).
+* Updated Slovak translation (thanks to Sepp Winkler).
+
+13.8.2011
+* Improved Undo Delete button.
+- Fixed Empty Recycle Bin button refresh issue.
+
+12.8.2011
++ Added Undo Delete button.
+* Update notification now show more information.
+
+11.8.2011
++ Added "ShowGridLines" Advanced option for FileView.
+* Updated Spanish translation (thanks to Javier Gutiérrez)
+- Fixed AutoSelectFirstItem issues (#418).
+* Enter and Esc now works as expected in windows.
+
+10.8.2011
+* Updated Spanish translations (thanks to Juan Manuel)
+* Updated Chinese Simplified translation (thanks to carpodacus)
+================================================================================
+5.8.2011
+* Updated Portuguese translation (thanks to Mário Gonçalves).
+* Updated German translation (thanks to nefycee).
+* Updated French translation (thanks to BB).
+- Fixed bug in Version Manager's Download button.
+- Fixed BrowseZipFolders in Folder panel (again).
+- Fixed bug when opening multiple files with Enter.
++ Added icon for "Show Hidden Files"
++ Added icon for "Show Extensions"
+* "Check For Updates" now shows connection error message.
+================================================================================
+29.7.2011
++ Added Proxy login prompt for Update Check.
+* Moved Version Manager item to Tools menu.
+* Updated French translation.
+- Fixed BrowseZipFolders in Folder panel.
+
+28.7.2011
+- Removed "No New Updates" message when checking updates on startup.
++ Added new icons.
+================================================================================
+24.7.2011
+- Possible fix for Crash when switching session or closing CE.
+- Fixed Column size/visibility bug.
+- Disabled crash dialog if "Copy Path" fails.
+- Disabled crash dialog if update fails.
+- Fixed black background on ICO files when viewed in QuickView tab.
+- Fixed SelectPreviousFolder when dbl clicking on background to go folder up.
+* Changed Double click to parent to work only on other columns when full row selection is used.
+
+23.7.2011
+* Updated German translation (thanks to nefycee).
++ Added icons for Updates and Version Manager.
+* Fine tuned Version Manager.
+- Fixed bug in Filters toolbar button (Clear Filters didn't work).
+* Disabled Archiver. (it's not usable at the moment).
+
+21.7.2011
+* Updated gBW theme (thanks to g..)
+
+19.7.2011
+* Updated Portugues translation (thanks to Mário Gonçalves).
+* Updated Spanish translation (thanks to juanmanuel).
+================================================================================
+18.7.2011
+- Fixed Bookmark toolbar file launching bug.
+================================================================================
+17.7.2011
+- Fixed Version Manager bugs.
++ Added New Window item in File menu.
+* Updated Russian translation (thanks to buddah)
+
+15.7.2011
++ ?dded Archiver panel.
++ ?dded Version Manager.
+* Double click on stack item now opens it.
++ Added UseSystemPopupMenu advanced option to Bookmarks.
+* Alt+Click and Alt+Shift+Click now works in Bookmark toolbar.
++ Added ShowOpenAllItem advanced option to Bookmarks
+---
+- Fixed crash when deleting multiple bookmarks
+* Bookmark panel now shows overlay icons also.
+* Improved Bookmark icon auto update.
+
+13.7.2011
+- Fixed AutosizeListViewStyle when CheckBox Selection used.
+
+10.7.2011
+* Updated Hungarian translation (thanks to Mezei Zoltan)
+* Updated Polish translation (thanks to Skrzat)
+---
+* "Open in current tab" is now used in bookmark panel popup menu when "Open in new tab by default" is used.
+================================================================================
+3.7.2011
++ Added support for custom settings folder.
+* Updated French translation (thanks to BB).
+* Updated Spanish translation.
+
+2.7.2011
++ Added support for dropping to tab.
++ Added "SwitchTabOnDragHover" and "AllowDropToTab" advanced setting.
+* Right button drag now switches tab.
+
+29.6.2011
+* Updated German translation (thanks to nefycee)
+
+27.6.2011
+* Updated Japanese translation (thanks to benok)
+- Fixed freeze when pressing Back mouse button if context menu showing.
+- Fixed "Select previous folder" when ThreadedEnumeration used.
+- Fixed "Empty Folder" text to refresh on file create/delete.
+================================================================================
+24.6.2011
+- Possible fix to crash when right clicking on Fileview background.
+- Fixed crash when changing theme after File Search has been open.
+- Disabled LockWindowUpdate in UI Update.
++ Added VirtualExplorerTree.pas to project
++ Added "Open in new tab" to all Right click menus.
+----
+- Fixed rename issue when going back in history.
++ Added "Checkbox Selection".
+
+19.6.2011
+* Updated Swedish translation (thanks to eson)
+- Fixed bug with "Empty Folder" text when ThrededEnumeration used.
+
+18.6.2011
+* Updated German translation (thanks to nefycee)
+* Updated French translation (thanks to BB)
+- Fixed crash when selecting search tab.
+
+14.6.2011
+* Updated Slovak translation (thanks to Sepp Winkler)
+================================================================================
+10.6.2011
+* Fine tuned CenterOnBrowse in FolderPanel
+- Fixed CenterOnExpand in FolderPanel
++ Added "Open in new tab" in Right click menu.
+- Fixed Ctrl/Shift selection when SingleClickBrowse/Execute used.
+- Fixed jumping issue when dbl clicking on SingleClickBrowse mode.
++ Added FontSize Advanced setting to all Panels, Fileview and FileSearch.
++ Added LineHeight Advanced setting to all Panels and FileSearch.
++ Added Deviant Dark theme (thanks to nefycee).
+
+7.6.2011
+- Usability fix in "Save Session" and "Save Stack" dialogs.
+- Fixed "Select previous folder" when dbl clicking.
+* Updated French translation (thanks to BB).
+* Updated German translation (thanks to nefycee).
+---
+* Updated Blue Line theme (thanks to sl23).
++ Added gBW theme (thanks to g..).
++ Added OldDays theme (thanks to badloginname).
+
+3.6.2011
+* Updated French translation
+- Fixed translation issues.
+- Fixed "Continue from last time".
++ Added "AutoExpand", "AutoCollapse" and "FullExpandOnLoad" options to Stack.
++ Added Startup settings to Stack (Options -> Display -> Stack).
+
+2.6.2011
++ Added support for AppCommands (BROWSER_BACKWARD, BROWSER_FORWARD, BROWSER_SEARCH).
++ Added /f command line switch for opening files in CE.
+- Fixed SingleClickExecute issue when dragging files.
+
+1.6.2011
++ Added CenterOnBrowse and CenterOnExpand options to Folders (Options -> Advanced -> FolderPanel)
+- Fixed Background menu bug on Small Icons and List view styles.
+
+30.5.2011
+- Fixed bug that made CE go behind previous window after Delete.
+- File operations now happen in background.
+
+27.5.2011
+* Updated French translation.
+* Updated German translation.
++ Added Options page for Stack (empty).
+
+25.5.2011
++ ?dded Blue Line theme.
++ Added ArrowBrowse option (Options -> Advanced -> FileView -> ArrowBrowse).
+
+23.5.2011
+- Fixed Folder tree auto scrolling.
+
+21.5.2011
++ Added CellSizes option for FileView (Options->Advanced->FileView->CellSizes).
+* Redesigning Text Filter button (still buggy).
+
+20.5.2011
+- Fixed Folder tree scrolling to view on browse.
+
+17.5.2011
+- Fixed translation issues.
++ Added "Create Symbolic Link" to Edit menu.
++ Added popup menu to Stack groups.
++ Added "Remove from Stack" button to Stack's toolbar.
+- Fixed "Auto Save" in Stack when clearing list or removing items.
+
+15.5.2011
+* Fixed translation issues.
++ Added translation and theme support to "Create Symbolic Link" dialog.
++ Added Clear button to Text Filter toolbar item.
+* Updated French translation.
+
+13.5.2011
+* Renaming file/folder now renames Stack item
+* Redesigned Stack for better performance.
++ Added "Clear Filters" button to Customizer.
+
+9.5.2011
++ Added EasyListview.pas and VirtualExplorerEasyListview.pas to project
+- Fixed colum header popup bug in multi screen environment.
+- Fixed Size column bug when using Text format.
+- Fixed Junction jumping to target folder.
+
+6.5.2011
++ Added "Remove from Stack" item to Stack's right click menu.
++ Added "Allow Move" button to Stack toolbar.
+* Updated French translation.
+* Changed version number to 0.94
+
+5.5.2011
++ Added FileSizeFormat option to FileView.
++ Added Text Filter toolbar item.
+
+4.5.2011
++ Added Save/Load to Stacks
+* Updated German translation
+
+29.4.2011
+- Fixed crash caused by empty session.xml file.
+- Fixed crash in Folder tree when renaming folder.
+- Fixed translation issues.
+* Updated French translation
+* Updated Norwegian translation
+
+28.4.2011
+- ?ixed separator bugs.
+- Fixed usability bug in Advanced Options.
++ Added "Filter Menu" toolbar item.
++ Added "Safe Operations Only" setting to Stacks.
+* Items are now removed from stack after Move operation.
+
+22.4.2011
+* Rewrote Drop Stack panel (renamed it to just Stack).
+- ?ixed translation bug.
++ Added icon for Stack panel.
+
+18.4.2011
++ Added Advanced option "ShowOpenAllAtTop" to bookmarks menu.
+* Rewrote SingleClickBrowse support.
++ Added SingleClickExecute.
+- Fixed double click issue with Dynamic Spacers in TabBar.
++ Added Session item to Bookmarks.
+
+15.4.2011
++ Added "Exit program when last tab is closed" option to Options->Tabs.
++ Added "Single click browsing" to Options->Display->Fileview.
+* Enabled Drag and Drop in File Search.
+
+14.4.2011
+- Fixed translation issues
+* Changed Column Settings popup and dialog to support themes and languages.
+* Tab scroll arrows are now same color as button text.
+- Fixed crash when breadcrumb's width was resized to zero.
++ Added spacer support for TabBar
+
+8.4.2011
+- Fixed "Session.xml" crash on exit
+* Enabled Draw Selection in bookmark tree
+- Fixed scrollbar size issue when adding bookmarks.
++ Added "Close tab on double click" option
+
+7.4.2011
+* Dragging files to bookmarks of programs will now launch them.
++ Added Czech translation.
+
+6.4.2011
+- Fixed header clipping bug in List view mode (EasyListView.pas)
+
+5.4.2011
++ Added "Right Align" item to Buttons Customizer
++ Added scroll arrows to TabBar
++ Added customization support to TabBar
+- Fixed crashing when opening sessions.
+
+25.3.2011
+- Fixed Breadcrumb popup isssue in AddressBar
+* Updated German translation
+
+18.3.2011
++ Added "Reset to default" for hotkeys.
+----
++ Added "Change order by dragging" to hotkey list.
+- Fixed "Delete dialog goes behind CE" bug in XP.
++ Added option for InfoTips.
+- Fixed column remembering bugs.
+
+17.3.2011
++ Added "Change order by dragging" to Session Manager
+- Fixed bug in toolbar positioning.
+- Fixed Breadcrumb popup bug.
+* Clicking background of Breadcrumb in AddressBar swithes to editing mode.
+----
++ Moved hidden actions to main action list.
+
+
+4.3.2011
++ Added "Undo Close Tab"
+
+3.3.2011
++ Added Selected Tab History
++ Added "OpenNextToCurrent" option to tabs.
++ Added "Auto fit tabs" setting to Options Dialog.
+
+28.2.2011
+- Fixed crash in Info Bar.
+
+25.2.2011
+- Fixed "InvalidFileName" error in file search
+- Fixed bugs in "New" Menu
+- Fixed translation bugs.
++ Added "Shortcut" entry to "New" menu.
+
+14.2.2011
++ Added "Auto Save History" checkbox to Sessions menu.
+* "Auto Save History" is now disabled by default.
+* Save Session dialog now uses the active session name as default.
+* Manage Sessions dialog uses themes now.
