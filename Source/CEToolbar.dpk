@@ -1,0 +1,47 @@
+package CEToolbar;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESIGNONLY}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  dclstd,
+  TntUnicodeVcl,
+  TntUnicodeVcl_Design,
+  tb2k_d10,
+  tb2kdsgn_d10,
+  SpTBXLib_d10,
+  vclactnband,
+  vclx,
+  vcldb,
+  dbrtl;
+
+contains
+  CE_Toolbar in 'CE_Toolbar.pas',
+  CE_ToolbarReg in 'CE_ToolbarReg.pas',
+  CE_SpTBXItems in 'CE_SpTBXItems.pas';
+
+end.

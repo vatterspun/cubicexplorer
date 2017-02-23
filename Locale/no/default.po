@@ -1,0 +1,1108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.5\n"
+"POT-Creation-Date: 2007-08-21 23:06\n"
+"PO-Revision-Date: 2007-09-13 12:25+0200\n"
+"Last-Translator: Stein Skjervold <steinskjervold@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+"Language-Team:              \n"
+"X-Poedit-Language: Norwegian Bokmal\n"
+"X-Poedit-Country: NORWAY\n"
+"CE-POT-Version: 1320\n"
+"CE-Language: Norwegian Bokmaal\n"
+
+msgid "%d folder(s) searched and %d item(s) found in %.3f second(s)"
+msgstr "%d folder(e) gjennomsøkt, %d element(er) funnet"
+
+msgid "..."
+msgstr "..."
+
+msgid "About CubicExplorer"
+msgstr "Om Cubicexplorer"
+
+msgid "About..."
+msgstr "Om..."
+
+msgid "Accessed"
+msgstr ""
+
+msgid "Actions"
+msgstr "Handling"
+
+msgid "Add"
+msgstr "Ny"
+
+msgid "Add Bookmark"
+msgstr "Legg til Bokmerke"
+
+msgid "Add Category"
+msgstr "Legg til Kategori"
+
+msgid "Add History Item"
+msgstr "Legg til element i historikk"
+
+msgid "Add Tab"
+msgstr "Ny fane"
+
+msgid "Address Bar"
+msgstr "Adresselinje"
+
+msgid "Advanced"
+msgstr "Avansert"
+
+msgid "Advanced Settings"
+msgstr "Avanserte innstillinger"
+
+msgid "After Date:"
+msgstr "Etter dato:"
+
+msgid "After Time:"
+msgstr "Før dato:"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Always On Top"
+msgstr "Alltid øverst"
+
+msgid "Always Show Sort Columns"
+msgstr "Vis sorteringskolonner alltid"
+
+msgid "Always sort folders first."
+msgstr "List mapper først"
+
+msgid "And Launch Files"
+msgstr "Åpne filer"
+
+msgid "Application Revision:"
+msgstr "Programrevisjon"
+
+msgid "Apply"
+msgstr "Utfør"
+
+msgid "Apply changes."
+msgstr "Foreta endringer"
+
+msgid "Are you sure you want to clear session history?"
+msgstr "Vil du tømme historikken for fanegrupper?"
+
+msgid "Are you sure you want to delete this session?"
+msgstr "Vil du slette denne fanegruppen?"
+
+msgid "Arrange By"
+msgstr "Sorter etter"
+
+msgid "At Least:"
+msgstr "Minst:"
+
+msgid "At Most:"
+msgstr "Mest:"
+
+msgid "Attributes"
+msgstr "Egenskaper"
+
+msgid "Author"
+msgstr "Forfatter"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Auto Collapse Trees"
+msgstr "Slå sammen mappetre automatisk"
+
+msgid "Auto Expand Trees"
+msgstr "Utvid mappetre automatisk"
+
+msgid "Auto Save History"
+msgstr "Auto-lagre historikk"
+
+msgid "Auto collapse tree"
+msgstr "Fold sammen tre automatisk"
+
+msgid "Auto expand tree"
+msgstr "Utvid tre automatisk"
+
+msgid "Auto fit tabs"
+msgstr "Auto-tilpass fanestørrelse"
+
+msgid "Auto size cells in list view style."
+msgstr "Tilpass celle-størrelse i liste-visning"
+
+msgid "Automatic"
+msgstr "Automatisk"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "Backward"
+msgstr "Bakover"
+
+msgid "Before Date:"
+msgstr "Før dato:"
+
+msgid "Before Time:"
+msgstr "Før tid:"
+
+msgid "Bookmarks"
+msgstr "Bokmerker"
+
+msgid "Bookmarks Panel Settings"
+msgstr "Innstillinger for Bokmerkepanel"
+
+msgid "Borders"
+msgstr "Vis rammer"
+
+msgid "Bottom"
+msgstr "Bunn"
+
+msgid "Breadcrumb Navigation"
+msgstr "Navigasjonssti"
+
+msgid "Browse..."
+msgstr "Finn.."
+
+msgid "Buttons"
+msgstr "Knapper"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Cancelled"
+msgstr "Avbrutt"
+
+msgid "Case Sensitive"
+msgstr "Versalsensitiv"
+
+msgid "Case sensitivity"
+msgstr "Versalsensitiv"
+
+msgid "Change order by dragging"
+msgstr "Endre rekkefølge ved å dra"
+
+msgid "Clear Filters"
+msgstr "Fjern filtre"
+
+msgid "Clear History"
+msgstr "Tøm historikk"
+
+msgid "Clear List"
+msgstr "Fjern liste"
+
+msgid "Clear Results"
+msgstr "Fjern resultater"
+
+msgid "Clear filter history"
+msgstr "Fjern filterhistorikk"
+
+msgid "Clear filters on folder change"
+msgstr "Tøm filtre ved ny mappe"
+
+msgid "Close"
+msgstr "Lukk"
+
+msgid "Close Other Tabs"
+msgstr "Lukk andre faner"
+
+msgid "Close Tab"
+msgstr "Lukk fane"
+
+msgid "Close Tabs on Left"
+msgstr "Lukk faner til venstre"
+
+msgid "Close Tabs on Right"
+msgstr "Lukk faner til høyre"
+
+msgid "Close tab on double click"
+msgstr "Lukk fane ved dobbelklikk"
+
+msgid "Close to tray"
+msgstr "Lukk til oppgavelinje"
+
+msgid "Column Settings"
+msgstr "Innstillinger for kolonner"
+
+msgid "Compressed"
+msgstr "Komprimert"
+
+msgid "Computer Management (experiment)"
+msgstr "Computer Management (experiment)"
+
+msgid "Content"
+msgstr "Innhold"
+
+msgid "Continue from last time"
+msgstr "Fortsett fra sist gang"
+
+msgid "Copy"
+msgstr "Kopier"
+
+msgid "Copy In test"
+msgstr "Copy In test"
+
+msgid "Copy Path"
+msgstr "Kopier sti"
+
+msgid "Copy of active tab"
+msgstr "Kopier aktiv fane"
+
+msgid "Copyright 2006-2007 Marko Savolainen"
+msgstr "Copyright 2006-2007 Marko Savolainen"
+
+msgid "Create"
+msgstr "Lag"
+
+msgid "Create New Translation"
+msgstr "Lag ny oversettelse"
+
+msgid "Create Symbolic Link"
+msgstr "Lag symbolsk lenke"
+
+msgid "Create new translation."
+msgstr "Lag ny oversettelse"
+
+msgid "Created"
+msgstr "Opprettet"
+
+msgid "CubicExplore Home Page"
+msgstr "CubicExplorers hjemmeside"
+
+msgid "CubicExplorer"
+msgstr "CubicExplorer"
+
+msgid "CubicExplorer Options"
+msgstr "Innstillinger"
+
+msgid "Custom..."
+msgstr "Velg mappe..."
+
+msgid "Customize"
+msgstr "Tilpass"
+
+msgid "Customizer..."
+msgstr "Tilpass..."
+
+msgid "Cut"
+msgstr "Klipp ut"
+
+msgid "Date && Time"
+msgstr "Dato && Tid"
+
+msgid "Date Accessed"
+msgstr "Aksessert dato"
+
+msgid "Date Created"
+msgstr "Opprettet dato"
+
+msgid "Date Modified"
+msgstr "Endret dato"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Default hotkeys become available after restart!"
+msgstr "Filtre blir aktive ved restart"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "Demo Crash"
+msgstr "Demo Crash"
+
+msgid "Desktop"
+msgstr "Gå til Skrivebord"
+
+msgid "Details"
+msgstr "Detaljer"
+
+msgid "Direction"
+msgstr "Retning"
+
+msgid "Disconnect Network Drive..."
+msgstr "Koble fra nettverksstasjon"
+
+msgid "Display"
+msgstr "Vis"
+
+msgid "Display Mode"
+msgstr "Vis"
+
+msgid "Display Settings"
+msgstr "Vis innstillinger"
+
+msgid "Do you want to override existing session?"
+msgstr ""
+
+msgid "Do you want to reset all hotkeys for this action?"
+msgstr "Vil du resette hurtigtastene for denne handlingen?"
+
+msgid "Do you want to use it anyway?"
+msgstr "Vil du bruke den uansett?"
+
+msgid "Donate"
+msgstr "Doner"
+
+msgid "Drag Handle"
+msgstr "Vis hendler"
+
+msgid "Drag and Drop to reorder the columns. "
+msgstr ""
+
+msgid "Drag buttons to/from toolbars"
+msgstr "Trekk knapper til/fra verktøylinjer"
+
+msgid "Drives"
+msgstr "Stasjoner"
+
+msgid "Drop Stack"
+msgstr "Samlinger"
+
+msgid "DualView"
+msgstr ""
+
+msgid "Dublicate Tab"
+msgstr "Kopier fane"
+
+msgid "Duplicate"
+msgstr "Lag kopi"
+
+msgid "Duplicate Hotkey"
+msgstr "Kopier hurtigtast"
+
+msgid "Duplicate Tab"
+msgstr "Kopier fane"
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Editor Options..."
+msgstr "Redigeringsvalg"
+
+msgid "Empty Recycle Bin"
+msgstr "Tøm papirkurven"
+
+msgid "Empty folder"
+msgstr "Tøm mappe"
+
+msgid "English (default)"
+msgstr "English (default)"
+
+msgid "Enter each file mask on a separate line."
+msgstr ""
+
+msgid "Exclude File Masks:"
+msgstr "Eksluder filmasker:"
+
+msgid "Exit"
+msgstr "Avslutt"
+
+msgid "Exit program when last tab is closed"
+msgstr "Lukk CE når siste fane lukkes"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "File Contains:"
+msgstr "Fil inneholder:"
+
+msgid "File Name Mask"
+msgstr "Maske for filnavn"
+
+msgid "File Search"
+msgstr "Søk"
+
+msgid "Fileview"
+msgstr "Filvisning"
+
+msgid "Fileview Settings"
+msgstr "Innstillinger for Filvisning"
+
+msgid "Filmstrip"
+msgstr "Filmstripe"
+
+msgid "Filters"
+msgstr "Filter"
+
+msgid "Find Next"
+msgstr "Finn neste"
+
+msgid "Find Previous"
+msgstr "Finn forrige"
+
+msgid "Finished"
+msgstr "Ferdig"
+
+msgid "Focus"
+msgstr "Fokus"
+
+msgid "Folder"
+msgstr "Mappe"
+
+msgid "Folder Path"
+msgstr "Mappesti"
+
+msgid "Folder Up"
+msgstr "Opp"
+
+msgid "Folders"
+msgstr "Mapper"
+
+msgid "Folders Panel Settings"
+msgstr "Innstillinger for Mappepanel"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Forward"
+msgstr "Frem"
+
+msgid "Fullscreen"
+msgstr "Fullskjerm"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "General"
+msgstr "Generelt"
+
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Global Hotkey Settings"
+msgstr "Globale hurtigtaster"
+
+msgid "Group By"
+msgstr "Grupper etter"
+
+msgid "Help"
+msgstr "Hjelp"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Hidden"
+msgstr "Skjult"
+
+msgid "Highlight row completely"
+msgstr "Marker hele raden"
+
+msgid "Highlighter"
+msgstr "Uthever"
+
+msgid "History"
+msgstr "Historikk"
+
+msgid "Hotkey Settings"
+msgstr "Hurtigtaster"
+
+msgid "Hotkeys"
+msgstr "Hurtigtaster"
+
+msgid "Icon above text"
+msgstr "Ikon over tekst"
+
+msgid "Icon only"
+msgstr "Kun ikon"
+
+msgid "Image"
+msgstr "Bilde"
+
+msgid "Include File Masks:"
+msgstr "Inkluder filmasker:"
+
+msgid "Include Subfolders"
+msgstr "Inkluder undermapper"
+
+msgid "Info Bar"
+msgstr "Infolinje"
+
+msgid "Insert"
+msgstr "Sett inn"
+
+msgid "Invert Selection"
+msgstr "Inverter utvalg"
+
+msgid "Item(s)"
+msgstr "Enhet(er)"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Language Editor"
+msgstr "Språkeditor"
+
+msgid "Large Icons"
+msgstr "Store ikoner"
+
+msgid "Launch Files Only"
+msgstr "Åpne bare filer"
+
+msgid "Layouts"
+msgstr "Layout"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Link Name"
+msgstr "Lenkenavn"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Live Update"
+msgstr "Live oppdatering"
+
+msgid "Load session"
+msgstr "Åpne økt"
+
+msgid "Load theme from file"
+msgstr "Fra fil..."
+
+msgid "Load theme from file..."
+msgstr "Fra fil..."
+
+msgid "Loading..."
+msgstr "Henter.."
+
+msgid "Location"
+msgstr "Plassering"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Main Menu"
+msgstr "Meny"
+
+msgid "MainMenu"
+msgstr "Hovedmeny"
+
+msgid "Manage Sessions"
+msgstr "Håndter økter"
+
+msgid "Manage..."
+msgstr "Håndter økter"
+
+msgid "Map Network Drive..."
+msgstr "Koble til nettverksstasjon"
+
+msgid "Max Level:"
+msgstr "Max nivå:"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Min Level:"
+msgstr "Min nivå:"
+
+msgid "Minimize to tray"
+msgstr "Minimer til oppgavelinje"
+
+msgid "Modified"
+msgstr "Endret"
+
+msgid "Modify Hotkey"
+msgstr "Endre  ."
+
+msgid "More..."
+msgstr "Mer..."
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Name && Location"
+msgstr "Navn && Plassering"
+
+msgid "Name Only"
+msgstr "Kun navn"
+
+msgid "Navigation"
+msgstr "Naviger"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "New Folder"
+msgstr "Ny mappe"
+
+msgid "No Extension"
+msgstr "Ikke vis filtype"
+
+msgid "No Selection"
+msgstr "Ingen valg"
+
+msgid "No file loaded."
+msgstr "Ingen fil er valgt"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On Startup"
+msgstr "Oppstart  "
+
+msgid "Open All in Tabs"
+msgstr "Åpne alle"
+
+msgid "Open Command Prompt"
+msgstr "Åpne ledetekst"
+
+msgid "Open Containing Folder"
+msgstr "Åpne mappe"
+
+msgid "Open default tab"
+msgstr "Åpne standard fane"
+
+msgid "Open in new tab by default"
+msgstr "Åpne i ny fane som standard"
+
+msgid "Open new tab as"
+msgstr "Ny Fane   "
+
+msgid "Open new tab next to current"
+msgstr "Åpne ny fane ved siden av aktive"
+
+msgid "Open..."
+msgstr "Åpne"
+
+msgid "Options"
+msgstr "Valg"
+
+msgid "Options..."
+msgstr "Innstillinger"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Override"
+msgstr "Overstyr"
+
+msgid "Panels"
+msgstr "Panel"
+
+msgid "Paste"
+msgstr "Lim inn"
+
+msgid "Paste Shortcut"
+msgstr "Lim inn snarvei"
+
+msgid "Path"
+msgstr "Sti"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Please choose different hotkey."
+msgstr "Velg annen hurtigtast"
+
+msgid "Properties"
+msgstr "Egenskaper"
+
+msgid "Properties..."
+msgstr "Egenskaper"
+
+msgid "Publish Translation"
+msgstr "Publiser oversettelse"
+
+msgid "Quick Options"
+msgstr "Hurtigvalg"
+
+msgid "QuickView"
+msgstr "Hurtigvisning"
+
+msgid "Quickview"
+msgstr "Hurtigvisning"
+
+msgid "Read Only"
+msgstr "Kun les"
+
+msgid "Redo"
+msgstr "Gjenta"
+
+msgid "Refresh"
+msgstr "Oppdater"
+
+msgid "Regular expression"
+msgstr "Vanlig uttrykk"
+
+msgid "Relative"
+msgstr "Relativ"
+
+msgid "Reload"
+msgstr "Last inn på nytt"
+
+msgid "Remember Tabs"
+msgstr "Husk faner"
+
+msgid "Rename"
+msgstr "Gi nytt navn"
+
+msgid "Replace"
+msgstr "Erstatt"
+
+msgid "Replace All"
+msgstr "Erstatt alle"
+
+msgid "Reset hotkeys?"
+msgstr "Tilbakestill hurtigtaster?"
+
+msgid "Reset to default"
+msgstr "Tilbakestill"
+
+msgid "Reuse already open tabs"
+msgstr "Bruk allerede åpne faner"
+
+msgid "Right"
+msgstr "Høyre"
+
+msgid "Save"
+msgstr "Lagre"
+
+msgid "Save As..."
+msgstr "Lagre som"
+
+msgid "Save Session"
+msgstr "Lagre gruppe"
+
+msgid "Save active session."
+msgstr "Lagre aktiv gruppe"
+
+msgid "Save changes before closing?"
+msgstr "Lagre endringer?"
+
+msgid "Save changes."
+msgstr "Lagre endringer"
+
+msgid "Save changes?"
+msgstr "Lagre endringer?"
+
+msgid "Save settings automatically."
+msgstr "Lagre innstillinger automatisk"
+
+msgid "Save..."
+msgstr "Lagre..."
+
+msgid "Save/Load Settings"
+msgstr "Lagre innstillinger"
+
+msgid "Scroll Left"
+msgstr "Rull til venstre"
+
+msgid "Scroll Right"
+msgstr "Rull til høyre"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Search File Mask"
+msgstr "Søkemaske"
+
+msgid "Search Word or Phrase in File Name"
+msgstr "Søk etter ord eller frase i filnavn"
+
+msgid "Search and Replace"
+msgstr "Søk og erstatt"
+
+msgid "Search from cursor"
+msgstr "Søk fra markør"
+
+msgid "Search in Directory"
+msgstr "Søk i mappe"
+
+msgid "Searching from"
+msgstr "Let fra"
+
+msgid "Select All"
+msgstr "Velg alle"
+
+msgid "Select default folder for new tabs."
+msgstr "Velg mappe for nye faner"
+
+msgid "Select existing translation or create new."
+msgstr "Bruk en eksisterende oversettelse eller lag ny"
+
+msgid "Select first item automatically"
+msgstr "Gå til første element"
+
+msgid "Select previous folder"
+msgstr "Velg forrige mappe"
+
+msgid "Selected"
+msgstr "Valgte"
+
+msgid "Selected text only"
+msgstr "Kun valgt tekst"
+
+msgid "Separator"
+msgstr "Delelinje"
+
+msgid "Session Name"
+msgstr "Gruppenavn"
+
+msgid "Session at"
+msgstr "Økt"
+
+msgid "Sessions"
+msgstr "Økter"
+
+msgid "Set focus to address bar"
+msgstr "Fokuser på adresselinje"
+
+msgid "Short Folder Path"
+msgstr "Kort mappesti"
+
+msgid "Short Name Only"
+msgstr "Kun kort navn"
+
+msgid "Short Path"
+msgstr "Kort sti"
+
+msgid "Shortcut"
+msgstr "Hurtiglenke"
+
+msgid "Show"
+msgstr "Vis ikon"
+
+msgid "Show All Files"
+msgstr "Vis alle files"
+
+msgid "Show Extensions"
+msgstr "Vis filtype"
+
+msgid "Show Filtering Background"
+msgstr "Vis bakgrunn v. bruk av filter"
+
+msgid "Show Folders"
+msgstr "Vis mapper"
+
+msgid "Show Hidden Files"
+msgstr "Vis skjulte filer"
+
+msgid "Show Hints"
+msgstr "Vis hint"
+
+msgid "Show InfoTips"
+msgstr "Vis infotips"
+
+msgid "Show Path in Title bar"
+msgstr "Vis sti i tittellinjen"
+
+msgid "Show Session Manager"
+msgstr "Vis gruppebehandler"
+
+msgid "Show Statusbar"
+msgstr "Vis statusbar"
+
+msgid "Show Toolbar"
+msgstr "Vis verktøylinje"
+
+msgid "Show in Groups"
+msgstr "Vis i grupper"
+
+msgid "Show more tabs"
+msgstr "Vis flere faner"
+
+msgid "Show/Hide"
+msgstr "Vis/Skjul"
+
+msgid "Single Instance Only"
+msgstr "Bruk kun ett åpent vindu av CE"
+
+msgid "Single click browsing"
+msgstr "Bruk ett klikk"
+
+msgid "Single click mode"
+msgstr "Enklikks-modus"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Size && Attributes"
+msgstr "Størrelse && Attributter"
+
+msgid "Small Icons"
+msgstr "Små ikoner"
+
+msgid "Smooth Scroll"
+msgstr "Myk scrolling"
+
+msgid "Solitaire (experiment)"
+msgstr "Solitaire (eksperiment)"
+
+msgid "Stack"
+msgstr "Samlinger"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start minimized to tray"
+msgstr "Start minimert til oppgavelinjen"
+
+msgid "Status Bar"
+msgstr "Statuslinje"
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Stretch"
+msgstr "Strekk verktøylinjene"
+
+msgid "Strict"
+msgstr "Strengt"
+
+msgid "Subdirectories"
+msgstr "Undermapper"
+
+msgid "Support Forum"
+msgstr "Forum"
+
+msgid "Switch to Next Tab"
+msgstr "Bytt til neste fane"
+
+msgid "Switch to a new tab immediately"
+msgstr "Bytt til neste fane med en gang"
+
+msgid "Swith to Previous Tab"
+msgstr "Bytt til forrige fane"
+
+msgid "System"
+msgstr "System"
+
+msgid "Tabs"
+msgstr "Faner"
+
+msgid "Tabs Settings"
+msgstr "Faner"
+
+msgid "Target"
+msgstr "Mål"
+
+msgid "Target Folder"
+msgstr "Målmappe"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Text Editor"
+msgstr "Teksteditor"
+
+msgid "Text only"
+msgstr "Kun tekst"
+
+msgid "Theme"
+msgstr "Temaer"
+
+msgid "Thumbnails"
+msgstr "Miniatyrbilder"
+
+msgid "Thumbs Position"
+msgstr "Plassering av miniatyrbilder"
+
+msgid "Thumbs View Style"
+msgstr "Miniatyrbildestil"
+
+msgid "Tiles"
+msgstr "Side ved side"
+
+msgid "Toolbars"
+msgstr "Verktøylinjer"
+
+msgid "Tools"
+msgstr "Verktøy"
+
+msgid "Top"
+msgstr "Topp"
+
+msgid "Total Size"
+msgstr "Total størrelse"
+
+msgid "Translate CubicExplorer"
+msgstr "Oversett Cubicexplorer"
+
+msgid "Translation"
+msgstr "Oversettelse"
+
+msgid "Translation Revision:"
+msgstr "Oversettelsesrevisjon"
+
+msgid "Translation Version"
+msgstr "Oversettelsesversjon"
+
+msgid "Translator's Email"
+msgstr "Oversetters epost"
+
+msgid "Translator's Name"
+msgstr "Oversetters navn"
+
+msgid "Transparency"
+msgstr "Gjennomsiktighet"
+
+msgid "Tray Icon"
+msgstr "Oppgavelinje   "
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Undo"
+msgstr "Angre"
+
+msgid "Undo Tab Close"
+msgstr "Gjenåpne lukket fane"
+
+msgid "Untitled"
+msgstr "Uten navn"
+
+msgid "Use strict filtering (wildcards are ? and *)"
+msgstr "Bruk streng filtrering (? og * er jokertegn)"
+
+msgid "Version:"
+msgstr "Versjon:"
+
+msgid "Version: 0.8.0."
+msgstr "Versjon 0.8.0"
+
+msgid "View"
+msgstr "Vis"
+
+msgid "View Style"
+msgstr "Vis som"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "Bytt til ny fane"
+
+msgid "Whole Word"
+msgstr "Hele ord"
+
+msgid "Whole words only"
+msgstr "Kun hele ord"
+
+msgid "Width of the selected column"
+msgstr "Bredde for valgte kolonne"
+
+msgid "Word List"
+msgstr "Ordliste"
+
+msgid "Word Wrap"
+msgstr "Tekstbryting"
+
+msgid "Word or Phrase in File Name"
+msgstr "Ord eller frase i filnavn"
+
+msgid "is already assigned to"
+msgstr "er allerede tilegnet"
+
+msgid "is already in use!"
+msgstr "er allerede i bruk.."
+

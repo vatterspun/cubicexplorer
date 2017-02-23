@@ -1,0 +1,688 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"CE-POT-Version: 1079\n"
+"CE-Language: Arabic\n"
+"Last-Translator: Amr Eldib <eldib.amr@windowslive.com>\n"
+
+msgid "About CubicExplorer"
+msgstr "عن كيوبيك إكسبلورر"
+
+msgid "About..."
+msgstr "عن هذا البرنامج"
+
+msgid "Actions"
+msgstr "أفعال"
+
+msgid "Add Bookmark"
+msgstr "أضف مفضلة"
+
+msgid "Add Category"
+msgstr "أضف تقسيم"
+
+msgid "Add Tab"
+msgstr "أضف صفحة"
+
+msgid "Address Bar"
+msgstr "شريط العنوان"
+
+msgid "Always On Top"
+msgstr "دائما في المقدمة"
+
+msgid "Always Show Sort Columns"
+msgstr "دائما أظهر ترتيب الأعمدة"
+
+msgid "And Launch Files"
+msgstr "وتشغيل الملفات"
+
+msgid "Application Revision:"
+msgstr "مراجعة البرنامج"
+
+msgid "Apply"
+msgstr "طبق"
+
+msgid "Apply changes."
+msgstr "طبق التعديلات"
+
+msgid "Arrange By"
+msgstr "ترتيب بواسطة"
+
+msgid "Attributes"
+msgstr "صفات"
+
+msgid "Auto"
+msgstr "أليا"
+
+msgid "Auto collapse tree"
+msgstr "طوي الشجرة أليا"
+
+msgid "Auto expand tree"
+msgstr "تمديد الشجرة أليا"
+
+msgid "Automatic"
+msgstr "أليا"
+
+msgid "Back"
+msgstr "رجوع"
+
+msgid "Backward"
+msgstr "رجوع"
+
+msgid "Bookmarks"
+msgstr "المفضلة"
+
+msgid "Bookmarks Panel Settings"
+msgstr "تضبيطات لوحة المفضلة"
+
+msgid "Bottom"
+msgstr "أسفل"
+
+msgid "Breadcrumb Navigation"
+msgstr "إبحار التتابع"
+
+msgid "Browse..."
+msgstr "تصفح"
+
+msgid "Bytes"
+msgstr "بايت"
+
+msgid "Cancel"
+msgstr "تراجع"
+
+msgid "Case sensitivity"
+msgstr "شكل الحروف"
+
+msgid "Clear List"
+msgstr "إخلاء القائمة"
+
+msgid "Close"
+msgstr "غلق"
+
+msgid "Close Tab"
+msgstr "غلق الصفحة"
+
+msgid "Copy"
+msgstr "نسخ"
+
+msgid "Copy Path"
+msgstr "نسخ مسار"
+
+msgid "Copy of active tab"
+msgstr "نسخ الصفحة الحالية"
+
+msgid "Create"
+msgstr "أضف جديد"
+
+msgid "Create New Translation"
+msgstr "ترجمة جديدة"
+
+msgid "Create new translation."
+msgstr "ترجمة جديدة"
+
+msgid "CubicExplore Home Page"
+msgstr "صفحة كيوبيك إكسبلورر الرئيسية"
+
+msgid "CubicExplorer Options"
+msgstr "تضبيطات كيوبيك أكسبلورر"
+
+msgid "Custom..."
+msgstr "تخصيص"
+
+msgid "Customize"
+msgstr "تخصيص"
+
+msgid "Customizer..."
+msgstr "مُعدل..."
+
+msgid "Cut"
+msgstr "قص"
+
+msgid "Date Accessed"
+msgstr "تاريخ الفتح"
+
+msgid "Date Created"
+msgstr "تاريخ الإنشاء"
+
+msgid "Date Modified"
+msgstr "تاريخ التعديل"
+
+msgid "Default"
+msgstr "إفتراضي"
+
+msgid "Delete"
+msgstr "إلغاء"
+
+msgid "Delete active session."
+msgstr "إلغاء الجلسة الحالية."
+
+msgid "Desktop"
+msgstr "سطح المكتب"
+
+msgid "Details"
+msgstr "تفاصيل"
+
+msgid "Direction"
+msgstr "إتجاه"
+
+msgid "Disconnect Network Drive..."
+msgstr "فصل قرص الشبكة"
+
+msgid "Display"
+msgstr "عرض"
+
+msgid "Display Settings"
+msgstr "تضبيطات العرض"
+
+msgid "Drives"
+msgstr "أقراص"
+
+msgid "Drop Stack"
+msgstr "كومة"
+
+msgid "Duplicate"
+msgstr "إنسخ"
+
+msgid "Duplicate Tab"
+msgstr "إنسخ صفحة"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Edit Session"
+msgstr "تعديل الجلسة"
+
+msgid "Edit session properties."
+msgstr "تعديل تضبيطات الجلسة."
+
+msgid "Editor Options..."
+msgstr "تضبيطات المحرر..."
+
+msgid "Empty Recycle Bin"
+msgstr "تفريغ سلة المحذوفات"
+
+msgid "English (default)"
+msgstr "الإنجليزية (إفتراضية)"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "File"
+msgstr "ملف"
+
+msgid "File Search"
+msgstr "بحث عن ملف"
+
+msgid "Fileview"
+msgstr "عرض ملف"
+
+msgid "Fileview Settings"
+msgstr "تضبيطات عرض ملف"
+
+msgid "Filmstrip"
+msgstr "شريط فيلم"
+
+msgid "Filters"
+msgstr "مرشح"
+
+msgid "Find Next"
+msgstr "بحث عن التالي"
+
+msgid "Find Previous"
+msgstr "بحث عن السابق"
+
+msgid "Folder Path"
+msgstr "مسار مجلد"
+
+msgid "Folder Up"
+msgstr "المجلد الأعلي"
+
+msgid "Folders"
+msgstr "مجلدات"
+
+msgid "Folders Panel Settings"
+msgstr "تضبيطات لوحة المجلدات"
+
+msgid "Format"
+msgstr "صيغة"
+
+msgid "Forward"
+msgstr "التالي"
+
+msgid "Fullscreen"
+msgstr "شاشة كاملة"
+
+msgid "General"
+msgstr "عام"
+
+msgid "General Settings"
+msgstr "تضبيطات عامة"
+
+msgid "Group By"
+msgstr "تجميع بواسطة"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid "Hex"
+msgstr "هيكس"
+
+msgid "Highlight row completely"
+msgstr "تأشير الصف كاملا"
+
+msgid "Highlighter"
+msgstr "مؤشر"
+
+msgid "Image"
+msgstr "صورة"
+
+msgid "Insert"
+msgstr "أدخل"
+
+msgid "Invert Selection"
+msgstr "عكس الإختيار"
+
+msgid "KB"
+msgstr "قاعدة المعرفة"
+
+msgid "Language"
+msgstr "لغة"
+
+msgid "Language Editor"
+msgstr "محرر اللغة"
+
+msgid "Large Icons"
+msgstr "أيقونات كبيرة"
+
+msgid "Launch Files Only"
+msgstr "تشغيل ملفات فقط"
+
+msgid "Layouts"
+msgstr "نماذج"
+
+msgid "Left"
+msgstr "يسار"
+
+msgid "List"
+msgstr "قائمة"
+
+msgid "Load Skin..."
+msgstr "تحميل سمة..."
+
+msgid "Load skin from file"
+msgstr "تحميل سمة من ملف"
+
+msgid "Load this session on startup."
+msgstr "حمل هذه الجلسة عن البداية."
+
+msgid "Loading..."
+msgstr "تحميل..."
+
+msgid "MB"
+msgstr "ميجا بايت"
+
+msgid "Map Network Drive..."
+msgstr "توصيل قرص شبكة..."
+
+msgid "Modified"
+msgstr "معدل"
+
+msgid "More..."
+msgstr "مزيد..."
+
+msgid "Name"
+msgstr "الإسم"
+
+msgid "Name Only"
+msgstr "الإسم فقط"
+
+msgid "Navigation"
+msgstr "إبحار"
+
+msgid "New"
+msgstr "جديد"
+
+msgid "New Folder"
+msgstr "مجلد جديد"
+
+msgid "New Session"
+msgstr "جلسة جديدة"
+
+msgid "No Extension"
+msgstr "بدون إمتداد"
+
+msgid "No file loaded."
+msgstr "لا يوجد ملفات"
+
+msgid "None"
+msgstr "لا شئ"
+
+msgid "OK"
+msgstr "حسنا"
+
+msgid "Open All in Tabs"
+msgstr "إفتح الكل في صفحات"
+
+msgid "Open Command Prompt"
+msgstr "إفتح سطر الأوامر"
+
+msgid "Open in new tab by default"
+msgstr "إفتح في صفحة جديدة دائما"
+
+msgid "Open new tab as"
+msgstr "إفتح صفحة جديدة علي إنها ..."
+
+msgid "Open..."
+msgstr "إفتح..."
+
+msgid "Options"
+msgstr "تضبيطات"
+
+msgid "Options..."
+msgstr "تضبيطات..."
+
+msgid "Original"
+msgstr "أصلي"
+
+msgid "Override"
+msgstr "يجتاز"
+
+msgid "Panels"
+msgstr "لوحات"
+
+msgid "Paste"
+msgstr "لصق"
+
+msgid "Paste Shortcut"
+msgstr "لصق إختصار"
+
+msgid "Path"
+msgstr "مسار"
+
+msgid "Pause"
+msgstr "توقف"
+
+msgid "Properties"
+msgstr "خصائص"
+
+msgid "Properties..."
+msgstr "خصائص..."
+
+msgid "Publish Translation"
+msgstr "نشر الترجمة"
+
+msgid "Quickview"
+msgstr "عرض سريع"
+
+msgid "Redo"
+msgstr "إعادة"
+
+msgid "Refresh"
+msgstr "إعادة تحميل"
+
+msgid "Regular expression"
+msgstr "تعبير قياسي"
+
+msgid "Relative"
+msgstr "نسبي"
+
+msgid "Reload"
+msgstr "أعد تحميل"
+
+msgid "Remember Tabs"
+msgstr "تذكر الصفحات"
+
+msgid "Rename"
+msgstr "إعادة تسمية"
+
+msgid "Replace"
+msgstr "إستبدال"
+
+msgid "Replace All"
+msgstr "إستبدال الكل"
+
+msgid "Reuse already open tabs"
+msgstr "إعادة إستخدام الصفحات المفتوحة"
+
+msgid "Right"
+msgstr "يمين"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Save As..."
+msgstr "حفظ بإسم..."
+
+msgid "Save active session with new name."
+msgstr "إحفظ الجلسة الحالية بإسم جديد."
+
+msgid "Save active session."
+msgstr "إحفظ الجلسة الحالية."
+
+msgid "Save changes before closing?"
+msgstr "حفظ التعديلات قبل الإغلاق؟"
+
+msgid "Save changes."
+msgstr "حفظ التعديلات."
+
+msgid "Save changes?"
+msgstr "حفظ التعديلات؟"
+
+msgid "Save settings automatically."
+msgstr "حفظ التعديلات أليا."
+
+msgid "Save/Load Settings"
+msgstr "حفظ/تحميل التضبيطات"
+
+msgid "Scroll Left"
+msgstr "إنزلق لليسار"
+
+msgid "Scroll Right"
+msgstr "إنزلق لليمين"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Search File Mask"
+msgstr "علامة البحث في الملف"
+
+msgid "Search Word or Phrase in File Name"
+msgstr "بحث عن كلمة أو جملة في إسم الملف"
+
+msgid "Search and Replace"
+msgstr "بحث و إستبدال"
+
+msgid "Search from cursor"
+msgstr "بحث من المؤشر"
+
+msgid "Search in Directory"
+msgstr "بحث في مجلد"
+
+msgid "Select All"
+msgstr "إختر الجميع"
+
+msgid "Select default folder for new tabs."
+msgstr "إختر المجلد الإفتراضي للصفحات الجديدة"
+
+msgid "Select previous folder"
+msgstr "إختر المجلد السابق"
+
+msgid "Selected"
+msgstr "المختار"
+
+msgid "Selected text only"
+msgstr "النص المختار فقط"
+
+msgid "Separator"
+msgstr "فاصل"
+
+msgid "Session Name"
+msgstr "إسم الجلسة"
+
+msgid "Sessions"
+msgstr "جلسات"
+
+msgid "Short Folder Path"
+msgstr "مسار مجلد مختصر"
+
+msgid "Short Name Only"
+msgstr "إسم مختصر فقط"
+
+msgid "Short Path"
+msgstr "مسار مختصر"
+
+msgid "Show All Files"
+msgstr "أظهر كل الملفات"
+
+msgid "Show Extensions"
+msgstr "أظهر الإمتدادت"
+
+msgid "Show Folders"
+msgstr "أظهر المجلدات"
+
+msgid "Show Hidden Files"
+msgstr "أظهر الملفات المختفية"
+
+msgid "Show Hints"
+msgstr "أظهر تلميحات"
+
+msgid "Show Path in Title bar"
+msgstr "أظهر المسار في شريط العنوان"
+
+msgid "Show Statusbar"
+msgstr "أظهر شريط الحالة"
+
+msgid "Show Toolbar"
+msgstr "أظهر شريط الأدوات"
+
+msgid "Show in Groups"
+msgstr "أظهر في مجموعات"
+
+msgid "Single Instance Only"
+msgstr "جلسة واحدة فقط"
+
+msgid "Single click mode"
+msgstr "نظام النقرة-الواحدة"
+
+msgid "Size"
+msgstr "حجم"
+
+msgid "Small Icons"
+msgstr "أيقونات صغيرة"
+
+msgid "Stack"
+msgstr "كومة"
+
+msgid "Start"
+msgstr "بداية"
+
+msgid "Status Bar"
+msgstr "شريط الحالة"
+
+msgid "Stop"
+msgstr "أقف"
+
+msgid "Subdirectories"
+msgstr "مجلدات فرعية"
+
+msgid "Support Forum"
+msgstr "منتديات الدعم"
+
+msgid "Switch to a new tab immediately"
+msgstr "تحويل إلي صفحة جديدة فورا"
+
+msgid "Tabs"
+msgstr "صفحات"
+
+msgid "Tabs Settings"
+msgstr "تضبيطات الصفحات"
+
+msgid "Target"
+msgstr "هدف"
+
+msgid "Text"
+msgstr "نص"
+
+msgid "Text Editor"
+msgstr "محرر النص"
+
+msgid "Theme"
+msgstr "سمة"
+
+msgid "Thumbnails"
+msgstr "مختصارات"
+
+msgid "Thumbs Position"
+msgstr "موضع المختصارات"
+
+msgid "Thumbs View Style"
+msgstr "إسلوب عرض المختصارات"
+
+msgid "Tiles"
+msgstr "مربعات"
+
+msgid "Toolbars"
+msgstr "شرائط الأدوات"
+
+msgid "Tools"
+msgstr "أدوات"
+
+msgid "Top"
+msgstr "أعلي"
+
+msgid "Total Size"
+msgstr "الحجم الإجمالي"
+
+msgid "Translate CubicExplorer"
+msgstr "ترجمة كيوبيك إكسبلورر"
+
+msgid "Translation"
+msgstr "ترجمة"
+
+msgid "Translation Revision:"
+msgstr "مراجعة الترجمة:"
+
+msgid "Translation Version"
+msgstr "إصدارة الترجمة"
+
+msgid "Translator's Email"
+msgstr "عنوان بريد المترجم"
+
+msgid "Translator's Name"
+msgstr "إسم المترجم"
+
+msgid "Transparency"
+msgstr "شفافية"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Undo"
+msgstr "تراجع"
+
+msgid "Untitled"
+msgstr "بدون إسم"
+
+msgid "Version:"
+msgstr "إصدارة:"
+
+msgid "View"
+msgstr "عرض"
+
+msgid "View Style"
+msgstr "إسلوب العرض"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "عند فتح مجلد/ملف في صفحة جديدة, إنتقل لها فورا"
+
+msgid "Whole words only"
+msgstr "كلمات كاملة فقط"
+
+msgid "Word List"
+msgstr "قائمة كلمات"
+
+msgid "Word Wrap"
+msgstr "عرض في سطور"
+

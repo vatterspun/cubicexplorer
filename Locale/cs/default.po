@@ -1,0 +1,718 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"CE-POT-Version: 1131\n"
+"CE-Language: Czech\n"
+"Last-Translator: Jan Helebrant <jhelebrant@seznam.cz>\n"
+"POT-Creation-Date:  \n"
+"PO-Revision-Date:  \n"
+"Language-Team:  \n"
+
+msgid "About CubicExplorer"
+msgstr "O programu CubicExplorer"
+
+msgid "About..."
+msgstr "O programu..."
+
+msgid "Actions"
+msgstr "Akce"
+
+msgid "Add Bookmark"
+msgstr "Přidat záložku"
+
+msgid "Add Category"
+msgstr "Přidat kategorii"
+
+msgid "Add Tab"
+msgstr "Přidat panel"
+
+msgid "Address Bar"
+msgstr "Lišta adresy"
+
+msgid "Always On Top"
+msgstr "Vždy na vrchu"
+
+msgid "Always Show Sort Columns"
+msgstr "Vždy zobrazit řadicí sloupce"
+
+msgid "Always sort folders first."
+msgstr "Vždy nejdřív seřadit složky"
+
+msgid "And Launch Files"
+msgstr "A spustit soubory"
+
+msgid "Application Revision:"
+msgstr "Revize aplikace:"
+
+msgid "Apply"
+msgstr "Použít"
+
+msgid "Apply changes."
+msgstr "Použít změny."
+
+msgid "Arrange By"
+msgstr "Uspořádat podle"
+
+msgid "Attributes"
+msgstr "Atributy"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Auto collapse tree"
+msgstr "Automaticky sbalit strom"
+
+msgid "Auto expand tree"
+msgstr "Automaticky rozbalit strom"
+
+msgid "Auto size cells in list view style."
+msgstr "Automaticky nastavit buňky v zobrazení seznamu."
+
+msgid "Automatic"
+msgstr "Automaticky"
+
+msgid "Back"
+msgstr "Zpět"
+
+msgid "Backward"
+msgstr "Dozadu"
+
+msgid "Bookmarks"
+msgstr "Záložky"
+
+msgid "Bookmarks Panel Settings"
+msgstr "Nastavení panelu záložek"
+
+msgid "Bottom"
+msgstr "Dole"
+
+msgid "Breadcrumb Navigation"
+msgstr "Drobková navigace"
+
+msgid "Browse..."
+msgstr "Procházet..."
+
+msgid "Bytes"
+msgstr "Bajtů"
+
+msgid "Cancel"
+msgstr "Storno"
+
+msgid "Case sensitivity"
+msgstr "Citlivé na malá/VELKÁ písmena"
+
+msgid "Clear List"
+msgstr "Vyčistit seznam"
+
+msgid "Clear filters on folder change"
+msgstr "Vyčistit filtry při změně složky"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Close Other Tabs"
+msgstr "Zavřít ostatní panely"
+
+msgid "Close Tab"
+msgstr "Zavřít panel"
+
+msgid "Close Tabs on Left"
+msgstr "Zavřít panely vlevo"
+
+msgid "Close Tabs on Right"
+msgstr "Zavřít panely vpravo"
+
+msgid "Copy"
+msgstr "Kopírovat"
+
+msgid "Copy Path"
+msgstr "Kopírovat cestu"
+
+msgid "Copy of active tab"
+msgstr "Kopie aktivního panelu"
+
+msgid "Create"
+msgstr "Vytvořit"
+
+msgid "Create New Translation"
+msgstr "Vytvořit nový překlad"
+
+msgid "Create new translation."
+msgstr "Vytvořit nový překlad"
+
+msgid "CubicExplore Home Page"
+msgstr "CubicExplore - domovská stránka"
+
+msgid "CubicExplorer Options"
+msgstr "CubicExplore - možnosti"
+
+msgid "Custom..."
+msgstr "Vlastní..."
+
+msgid "Customize"
+msgstr "Přizpůsobit"
+
+msgid "Customizer..."
+msgstr "Přizpůsobovač..."
+
+msgid "Cut"
+msgstr "Vyjmout"
+
+msgid "Date Accessed"
+msgstr "Otevřen dne"
+
+msgid "Date Created"
+msgstr "Vytvořen dne"
+
+msgid "Date Modified"
+msgstr "Změněn dne"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "Delete active session."
+msgstr "Smazat aktivní sezení."
+
+msgid "Desktop"
+msgstr "Plocha"
+
+msgid "Details"
+msgstr "Detaily"
+
+msgid "Direction"
+msgstr "Směr"
+
+msgid "Disconnect Network Drive..."
+msgstr "Odpojit síťový disk..."
+
+msgid "Display"
+msgstr "Zobrazení"
+
+msgid "Display Settings"
+msgstr "Nastavení zobrazení"
+
+msgid "Drives"
+msgstr "Disky"
+
+msgid "Drop Stack"
+msgstr "Upustit skupinu"
+
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+msgid "Duplicate Tab"
+msgstr "Duplikovat panel"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Edit Session"
+msgstr "Upravit sezení"
+
+msgid "Edit session properties."
+msgstr "Upravit vlastnosti sezení."
+
+msgid "Editor Options..."
+msgstr "Možnosti editoru..."
+
+msgid "Empty Recycle Bin"
+msgstr "Vysypat koš"
+
+msgid "English (default)"
+msgstr "Anglicky (výchozí)"
+
+msgid "Exit"
+msgstr "Konec"
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "File Search"
+msgstr "Hledání souboru"
+
+msgid "Fileview"
+msgstr "Zobrazení souboru"
+
+msgid "Fileview Settings"
+msgstr "Nastavení zobrazení souboru"
+
+msgid "Filmstrip"
+msgstr "Filmový pás"
+
+msgid "Filters"
+msgstr "Filtry"
+
+msgid "Find Next"
+msgstr "Najít další"
+
+msgid "Find Previous"
+msgstr "Najít předchozí"
+
+msgid "Folder Path"
+msgstr "Cesta ke složce"
+
+msgid "Folder Up"
+msgstr "O úroveň výš"
+
+msgid "Folders"
+msgstr "Složky"
+
+msgid "Folders Panel Settings"
+msgstr "Nastavení panelu složek"
+
+msgid "Format"
+msgstr "Formát"
+
+msgid "Forward"
+msgstr "Dopředu"
+
+msgid "Fullscreen"
+msgstr "Celá obrazovka"
+
+msgid "General"
+msgstr "Obecné"
+
+msgid "General Settings"
+msgstr "Obecná nastavení"
+
+msgid "Group By"
+msgstr "Seskupit podle"
+
+msgid "Help"
+msgstr "Nápověda"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Highlight row completely"
+msgstr "Zvýraznit celý řádek"
+
+msgid "Highlighter"
+msgstr "Zvýrazňovač"
+
+msgid "Image"
+msgstr "Obrázek"
+
+msgid "Insert"
+msgstr "Vložit"
+
+msgid "Invert Selection"
+msgstr "Vložit výběr"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Language Editor"
+msgstr "Editor jazyka"
+
+msgid "Large Icons"
+msgstr "Velké ikony"
+
+msgid "Launch Files Only"
+msgstr "Jen spustit soubory"
+
+msgid "Layouts"
+msgstr "Rozložení"
+
+msgid "Left"
+msgstr "Vlevo"
+
+msgid "List"
+msgstr "Seznam"
+
+msgid "Load Skin..."
+msgstr "Načíst skin..."
+
+msgid "Load skin from file"
+msgstr "Načíst skin ze souboru"
+
+msgid "Load this session on startup."
+msgstr "Načíst toto sezení při startu."
+
+msgid "Loading..."
+msgstr "Načítám..."
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Main Menu"
+msgstr "Hlavní menu"
+
+msgid "Map Network Drive..."
+msgstr "Namapovat síťový disk"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Modified"
+msgstr "Změněn"
+
+msgid "More..."
+msgstr "Více..."
+
+msgid "Name"
+msgstr "Název"
+
+msgid "Name Only"
+msgstr "Jen název"
+
+msgid "Navigation"
+msgstr "Navigace"
+
+msgid "New"
+msgstr "Nový"
+
+msgid "New Folder"
+msgstr "Nová složka"
+
+msgid "New Session"
+msgstr "Nové sezení"
+
+msgid "No Extension"
+msgstr "Bez přípony"
+
+msgid "No file loaded."
+msgstr "Žádný soubor nenačten."
+
+msgid "None"
+msgstr "Nic"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Open All in Tabs"
+msgstr "Otevřít vše v panelech"
+
+msgid "Open Command Prompt"
+msgstr "Otevřít příkazovou řádku"
+
+msgid "Open in new tab by default"
+msgstr "Otevřít v novém panelu jako výchozí"
+
+msgid "Open new tab as"
+msgstr "Otevřít nový panel jako"
+
+msgid "Open..."
+msgstr "Otevřít..."
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Options..."
+msgstr "Možnosti..."
+
+msgid "Original"
+msgstr "Originál"
+
+msgid "Override"
+msgstr "Přepsat"
+
+msgid "Panels"
+msgstr "Panely"
+
+msgid "Paste"
+msgstr "Vložit"
+
+msgid "Paste Shortcut"
+msgstr "Vložit zástupce"
+
+msgid "Path"
+msgstr "Cesta"
+
+msgid "Pause"
+msgstr "Pauza"
+
+msgid "Properties"
+msgstr "Vlastnosti"
+
+msgid "Properties..."
+msgstr "Vlastnosti..."
+
+msgid "Publish Translation"
+msgstr "Publikovat překlad"
+
+msgid "QuickView"
+msgstr "Náhled"
+
+msgid "Quickview"
+msgstr "Náhled"
+
+msgid "Redo"
+msgstr "Znovu"
+
+msgid "Refresh"
+msgstr "Obnovit"
+
+msgid "Regular expression"
+msgstr "Regulární výraz"
+
+msgid "Relative"
+msgstr "Relativní"
+
+msgid "Reload"
+msgstr "Znovu načíst"
+
+msgid "Rename"
+msgstr "Přejmenovat"
+
+msgid "Replace"
+msgstr "Nahradit"
+
+msgid "Replace All"
+msgstr "Nahradit vše"
+
+msgid "Reuse already open tabs"
+msgstr "Znovupoužít již otevřené panely"
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Save As..."
+msgstr "Uložit jako..."
+
+msgid "Save active session with new name."
+msgstr "Uložit aktivní sezení pod novým názvem."
+
+msgid "Save active session."
+msgstr "Uložit aktivní sezení."
+
+msgid "Save changes before closing?"
+msgstr "Uložit změny před zavřením?"
+
+msgid "Save changes."
+msgstr "Uložit změny."
+
+msgid "Save changes?"
+msgstr "Uložit změny?"
+
+msgid "Save settings automatically."
+msgstr "Uložit nastavení automaticky."
+
+msgid "Save/Load Settings"
+msgstr "Uložit/načíst nastavení"
+
+msgid "Scroll Left"
+msgstr "Rolovat vlevo"
+
+msgid "Scroll Right"
+msgstr "Rolovat vpravo"
+
+msgid "Search"
+msgstr "Hledat"
+
+msgid "Search File Mask"
+msgstr "Maska hledání souboru"
+
+msgid "Search Word or Phrase in File Name"
+msgstr "Hledat slovo nebo frázi v názvu souboru"
+
+msgid "Search and Replace"
+msgstr "Najít a nahradit"
+
+msgid "Search from cursor"
+msgstr "Hledat od pozice kurzoru"
+
+msgid "Search in Directory"
+msgstr "Hledat ve složce"
+
+msgid "Select All"
+msgstr "Vybrat vše"
+
+msgid "Select default folder for new tabs."
+msgstr "Vybrat výchozí složku pro nové panely."
+
+msgid "Select first item automatically"
+msgstr "Automaticky vybrat první položku"
+
+msgid "Select previous folder"
+msgstr "Vybrat předchozí složku"
+
+msgid "Selected"
+msgstr "Vybraný"
+
+msgid "Selected text only"
+msgstr "Pouze vybraný text"
+
+msgid "Separator"
+msgstr "Oddělovač"
+
+msgid "Session Name"
+msgstr "Název sezení"
+
+msgid "Sessions"
+msgstr "Sezení"
+
+msgid "Short Folder Path"
+msgstr "Krátká cesta ke složce"
+
+msgid "Short Name Only"
+msgstr "Pouze krátký název"
+
+msgid "Short Path"
+msgstr "Krátká cesta"
+
+msgid "Show All Files"
+msgstr "Zobrazit všechny soubory"
+
+msgid "Show Extensions"
+msgstr "Zobrazit přípony"
+
+msgid "Show Folders"
+msgstr "Zobrazit složky"
+
+msgid "Show Hidden Files"
+msgstr "Zobrazit skryté soubory"
+
+msgid "Show Hints"
+msgstr "Zobrazit tipy"
+
+msgid "Show Path in Title bar"
+msgstr "Zobrazit cestu v titulní liště"
+
+msgid "Show Statusbar"
+msgstr "Zobrazit stavovou lištu"
+
+msgid "Show Toolbar"
+msgstr "Zobrazit panely nástrojů"
+
+msgid "Show in Groups"
+msgstr "Zobrazit ve skupinách"
+
+msgid "Single Instance Only"
+msgstr "Pouze jedna instance"
+
+msgid "Single click mode"
+msgstr "Jednoklikový režim"
+
+msgid "Size"
+msgstr "Velikost"
+
+msgid "Small Icons"
+msgstr "Malé ikony"
+
+msgid "Stack"
+msgstr "Skupina"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Status Bar"
+msgstr "Stavová lišta"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Subdirectories"
+msgstr "Podložky"
+
+msgid "Support Forum"
+msgstr "Fórum podpory"
+
+msgid "Switch to a new tab immediately"
+msgstr "Hned přepnout na nový panel"
+
+msgid "Tabs"
+msgstr "Panely"
+
+msgid "Tabs Settings"
+msgstr "Nastavení panelů"
+
+msgid "Target"
+msgstr "Cíl"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Text Editor"
+msgstr "Textový editor"
+
+msgid "Theme"
+msgstr "Téma"
+
+msgid "Thumbnails"
+msgstr "Náhledy"
+
+msgid "Thumbs Position"
+msgstr "Pozice náhledů"
+
+msgid "Thumbs View Style"
+msgstr "Sytl zobrazení náhledů"
+
+msgid "Tiles"
+msgstr "Dlaždice"
+
+msgid "Toolbars"
+msgstr "Panely nástrojů"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Top"
+msgstr "Nahoře"
+
+msgid "Total Size"
+msgstr "Celková velikost"
+
+msgid "Translate CubicExplorer"
+msgstr "Přeložte CubicExplorer"
+
+msgid "Translation"
+msgstr "Překlad"
+
+msgid "Translation Revision:"
+msgstr "Revize překladu:"
+
+msgid "Translation Version"
+msgstr "Verze překladu"
+
+msgid "Translator's Email"
+msgstr "Email překladatele"
+
+msgid "Translator's Name"
+msgstr "Jméno překladatele"
+
+msgid "Transparency"
+msgstr "Průhledost"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Undo"
+msgstr "Zpět"
+
+msgid "Untitled"
+msgstr "Bez názvu"
+
+msgid "Version:"
+msgstr "Verze:"
+
+msgid "View"
+msgstr "Zobrazit"
+
+msgid "View Style"
+msgstr "Styl zobrazení"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "Když otevřu složku/soubor v novém panelu, hned na něj přepni"
+
+msgid "Whole words only"
+msgstr "Pouze celá slova"
+
+msgid "Word List"
+msgstr "Seznam slov"
+
+msgid "Word Wrap"
+msgstr "Zalamování slov"
+

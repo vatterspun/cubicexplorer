@@ -1,0 +1,874 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"CE-POT-Version: 1228\n"
+"CE-Language: Hebrew\n"
+"Last-Translator: AF <ahron2007@gmail.com>\n"
+
+msgid "%d folder(s) searched and %d file(s) found in %.3f second(s)"
+msgstr "נערך חיפוש ב %d תיקיות ו %d קבצים נמצאו ב %.3f שניות"
+
+msgid "About CubicExplorer"
+msgstr "CubicExplorer אודות "
+
+msgid "About..."
+msgstr "...אודות"
+
+msgid "Accessed"
+msgstr "גישה"
+
+msgid "Actions"
+msgstr "פעולות"
+
+msgid "Add Bookmark"
+msgstr "הוסף סימניה"
+
+msgid "Add Category"
+msgstr "הוסף קטגוריה"
+
+msgid "Add History Item"
+msgstr "הוסף פריט היסטוריה"
+
+msgid "Add Tab"
+msgstr "הוסף לשונית"
+
+msgid "Address Bar"
+msgstr "שורת הכתובת"
+
+msgid "Advanced"
+msgstr "מתקדם"
+
+msgid "Advanced Settings"
+msgstr "הגדרות מתקדמות"
+
+msgid "After Date:"
+msgstr "לאחר תאריך:"
+
+msgid "After Time:"
+msgstr "לאחר שעה:"
+
+msgid "All"
+msgstr "הכל"
+
+msgid "Always On Top"
+msgstr "תמיד עליון"
+
+msgid "Always Show Sort Columns"
+msgstr "הצג תמיד עמודות מיון"
+
+msgid "Always sort folders first."
+msgstr "הצג תמיד תיקיות קודם"
+
+msgid "And Launch Files"
+msgstr "הפעלת קבצים"
+
+msgid "Application Revision:"
+msgstr ""
+
+msgid "Apply"
+msgstr "החל"
+
+msgid "Apply changes."
+msgstr ""
+
+msgid "Are you sure you want to clear session history?"
+msgstr ""
+
+msgid "Are you sure you want to delete this session?"
+msgstr ""
+
+msgid "Arrange By"
+msgstr "מיין לפי"
+
+msgid "At Least:"
+msgstr ""
+
+msgid "At Most:"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Auto"
+msgstr "אוטומטי"
+
+msgid "Auto collapse tree"
+msgstr "צימצום עץ אוטמטי"
+
+msgid "Auto expand tree"
+msgstr "הרחבת עץ אוטמטית"
+
+msgid "Auto size cells in list view style."
+msgstr ""
+
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Back"
+msgstr "הקודם"
+
+msgid "Backward"
+msgstr "צעד לאחור"
+
+msgid "Before Date:"
+msgstr ""
+
+msgid "Before Time:"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr "סימניות"
+
+msgid "Bookmarks Panel Settings"
+msgstr "הגדרות לוח סימניות"
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Breadcrumb Navigation"
+msgstr ""
+
+msgid "Browse..."
+msgstr "...עיון"
+
+msgid "Bytes"
+msgstr ""
+
+msgid "Cancel"
+msgstr "ביטול"
+
+msgid "Cancelled"
+msgstr "בוטל"
+
+msgid "Case Sensitive"
+msgstr ""
+
+msgid "Case sensitivity"
+msgstr ""
+
+msgid "Clear Filters"
+msgstr "מחק מסננים"
+
+msgid "Clear History"
+msgstr "מחק היסטוריה"
+
+msgid "Clear List"
+msgstr "מחק רשימה"
+
+msgid "Clear Results"
+msgstr ""
+
+msgid "Clear filter history"
+msgstr ""
+
+msgid "Clear filters on folder change"
+msgstr ""
+
+msgid "Close"
+msgstr "סגור"
+
+msgid "Close Other Tabs"
+msgstr "סגור לשוניות אחרים"
+
+msgid "Close Tab"
+msgstr "סגור לשונית"
+
+msgid "Close Tabs on Left"
+msgstr "סגור לשוניות מצד שמאל"
+
+msgid "Close Tabs on Right"
+msgstr "סגור לשוניות מצד ימין"
+
+msgid "Compressed"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Continue from last time"
+msgstr "המשך מהפעלה קודמת"
+
+msgid "Copy"
+msgstr "העתק"
+
+msgid "Copy Path"
+msgstr "העתק כתובת"
+
+msgid "Copy of active tab"
+msgstr "העתק לשונית פעילה"
+
+msgid "Create"
+msgstr "צור"
+
+msgid "Create New Translation"
+msgstr "צור שפה חדשה"
+
+msgid "Create new translation."
+msgstr "צור תרגום חדש"
+
+msgid "Created"
+msgstr "יוצר"
+
+msgid "CubicExplore Home Page"
+msgstr "דף הבית CubicExplore"
+
+msgid "CubicExplorer Options"
+msgstr " CubicExplorer אפשרויות "
+
+msgid "Custom..."
+msgstr "...מותאם אישית "
+
+msgid "Customize"
+msgstr "התאמה אישית"
+
+msgid "Customizer..."
+msgstr "...התאמה אישית"
+
+msgid "Cut"
+msgstr "גזור"
+
+msgid "Date && Time"
+msgstr "שעה ותאריך"
+
+msgid "Date Accessed"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "Delete"
+msgstr "מחיקה"
+
+msgid "Desktop"
+msgstr "שולחן עבודה"
+
+msgid "Details"
+msgstr "פרטים"
+
+msgid "Direction"
+msgstr ""
+
+msgid "Disconnect Network Drive..."
+msgstr "...ניתוק כונני רשת"
+
+msgid "Display"
+msgstr "תצוגה"
+
+msgid "Display Settings"
+msgstr "הגדרות תצוגה"
+
+msgid "Do you want to override existing session?"
+msgstr ""
+
+msgid "Donate"
+msgstr "תרומה"
+
+msgid "Drives"
+msgstr "מנהלי התקן"
+
+msgid "Drop Stack"
+msgstr "סל קבצים"
+
+msgid "DualView"
+msgstr ""
+
+msgid "Duplicate"
+msgstr "שכפל"
+
+msgid "Duplicate Tab"
+msgstr "שכפל לשונית"
+
+msgid "Edit"
+msgstr "עריכה"
+
+msgid "Editor Options..."
+msgstr "...אפשרויות עורך "
+
+msgid "Empty Recycle Bin"
+msgstr "רוקן את סל המיחזור"
+
+msgid "English (default)"
+msgstr "(אנגלית (ברירת מחדל"
+
+msgid "Enter each file mask on a separate line."
+msgstr ""
+
+msgid "Exclude File Masks:"
+msgstr ""
+
+msgid "Exit"
+msgstr "יציאה"
+
+msgid "File"
+msgstr "קובץ"
+
+msgid "File Contains:"
+msgstr ""
+
+msgid "File Name Mask"
+msgstr "שם קובץ בלבד"
+
+msgid "File Search"
+msgstr "חיפוש קובץ"
+
+msgid "Fileview"
+msgstr "תצוגת קובץ"
+
+msgid "Fileview Settings"
+msgstr "הגדרות תצוגת קובץ"
+
+msgid "Filmstrip"
+msgstr "סרט שקופיות"
+
+msgid "Filters"
+msgstr "סינון"
+
+msgid "Find Next"
+msgstr "חפש את הבא"
+
+msgid "Find Previous"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Focus"
+msgstr ""
+
+msgid "Focus Addressbar"
+msgstr ""
+
+msgid "Folder Path"
+msgstr "כתובת תיקיה"
+
+msgid "Folder Up"
+msgstr "תיקיה למעלה"
+
+msgid "Folders"
+msgstr "תיקיות"
+
+msgid "Folders Panel Settings"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Forward"
+msgstr "הבא"
+
+msgid "Fullscreen"
+msgstr "מסך מלא"
+
+msgid "GB"
+msgstr ""
+
+msgid "General"
+msgstr "כללי"
+
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+msgid "Group By"
+msgstr "קבץ לפי"
+
+msgid "Help"
+msgstr "עזרה"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hidden"
+msgstr "מוסתר"
+
+msgid "Highlight row completely"
+msgstr ""
+
+msgid "Highlighter"
+msgstr ""
+
+msgid "History"
+msgstr "היסטוריה"
+
+msgid "Image"
+msgstr "תמונה"
+
+msgid "Include File Masks:"
+msgstr ""
+
+msgid "Include Subfolders"
+msgstr "כלול תיקיות משנה"
+
+msgid "Info Bar"
+msgstr "סרגל מידע"
+
+msgid "Insert"
+msgstr ""
+
+msgid "Invert Selection"
+msgstr "הפוך בחירה"
+
+msgid "Item(s)"
+msgstr ""
+
+msgid "KB"
+msgstr ""
+
+msgid "Language"
+msgstr "שפה"
+
+msgid "Language Editor"
+msgstr "עורך השפה"
+
+msgid "Large Icons"
+msgstr "סמלים גדולים"
+
+msgid "Launch Files Only"
+msgstr "הפעלת קבצים בלבד"
+
+msgid "Layout"
+msgstr ""
+
+msgid "Left"
+msgstr "שמאל"
+
+msgid "List"
+msgstr "רשימה"
+
+msgid "Load Skin..."
+msgstr ""
+
+msgid "Load session"
+msgstr ""
+
+msgid "Load skin from file"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Location"
+msgstr "מיקום"
+
+msgid "MB"
+msgstr ""
+
+msgid "Main Menu"
+msgstr "תפריט ראשי"
+
+msgid "Manage Sessions"
+msgstr ""
+
+msgid "Manage..."
+msgstr "..ניהול"
+
+msgid "Map Network Drive..."
+msgstr "...מיפוי כונן רשת"
+
+msgid "Max Level:"
+msgstr ""
+
+msgid "Menu"
+msgstr "תפריט"
+
+msgid "Min Level:"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "More..."
+msgstr "...יותר"
+
+msgid "Name"
+msgstr "שם"
+
+msgid "Name && Location"
+msgstr "שם ומיקום"
+
+msgid "Name Only"
+msgstr "שם בלבד"
+
+msgid "Navigation"
+msgstr ""
+
+msgid "New"
+msgstr "חדש"
+
+msgid "New Folder"
+msgstr "תיקיה חדשה"
+
+msgid "No Extension"
+msgstr "אין סיומת"
+
+msgid "No Selection"
+msgstr "לא נבחר"
+
+msgid "No file loaded."
+msgstr ".קובץ לא נטען"
+
+msgid "None"
+msgstr "ללא"
+
+msgid "OK"
+msgstr "אישור"
+
+msgid "On Startup"
+msgstr "בהפעלה"
+
+msgid "Open All in Tabs"
+msgstr "פתח הכל בלשוניות"
+
+msgid "Open Command Prompt"
+msgstr ""
+
+msgid "Open Containing Folder"
+msgstr ""
+
+msgid "Open default tab"
+msgstr "פתיחת לשונית ברירת מחדל"
+
+msgid "Open in new tab by default"
+msgstr "פתח בלשונית חדשה ברירת מחדל"
+
+msgid "Open new tab as"
+msgstr "מצב פתיחת לשונית חדשה"
+
+msgid "Open..."
+msgstr "...פתיחה"
+
+msgid "Options"
+msgstr "אפשריות"
+
+msgid "Options..."
+msgstr "...אפשריות"
+
+msgid "Original"
+msgstr "מקורי"
+
+msgid "Override"
+msgstr ""
+
+msgid "Panels"
+msgstr "לוחות"
+
+msgid "Paste"
+msgstr "הדבק"
+
+msgid "Paste Shortcut"
+msgstr "הדבק קיצור דרך"
+
+msgid "Path"
+msgstr "כתובת"
+
+msgid "Properties"
+msgstr "מאפיינים"
+
+msgid "Properties..."
+msgstr "...מאפיינים"
+
+msgid "Publish Translation"
+msgstr ""
+
+msgid "QuickView"
+msgstr "תצוגה מהירה"
+
+msgid "Quickview"
+msgstr "תצוגה מהירה"
+
+msgid "Read Only"
+msgstr "קריאה בלבד"
+
+msgid "Redo"
+msgstr ""
+
+msgid "Refresh"
+msgstr "רענן"
+
+msgid "Regular expression"
+msgstr ""
+
+msgid "Relative"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Rename"
+msgstr "שנה שם"
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace All"
+msgstr ""
+
+msgid "Reuse already open tabs"
+msgstr "שימוש חוזר בלשוניות פתוחות "
+
+msgid "Right"
+msgstr "ימין"
+
+msgid "Save"
+msgstr "שמירה"
+
+msgid "Save As..."
+msgstr "...שמירה בשם"
+
+msgid "Save Session"
+msgstr ""
+
+msgid "Save active session."
+msgstr ""
+
+msgid "Save changes before closing?"
+msgstr ""
+
+msgid "Save changes."
+msgstr ""
+
+msgid "Save changes?"
+msgstr ""
+
+msgid "Save settings automatically."
+msgstr ""
+
+msgid "Save..."
+msgstr "...שמירה"
+
+msgid "Save/Load Settings"
+msgstr ""
+
+msgid "Scroll Left"
+msgstr ""
+
+msgid "Scroll Right"
+msgstr ""
+
+msgid "Search"
+msgstr "חיפוש"
+
+msgid "Search and Replace"
+msgstr ""
+
+msgid "Search from cursor"
+msgstr ""
+
+msgid "Searching from"
+msgstr ""
+
+msgid "Select All"
+msgstr "בחר הכל"
+
+msgid "Select default folder for new tabs."
+msgstr ""
+
+msgid "Select first item automatically"
+msgstr ""
+
+msgid "Select previous folder"
+msgstr ""
+
+msgid "Selected"
+msgstr "נבחרו"
+
+msgid "Selected text only"
+msgstr "בחר טקסט בלבד"
+
+msgid "Separator"
+msgstr ""
+
+msgid "Session Name"
+msgstr ""
+
+msgid "Sessions"
+msgstr "הפעלות"
+
+msgid "Short Folder Path"
+msgstr "כתובת תיקיה"
+
+msgid "Short Name Only"
+msgstr "שם בלבד"
+
+msgid "Short Path"
+msgstr "העתק כתובת"
+
+msgid "Show All Files"
+msgstr "הצג כל הקבצים"
+
+msgid "Show Extensions"
+msgstr "הצג סיומת קבצים"
+
+msgid "Show Folders"
+msgstr "הצג תיקיות"
+
+msgid "Show Hidden Files"
+msgstr "הצג קבצים מוסתרים"
+
+msgid "Show Hints"
+msgstr ""
+
+msgid "Show Path in Title bar"
+msgstr "הצג כתובת בסרגל כלים"
+
+msgid "Show Session Manager"
+msgstr ""
+
+msgid "Show Statusbar"
+msgstr "הצג שורת מצב"
+
+msgid "Show Toolbar"
+msgstr "הצג סרגל כלים"
+
+msgid "Show in Groups"
+msgstr "הצג בקבוצות"
+
+msgid "Single Instance Only"
+msgstr ""
+
+msgid "Single click mode"
+msgstr "מצב לחיצה אחת"
+
+msgid "Size"
+msgstr "גודל"
+
+msgid "Size && Attributes"
+msgstr "גודל ותכונות"
+
+msgid "Small Icons"
+msgstr "סמלים קטנים"
+
+msgid "Stack"
+msgstr ""
+
+msgid "Status Bar"
+msgstr "שורת מצב"
+
+msgid "Stop"
+msgstr "עצור"
+
+msgid "Strict"
+msgstr ""
+
+msgid "Support Forum"
+msgstr "פורום תמיכה"
+
+msgid "Switch to Next Tab"
+msgstr ""
+
+msgid "Switch to a new tab immediately"
+msgstr "מעבר אל הלשונית החדשה מיד"
+
+msgid "Swith to Previous Tab"
+msgstr ""
+
+msgid "System"
+msgstr "מערכת"
+
+msgid "Tabs"
+msgstr "לשוניות"
+
+msgid "Tabs Settings"
+msgstr "הגדרות לשוניות"
+
+msgid "Target"
+msgstr ""
+
+msgid "Text"
+msgstr "טקסט"
+
+msgid "Text Editor"
+msgstr "עריכת טקסט"
+
+msgid "Theme"
+msgstr "ערכת נושא"
+
+msgid "Thumbnails"
+msgstr "תמונות מוקטנות"
+
+msgid "Thumbs Position"
+msgstr ""
+
+msgid "Thumbs View Style"
+msgstr ""
+
+msgid "Tiles"
+msgstr "משבצות"
+
+msgid "Toolbars"
+msgstr "סרגלי כלים"
+
+msgid "Tools"
+msgstr "כלים"
+
+msgid "Top"
+msgstr ""
+
+msgid "Total Size"
+msgstr "גודל כללי"
+
+msgid "Translate CubicExplorer"
+msgstr "תרגם CubicExplorer"
+
+msgid "Translation"
+msgstr "תרגום"
+
+msgid "Translation Revision:"
+msgstr "תרגום מעודכן:"
+
+msgid "Translation Version"
+msgstr "גירסת תרגום"
+
+msgid "Translator's Email"
+msgstr "דוא"ל מתרגם"
+
+msgid "Translator's Name"
+msgstr "שם מתרגם"
+
+msgid "Transparency"
+msgstr "שקיפות"
+
+msgid "Type"
+msgstr "סוג"
+
+msgid "Undo"
+msgstr "בטל"
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Use strict filtering (wildcards are ? and *)"
+msgstr ""
+
+msgid "Version:"
+msgstr "...:גירסה"
+
+msgid "View"
+msgstr "תצוגה"
+
+msgid "View Style"
+msgstr "סגנון תצוגה"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "כשאני פותחת את התיקיה / הקובץ בלשונית חדשה, להחליף אותו מיד"
+
+msgid "Whole Word"
+msgstr ""
+
+msgid "Whole words only"
+msgstr ""
+
+msgid "Word List"
+msgstr "רשימת מילים"
+
+msgid "Word Wrap"
+msgstr "גלישת שורות"
+
+msgid "Word or Phrase in File Name"
+msgstr "מילה או צירוף מילים בשם קובץ"
+

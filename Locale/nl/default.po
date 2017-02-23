@@ -1,0 +1,1540 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"CE-POT-Version: 1434\n"
+"CE-Language: Dutch\n"
+"Last-Translator: Karel Baerten <kareltje@scarlet.be>\n"
+
+msgid "%d file(s) failed to download!"
+msgstr "%d bestand(en) niet kunnen downloaden !"
+
+msgid "%d folder(s) searched and %d item(s) found in %.3f second(s)"
+msgstr "%d map(pen) doorzocht en %d item(s) gevonden in %.3f second(en)."
+
+msgid "%d of %d"
+msgstr "%d van %d"
+
+msgid "..."
+msgstr "..."
+
+msgid "A long time ago"
+msgstr "Lang geleden"
+
+msgid "A month ago"
+msgstr "Een maand geleden"
+
+msgid "About CubicExplorer"
+msgstr "Over CubicExplorer"
+
+msgid "About..."
+msgstr "Over..."
+
+msgid "Accessed"
+msgstr "Geopend"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Actual"
+msgstr "Actueel"
+
+msgid "Add"
+msgstr "Voeg toe"
+
+msgid "Add Bookmark"
+msgstr "Bladwijzer toevoegen"
+
+msgid "Add Category"
+msgstr "Categorie toevoegen"
+
+msgid "Add History Item"
+msgstr "Historisch Item toevoegen"
+
+msgid "Add Session"
+msgstr "Sessie toevoegen"
+
+msgid "Add Tab"
+msgstr "Tabblad toevoegen"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Address Bar"
+msgstr "Adresbalk"
+
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+msgid "Advanced Settings"
+msgstr "Uitgebreide Instellingen"
+
+msgid "After Date:"
+msgstr "Na datum :"
+
+msgid "After Time:"
+msgstr "Na tijd :"
+
+msgid "All"
+msgstr "Alles"
+
+msgid "Allow Move"
+msgstr "Verplaatsen toestaan"
+
+msgid "Always On Top"
+msgstr "Altijd op de voorgrond"
+
+msgid "Always Show Sort Columns"
+msgstr "Toon altijd gesorteerde kolommen"
+
+msgid "Always sort folders first."
+msgstr "Sorteer mappen eerst"
+
+msgid "And Launch Files"
+msgstr "En open bestanden"
+
+msgid "Application Revision:"
+msgstr "Programma Versie :"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Apply Changes"
+msgstr "Wijzigingen Toepassen"
+
+msgid "Apply changes now?"
+msgstr "Wijzigingen nu toepassen ?"
+
+msgid "Apply changes."
+msgstr "Wijzigingen toepassen."
+
+msgid "Archiver"
+msgstr "Archiveren"
+
+msgid "Are you sure you want to clear session history?"
+msgstr "Ben je zeker dat je de Sessie Historiek wil wissen ?"
+
+msgid "Are you sure you want to clear the list?"
+msgstr "Ben je zeker dat je de lijst wil wissen ?"
+
+msgid "Are you sure you want to delete selected bookmarks?"
+msgstr "Ben je zeker dat je de geselecteerde Bladwijzers wil wissen ?"
+
+msgid "Are you sure you want to delete this session?"
+msgstr "Ben je zeker dat je deze Sessie wil wissen ?"
+
+msgid "Are you sure you want to do that?"
+msgstr "Ben je zeker dat je dit wil doen ?"
+
+msgid "Are you sure you want to restore?"
+msgstr "Ben je zeker dat je alles wil vernieuwen ?"
+
+msgid "Arrange By"
+msgstr "Sorteer op"
+
+msgid "At Least:"
+msgstr "Ten minste :"
+
+msgid "At Most:"
+msgstr "Ten hoogste :"
+
+msgid "Attributes"
+msgstr "Kenmerken"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Auto"
+msgstr "Automatisch"
+
+msgid "Auto Collapse Trees"
+msgstr "Auto mappen inklappen"
+
+msgid "Auto Expand Trees"
+msgstr "Auto mappen uitklappen"
+
+msgid "Auto Save History"
+msgstr "Historiek automatisch opslaan"
+
+msgid "Auto collapse tree"
+msgstr "Auto vertakkingen inklappen"
+
+msgid "Auto expand tree"
+msgstr "Auto vertakkingen uitklappen"
+
+msgid "Auto fit tabs"
+msgstr "Auto fit Tabbladen"
+
+msgid "Auto size cells in list view style."
+msgstr "Auto aanpassen kolommen in lijstweergave"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Back"
+msgstr "Vorige"
+
+msgid "Backups"
+msgstr "Back-Ups"
+
+msgid "Backward"
+msgstr "Vorige"
+
+msgid "Before Date:"
+msgstr "Voor Datum :"
+
+msgid "Before Time:"
+msgstr "Voor Tijd :"
+
+msgid "Bookmarks"
+msgstr "Bladwijzers"
+
+msgid "Bookmarks Panel Settings"
+msgstr "Bladwijzier voor vensterinstellingen"
+
+msgid "Borders"
+msgstr "Randen"
+
+msgid "Bottom"
+msgstr "Onderaan"
+
+msgid "Breadcrumb Navigation"
+msgstr "Kruimelspoor"
+
+msgid "Browse..."
+msgstr "Bladeren..."
+
+msgid "Build:"
+msgstr "Build :"
+
+msgid "Buttons"
+msgstr "Knoppen"
+
+msgid "Bytes"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+msgid "Case Sensitive"
+msgstr "Hoofdletter gevoelig"
+
+msgid "Case sensitivity"
+msgstr "Hoofdlettergevoelig"
+
+msgid "Change order by dragging"
+msgstr ""
+
+msgid "Check For Updates"
+msgstr "Controleer op Updates"
+
+msgid "Check for updates"
+msgstr "Controleer op Updates"
+
+msgid "Check for updates on startup"
+msgstr "Controleer op Updates bij het opstarten"
+
+msgid "Checkbox Selection"
+msgstr "Selectie op basis van Checkbox"
+
+msgid "Clear Filters"
+msgstr "Filters Wissen"
+
+msgid "Clear History"
+msgstr "Historiek Wissen"
+
+msgid "Clear List"
+msgstr "Lijst Wissen"
+
+msgid "Clear Results"
+msgstr "Resultaten Wissen"
+
+msgid "Clear Stack"
+msgstr ""
+
+msgid "Clear filter history"
+msgstr "Filter Historiek Wissen"
+
+msgid "Clear filters on folder change"
+msgstr "Wis filters bij map wissel"
+
+msgid "Clear session history?"
+msgstr "Sessie Historiek Wissen ?"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Close Other Tabs"
+msgstr "Sluit andere tabbladen"
+
+msgid "Close Tab"
+msgstr "Sluit tabblad"
+
+msgid "Close Tabs on Left"
+msgstr "Sluit linker tabbladen"
+
+msgid "Close Tabs on Right"
+msgstr "Sluit rechter tabbladen"
+
+msgid "Close tab on double click"
+msgstr "Tabblad sluiten door Dubbelklikken"
+
+msgid "Close to tray"
+msgstr "Sluiten naar Systeembalk"
+
+msgid "Column Settings"
+msgstr "Kolom instellingen"
+
+msgid "Compressed"
+msgstr "Gecomprimmeerd"
+
+msgid "Confirm"
+msgstr "Bevestig"
+
+msgid "Connection error!"
+msgstr "Verbindingsfout !"
+
+msgid "Contact File"
+msgstr ""
+
+msgid "Contains hidden items"
+msgstr "Bevat verborgen items"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Continue from last time"
+msgstr "Ga verder na vorige keer"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "Copy Path"
+msgstr "Kopieër Pad"
+
+msgid "Copy of active tab"
+msgstr "Kopie van actieve tabblad"
+
+msgid "Create"
+msgstr "Creëer"
+
+msgid "Create New Translation"
+msgstr "Nieuwe Vertaling Maken"
+
+msgid "Create Symbolic Link"
+msgstr "Creëer Snelkoppeling"
+
+msgid "Create new translation."
+msgstr "Maak nieuwe vertaling."
+
+msgid "Created"
+msgstr "Aangemaakt"
+
+msgid "CubicExplore Home Page"
+msgstr "CubicExplorer website"
+
+msgid "CubicExplorer Home Page"
+msgstr "CubicExplorer website"
+
+msgid "CubicExplorer Options"
+msgstr "CubicExplorer opties"
+
+msgid "Current version:"
+msgstr "Huidige versie :"
+
+msgid "Custom..."
+msgstr "Eigen..."
+
+msgid "Customize"
+msgstr "Layout Aanpassen"
+
+msgid "Customizer..."
+msgstr "Layout Aanpassen..."
+
+msgid "Cut"
+msgstr "Knippen"
+
+msgid "Daily"
+msgstr "Dagelijks"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date && Time"
+msgstr "Datum && Tijd"
+
+msgid "Date Accessed"
+msgstr "Laatst  geopend"
+
+msgid "Date Created"
+msgstr "Datum Aangemaakt"
+
+msgid "Date Modified"
+msgstr "Datum Gewijzigd"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Default hotkeys become available after restart!"
+msgstr "Standaard Hotkeys worden beschikbaar na herstart !"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete active session."
+msgstr "Verwijder actieve sessie."
+
+msgid "Deleting multiple bookmarks!"
+msgstr "Meerdere bladwijzers verwijderen !"
+
+msgid "Desktop"
+msgstr "Bureaublad"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Direction"
+msgstr "Richting"
+
+msgid "Disconnect Network Drive..."
+msgstr "Netwerkverbinding verbreken..."
+
+msgid "Disk Usage"
+msgstr "Schijf gebruik"
+
+msgid "Display"
+msgstr "Beeldscherm"
+
+msgid "Display Mode"
+msgstr "Weergave Modus"
+
+msgid "Display Settings"
+msgstr "Beeldscherminstellingen"
+
+msgid "Do you really want to update?"
+msgstr "Wil je werkelijk updaten ?"
+
+msgid "Do you want to override existing session?"
+msgstr "Wil je de bestaande sessie overschrijven ?"
+
+msgid "Do you want to override existing stack?"
+msgstr ""
+
+msgid "Do you want to reset all hotkeys for this action?"
+msgstr "Wil je alle Hotkeys resetten voor deze actie ?"
+
+msgid "Do you want to update?"
+msgstr "Wil je updaten ?"
+
+msgid "Do you want to use it anyway?"
+msgstr "Wil je dit gebruiken ?"
+
+msgid "Donate"
+msgstr "Gifte"
+
+msgid "Down"
+msgstr "Omlaag"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Download failed!"
+msgstr "Download niet gelukt !"
+
+msgid "Drag Handle"
+msgstr ""
+
+msgid "Drag and Drop to reorder the columns. "
+msgstr "Sleep en verplaats om kolomvolgorde te wijzigen"
+
+msgid "Drag buttons to/from toolbars"
+msgstr "Sleep knoppen van/naar werkbalk"
+
+msgid "Drives"
+msgstr "Schijven"
+
+msgid "Drop Stack"
+msgstr "Klembord"
+
+msgid "Dublicate Tab"
+msgstr "Dupliceer tabblad"
+
+msgid "Duplicate"
+msgstr "Dupliceer"
+
+msgid "Duplicate Hotkey"
+msgstr "Dupliceer Hotkey"
+
+msgid "Duplicate Tab"
+msgstr "Dupliceer tabblad"
+
+msgid "Duplicate name"
+msgstr "Dupliceer naam"
+
+msgid "Dynamic Spacer"
+msgstr "Dynamische Scheiding"
+
+msgid "Earlier this year"
+msgstr "Eerder dit jaar"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Edit Session"
+msgstr "Bewerk sessie"
+
+msgid "Edit session properties."
+msgstr "Wijzig sessie eigenschappen."
+
+msgid "Editor Options..."
+msgstr "Opties kladblok..."
+
+msgid "Empty Recycle Bin"
+msgstr "Prullenbak leegmaken"
+
+msgid "Empty Stack"
+msgstr ""
+
+msgid "Empty folder"
+msgstr "Lege map"
+
+msgid "Enable"
+msgstr "Activeer"
+
+msgid "Enable Auto Save"
+msgstr "Activeer Automatisch opslaan"
+
+msgid "English (default)"
+msgstr "Engels (standaard)"
+
+msgid "Enter each file mask on a separate line."
+msgstr "Geef elk masker op een afzonderlijke regel."
+
+msgid "Exclude File Masks:"
+msgstr "Exclussief Masker :"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "Exit program when last tab is closed"
+msgstr "Verlaat programma als laatste tabblad wordt gesloten"
+
+msgid "Explorer"
+msgstr "Verkenner"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "File Contains:"
+msgstr "Bestand bevat :"
+
+msgid "File Name Mask"
+msgstr "Bestandsmasker"
+
+msgid "File Search"
+msgstr "Bestand zoeken"
+
+msgid "File size format:"
+msgstr "Bestand Grootte :"
+
+msgid "Files to update"
+msgstr "te updaten bestanden"
+
+msgid "Fileview"
+msgstr "Bestandsinhoud"
+
+msgid "Fileview Settings"
+msgstr "Bestandsinhoud instellingen"
+
+msgid "Filmstrip"
+msgstr "Filmstrip"
+
+msgid "Filters"
+msgstr ""
+
+msgid "Find Next"
+msgstr "Zoek volgende"
+
+msgid "Find Previous"
+msgstr "Zoek vorige"
+
+msgid "Finished"
+msgstr "Klaar"
+
+msgid "Five months ago"
+msgstr "Vijf maanden geleden"
+
+msgid "Fixed Spacer"
+msgstr "Vaste Scheiding"
+
+msgid "Focus"
+msgstr ""
+
+msgid "Folder"
+msgstr "Map"
+
+msgid "Folder Path"
+msgstr "Map Pad"
+
+msgid "Folder Up"
+msgstr "Bovenliggende map"
+
+msgid "Folders"
+msgstr "Mappen"
+
+msgid "Folders Panel Settings"
+msgstr "Mapvenster instellingen"
+
+msgid "Format"
+msgstr "Opmaak"
+
+msgid "Forward"
+msgstr "Volgende"
+
+msgid "Four months ago"
+msgstr "Vier maanden geleden"
+
+msgid "Full expand on stack load"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr "Volledig scherm"
+
+msgid "GB"
+msgstr ""
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+msgid "Gigantic"
+msgstr "Gigantisch"
+
+msgid "Global"
+msgstr "Algemeen"
+
+msgid "Global Hotkey Settings"
+msgstr "Algemene Hotkey Instellingen"
+
+msgid "Group"
+msgstr "Groep"
+
+msgid "Group By"
+msgstr "Groepeer op"
+
+msgid "Help"
+msgstr ""
+
+msgid "Hex"
+msgstr "Hexadecimaal"
+
+msgid "Hibernate"
+msgstr ""
+
+msgid "Hidden"
+msgstr "Verborgen"
+
+msgid "Highlight row completely"
+msgstr "Accentueer volledige rij"
+
+msgid "Highlighter"
+msgstr "Markeer"
+
+msgid "History"
+msgstr "Historiek"
+
+msgid "Hotkey Settings"
+msgstr "Hotkey Instellingen"
+
+msgid "Hotkeys"
+msgstr "Hotkeys"
+
+msgid "Icon above text"
+msgstr "Icoon boven tekst"
+
+msgid "Icon only"
+msgstr "Enkel Icoon"
+
+msgid "If not, all changes will be lost."
+msgstr "Zoniet gaan alle wijzigingen verloren."
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Include File Masks:"
+msgstr "Inclussief Masker :"
+
+msgid "Include Subfolders"
+msgstr "Inclussief Onderliggende Mappen"
+
+msgid "Info Bar"
+msgstr "Info Balk"
+
+msgid "Insert"
+msgstr "Invoegen"
+
+msgid "Invalid update!"
+msgstr "Ongeldige update !"
+
+msgid "Invert Selection"
+msgstr "Selectie omkeren"
+
+msgid "Item(s)"
+msgstr ""
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Language Editor"
+msgstr "Taal aanpassen"
+
+msgid "Large"
+msgstr "Groot"
+
+msgid "Large Icons"
+msgstr "Grote pictogrammen"
+
+msgid "Last check:"
+msgstr "Laatste Controle :"
+
+msgid "Last hour"
+msgstr "Voorbije uur"
+
+msgid "Last twenty-four hours"
+msgstr "Voorbije 24 uren"
+
+msgid "Launch Files Only"
+msgstr "Alleen bestanden openen"
+
+msgid "Layouts"
+msgstr "Weergaven"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Link Name"
+msgstr "Naam Koppeling"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "Live Update"
+msgstr ""
+
+msgid "Load Skin..."
+msgstr "Laad thema..."
+
+msgid "Load session"
+msgstr "Sessie opladen"
+
+msgid "Load skin from file"
+msgstr "Laad thema van bestand"
+
+msgid "Load theme from file"
+msgstr "Thema vanaf bestand opladen"
+
+msgid "Load theme from file..."
+msgstr "Thema vanaf bestand opladen..."
+
+msgid "Load this session on startup."
+msgstr "Laad deze sessie bij opstarten."
+
+msgid "Loading..."
+msgstr "Laden..."
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Lock"
+msgstr "Slot"
+
+msgid "Lock Toolbars"
+msgstr "Werkbalken Blokkeren"
+
+msgid "Logoff"
+msgstr "Afmelden"
+
+msgid "MB"
+msgstr ""
+
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+msgid "Manage Sessions"
+msgstr "Sessies behren"
+
+msgid "Manage..."
+msgstr "Beheren..."
+
+msgid "Map Network Drive..."
+msgstr "Netwerkverbinding maken..."
+
+msgid "Max Level:"
+msgstr "Maximum Niveau :"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Min Level:"
+msgstr "Minimum Niveau :"
+
+msgid "Minimize to tray"
+msgstr "Minimaliseer naar Systeembalk"
+
+msgid "Modified"
+msgstr "Gewijzigd"
+
+msgid "Modify Hotkey"
+msgstr "Wijzig Hotkey"
+
+msgid "More..."
+msgstr "Meer..."
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Name && Location"
+msgstr "Naam && Locatie"
+
+msgid "Name Only"
+msgstr "Alleen naam"
+
+msgid "Navigation"
+msgstr "Navigatie"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "New Category"
+msgstr "Nieuwe Category"
+
+msgid "New Folder"
+msgstr "Nieuwe Map"
+
+msgid "New Session"
+msgstr "Nieuwe Sessie"
+
+msgid "New Shortcut"
+msgstr "Nieuwe Snelkoppeling"
+
+msgid "New Version Available"
+msgstr "Nieuwe Versie Beschikbaar"
+
+msgid "New Window"
+msgstr "Nieuw Venster"
+
+msgid "New version (%s) is available. Do you want to update now?"
+msgstr "Nieuwe versie (%s) beschikbaar. Wil je nu updaten ?"
+
+msgid "No Extension"
+msgstr "Geen extensie"
+
+msgid "No Selection"
+msgstr "Geen Selectie"
+
+msgid "No file loaded."
+msgstr "Geen bestand geladen."
+
+msgid "No new updates"
+msgstr "Geen nieuwe updates"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Notify only about following update types"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Official"
+msgstr "Officieel"
+
+msgid "On Startup"
+msgstr "Bij het Opstarten"
+
+msgid "One or more files are missing!"
+msgstr "Eén of meerdere bestanden ontbreken !"
+
+msgid "Open"
+msgstr ""
+
+msgid "Open All in Tabs"
+msgstr "Open alles in tabbladen"
+
+msgid "Open Command Prompt"
+msgstr "Open opdrachtprompt"
+
+msgid "Open Containing Folder"
+msgstr "Open bijhorende Map"
+
+msgid "Open default tab"
+msgstr "Open in standaard tabblad"
+
+msgid "Open in current tab"
+msgstr "Open in huidige tabblad"
+
+msgid "Open in new tab"
+msgstr "Open in nieuwe tabblad"
+
+msgid "Open in new tab by default"
+msgstr "Open standaard in nieuw tabblad"
+
+msgid "Open last used"
+msgstr "Open laatste gebruikt"
+
+msgid "Open new tab as"
+msgstr "Open nieuw tabblad als"
+
+msgid "Open new tab next to current"
+msgstr "Open nieuwe tab naast huidige"
+
+msgid "Open selected"
+msgstr "Open geslecteerde"
+
+msgid "Open..."
+msgstr "Open..."
+
+msgid "Opening..."
+msgstr "Opent..."
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Options..."
+msgstr "Opties..."
+
+msgid "Original"
+msgstr "Origineel"
+
+msgid "Override"
+msgstr "Opheffen"
+
+msgid "Override existing session?"
+msgstr "Huidige sessie overschrijven ?"
+
+msgid "Override existing stack?"
+msgstr ""
+
+msgid "Panels"
+msgstr "Vensters"
+
+msgid "Password"
+msgstr "Paswoord"
+
+msgid "Paste"
+msgstr "Plakken"
+
+msgid "Paste Shortcut"
+msgstr "Snelkoppeling plakken"
+
+msgid "Path"
+msgstr "Pad"
+
+msgid "Pause"
+msgstr "Pauze"
+
+msgid "Please choose different hotkey."
+msgstr "Kies a.u.b. een andere Hotkey"
+
+msgid "Port"
+msgstr "Poort"
+
+msgid "Properties"
+msgstr "Eigenschappen"
+
+msgid "Properties..."
+msgstr "Eigenschappen..."
+
+msgid "Proxy Login"
+msgstr ""
+
+msgid "Proxy Settings"
+msgstr "Proxy Instellingen"
+
+msgid "Publish Translation"
+msgstr "Vertaling publiceren"
+
+msgid "Published:"
+msgstr "Gepubliceerd :"
+
+msgid "Quick Options"
+msgstr "Snelle opties"
+
+msgid "QuickView"
+msgstr "Snel inzien"
+
+msgid "Quickview"
+msgstr "Snel inzien"
+
+msgid "Read Only"
+msgstr "Alleen Lezen"
+
+msgid "Reboot"
+msgstr "Herstart"
+
+msgid "Recycle Bin"
+msgstr "Prullenbak"
+
+msgid "Redo"
+msgstr "Opnieuw"
+
+msgid "Refresh"
+msgstr "Verversen"
+
+msgid "Refresh Fileview"
+msgstr "Ververs Bestandsweergave"
+
+msgid "Regular expression"
+msgstr "Uitgebreide zoekterm"
+
+msgid "Relative"
+msgstr "Relatief"
+
+msgid "Reload"
+msgstr "Opnieuw laden"
+
+msgid "Remember"
+msgstr "Herinner"
+
+msgid "Remember Tabs"
+msgstr "Tabbladen onthouden"
+
+msgid "Remove from Stack"
+msgstr ""
+
+msgid "Removing all items from Stack!"
+msgstr ""
+
+msgid "Rename"
+msgstr "Naam wijzigen"
+
+msgid "Replace"
+msgstr "Vervangen"
+
+msgid "Replace All"
+msgstr "Vervang alles"
+
+msgid "Reset hotkeys?"
+msgstr "Hotkeys opnieuw Instellen ?"
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Restart CubicExplorer Now?"
+msgstr "CubicExplorer nu Herstarten ?"
+
+msgid "Restart needed!"
+msgstr "Herstart Noodzakelijk !"
+
+msgid "Restore"
+msgstr "Herstellen"
+
+msgid "Restore All"
+msgstr "Alles Herstellen"
+
+msgid "Restore List"
+msgstr "Lijst Herstellen"
+
+msgid "Restoring multiple items!"
+msgstr "Meerdere items herstellen !"
+
+msgid "Reuse already open tabs"
+msgstr "Hergebruik open tabbladen"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Save As..."
+msgstr "Opslaan als..."
+
+msgid "Save Session"
+msgstr "Sessie Opslaan"
+
+msgid "Save Stack"
+msgstr ""
+
+msgid "Save active session with new name."
+msgstr "Bewaar actieve sessie met nieuwe naam"
+
+msgid "Save active session."
+msgstr "Bewaar actieve sessie"
+
+msgid "Save changes before closing?"
+msgstr "Wijzigingen opslaan voor sluiten ?"
+
+msgid "Save changes."
+msgstr "Wijzigingen opslaan."
+
+msgid "Save changes?"
+msgstr "Wijzigingen opslaan ?"
+
+msgid "Save settings automatically."
+msgstr "Bewaar instellingen automatisch"
+
+msgid "Save..."
+msgstr "Opslaan..."
+
+msgid "Save/Load Settings"
+msgstr "Bewaar/laad instellingen"
+
+msgid "Scroll Left"
+msgstr "Schuif naar links"
+
+msgid "Scroll Right"
+msgstr "Schuif naar rechts"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Search File Mask"
+msgstr "Zoek Bestand met masker"
+
+msgid "Search Word or Phrase in File Name"
+msgstr "Zoek woord of zinsdeel  in bestandsnaam"
+
+msgid "Search and Replace"
+msgstr "Zoek en vervang"
+
+msgid "Search from cursor"
+msgstr "Zoek vanaf cursor"
+
+msgid "Search in Directory"
+msgstr "Zoek in map"
+
+msgid "Searching from"
+msgstr ""
+
+msgid "Select All"
+msgstr "Alles selecteren"
+
+msgid "Select Session"
+msgstr "Selecteer Sessie"
+
+msgid "Select default folder for new tabs."
+msgstr "Selecteer standaard map voor nieuwe tabbladen."
+
+msgid "Select existing translation or create new."
+msgstr "Selecteer een bestaande vertaling of Creëer een nieuwe."
+
+msgid "Select first item automatically"
+msgstr "Auto selecteer eerste regel"
+
+msgid "Select previous folder"
+msgstr "Selecteer vorige map"
+
+msgid "Select target folder"
+msgstr "Selecteer doel map"
+
+msgid "Selected"
+msgstr "Geselecteerd"
+
+msgid "Selected text only"
+msgstr "Alleen geselecteerde tekst"
+
+msgid "Separator"
+msgstr "Scheiding"
+
+msgid "Separators"
+msgstr "Scheiding"
+
+msgid "Session"
+msgstr "Sessie"
+
+msgid "Session Name"
+msgstr "Sessienaam"
+
+msgid "Session at"
+msgstr ""
+
+msgid "Sessions"
+msgstr "Sessies"
+
+msgid "Set focus to address bar"
+msgstr "Focus naar Adresbalk"
+
+msgid "Short Folder Path"
+msgstr "Verkort Map Pad"
+
+msgid "Short Name Only"
+msgstr "Alleen korte naam"
+
+msgid "Short Path"
+msgstr "Verkort Pad"
+
+msgid "Shortcut"
+msgstr "Snelkoppeling"
+
+msgid "Show"
+msgstr "Toon"
+
+msgid "Show All Files"
+msgstr "Toon alle bestanden"
+
+msgid "Show Extensions"
+msgstr "Toon extensies"
+
+msgid "Show Filtering Background"
+msgstr "Toon gefilterde achtergrond"
+
+msgid "Show Folders"
+msgstr "Toon Mappen"
+
+msgid "Show Hidden Files"
+msgstr "Toon Verborgen Bestanden"
+
+msgid "Show Hints"
+msgstr "Toon Hints"
+
+msgid "Show InfoTips"
+msgstr "Toon InfoTips"
+
+msgid "Show Path in Title bar"
+msgstr "Toon pad in titelbalk"
+
+msgid "Show Session Manager"
+msgstr "Toon Sessie Manager"
+
+msgid "Show Statusbar"
+msgstr "Toon Statusbalk"
+
+msgid "Show Toolbar"
+msgstr "Toon Werkbalk"
+
+msgid "Show in Groups"
+msgstr "Groepeer gelijke"
+
+msgid "Show more tabs"
+msgstr "Toon meerdere gabs"
+
+msgid "Show/Hide"
+msgstr "Toon/Verberg"
+
+msgid "Shut down"
+msgstr "Afsluiten"
+
+msgid "Single Instance Only"
+msgstr "Slechts één exemplaar"
+
+msgid "Single click browsing"
+msgstr "Enkele-klik Verkennen"
+
+msgid "Single click mode"
+msgstr "Enkele-klik modus"
+
+msgid "Six months ago"
+msgstr "Zes maanden geleden"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Size && Attributes"
+msgstr "Grootte && Kenmerken"
+
+msgid "Sleep"
+msgstr ""
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Small Icons"
+msgstr "Kleine pictogrammen"
+
+msgid "Smooth Scroll"
+msgstr "Vloeiend schuiven"
+
+msgid "Stack"
+msgstr "Stapel"
+
+msgid "Stack Name"
+msgstr ""
+
+msgid "Stack Settings"
+msgstr ""
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start minimized to tray"
+msgstr "Geminimaliseerd opstarten vanuit Systeemvak"
+
+msgid "Status Bar"
+msgstr "Statusbalk"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Stretch"
+msgstr "Uitrekken"
+
+msgid "Strict"
+msgstr ""
+
+msgid "Subdirectories"
+msgstr "Onderliggende mappen"
+
+msgid "Support Forum"
+msgstr "OndersteuningsForum"
+
+msgid "Switch to Next Tab"
+msgstr "Ga naar Volgende Tab"
+
+msgid "Switch to a new tab immediately"
+msgstr "Ga onmiddellijk naar nieuw tabblad"
+
+msgid "Swith to Previous Tab"
+msgstr "Ga naar Vorige Tab"
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "System Folders"
+msgstr "Systeem Map"
+
+msgid "System Power"
+msgstr ""
+
+msgid "TB"
+msgstr ""
+
+msgid "Tabs"
+msgstr "Tabbladen"
+
+msgid "Tabs Settings"
+msgstr "Tabblad instellingen"
+
+msgid "Target"
+msgstr "Doel"
+
+msgid "Target Folder"
+msgstr "Doel Map"
+
+msgid "Test"
+msgstr ""
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Text Document"
+msgstr "Tekst Document"
+
+msgid "Text Editor"
+msgstr "Kladblok"
+
+msgid "Text Filter"
+msgstr "Tekst Filter"
+
+msgid "Text only"
+msgstr "Enkel Tekst"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "This week"
+msgstr "Deze week"
+
+msgid "Three months ago"
+msgstr "Drie maanden geleden"
+
+msgid "Three weeks ago"
+msgstr "Drie weken geleden"
+
+msgid "Thumbnails"
+msgstr "Miniaturen"
+
+msgid "Thumbs Position"
+msgstr "Positie minaturen"
+
+msgid "Thumbs View Style"
+msgstr "Miniatuurweergave"
+
+msgid "Tiles"
+msgstr "Tegels"
+
+msgid "Tiny"
+msgstr "Klein"
+
+msgid "Toolbars"
+msgstr "Werkbalken"
+
+msgid "Tools"
+msgstr "Extra"
+
+msgid "Top"
+msgstr "Bovenaan"
+
+msgid "Total Size"
+msgstr "Totale grootte"
+
+msgid "Translate CubicExplorer"
+msgstr "CubicExplorer vertalen"
+
+msgid "Translation"
+msgstr "Vertaling"
+
+msgid "Translation Revision:"
+msgstr "Revisie van de Vertaling :"
+
+msgid "Translation Version"
+msgstr "Versie van de vertaling : "
+
+msgid "Translator's Email"
+msgstr "E-mail vertaler"
+
+msgid "Translator's Name"
+msgstr "Naam van vertaler"
+
+msgid "Transparency"
+msgstr "Doorzichtigheid"
+
+msgid "Tray Icon"
+msgstr "Systeem Icoon"
+
+msgid "Two months ago"
+msgstr "Twee maanden geleden"
+
+msgid "Two weeks ago"
+msgstr "Twee weken geleden"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+msgid "Undo Delete"
+msgstr "Verwijderen Ongedaan Maken"
+
+msgid "Undo Tab Close"
+msgstr "Tab Afsluiten Ongedaan Maken"
+
+msgid "Untitled"
+msgstr "Naamloos"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "Update"
+msgstr ""
+
+msgid "Update CubicExplorer"
+msgstr ""
+
+msgid "Update type:"
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Updates Settings"
+msgstr "Update Instellingen"
+
+msgid "Use Options->Updates to change them."
+msgstr "Gebruik opties -> Updates om te te wijzigen "
+
+msgid "Use strict filtering (wildcards are ? and *)"
+msgstr ""
+
+msgid "Use system settings"
+msgstr "Gebruik Systeem Instellingen"
+
+msgid "Use this version"
+msgstr "Gebruik deze versie"
+
+msgid "Username"
+msgstr "Gebruiker naam"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Version Manager"
+msgstr "Versie Manager"
+
+msgid "Version:"
+msgstr "Versie :"
+
+msgid "Versions"
+msgstr "Versies"
+
+msgid "View"
+msgstr "Beeld"
+
+msgid "View Style"
+msgstr "Weergave"
+
+msgid "WARNING! You are about to restore %d items."
+msgstr "OPGELET : u gaat %d items herstellen !"
+
+msgid "WARNING: Real file operations below"
+msgstr "OPGELET : werkelijke bestandsoperaties"
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+msgid "Warning: changes are made immediately!"
+msgstr "OPGELET : Wijzigingen worden onmiddellijk uitgevoerd !"
+
+msgid "Warning: password will be saved in clear text!"
+msgstr "OPGELET : paswoord word als verborgen tekst opgeslagen !"
+
+msgid "Weekly"
+msgstr "Wekelijks"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "Direct naar map/bestand bij openen in een nieuw tabblad"
+
+msgid "Whole Word"
+msgstr "Gehele Woord"
+
+msgid "Whole words only"
+msgstr "Alleen hele woorden"
+
+msgid "Width of the selected column"
+msgstr "Breedte van geselecteerde kolom"
+
+msgid "Word List"
+msgstr "Woordenlijst"
+
+msgid "Word Wrap"
+msgstr "Automatische terugloop"
+
+msgid "Word or Phrase in File Name"
+msgstr "Woor of Zinsdeel in Bestandsnaam"
+
+msgid "You have no update type notifications selected."
+msgstr "U heeft geen type update meldinge geselecteerd."
+
+msgid "Zero"
+msgstr "Nul"
+
+msgid "already exists. Please choose another name."
+msgstr "Bestaat reeds.  Kies a.u.b. een andere naam."
+
+msgid "is already assigned to"
+msgstr "is al toegewezen aan"
+
+msgid "is already in use!"
+msgstr "is al in gebruik !"
+
+msgid "item"
+msgstr ""
+
+msgid "items"
+msgstr ""
+

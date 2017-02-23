@@ -1,0 +1,27 @@
+#Header columns
+msgid "Size"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date Accessed"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "New Shortcut"
+msgstr ""
+
+msgid "Text Document"
+msgstr ""
+
+msgid "Contact File"
+msgstr ""

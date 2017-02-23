@@ -1,0 +1,920 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2008-03-21 11:18\n"
+"PO-Revision-Date: 2008-03-23 16:35+0200\n"
+"Last-Translator: Topaloudis Michael <mojiro@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+"Language-Team:                   \n"
+"CE-POT-Version: 1206\n"
+"CE-Language: Greek\n"
+
+msgid "%d folder(s) searched and %d file(s) found in %.3f second(s)"
+msgstr "%d φάκελοι εξερευνήθηκαν και %d αρχεία βρέθηκαν σε %.3f δευτερόλεπτα"
+
+msgid "About CubicExplorer"
+msgstr "Περί CubicExplorer"
+
+msgid "About..."
+msgstr "Περί..."
+
+msgid "Accessed"
+msgstr "Προσπελάστηκε"
+
+msgid "Actions"
+msgstr "Ενέργειες"
+
+msgid "Add Bookmark"
+msgstr "Προσθήκη Αγαπημένου"
+
+msgid "Add Category"
+msgstr "Προσθήκη Κατηγορίας"
+
+msgid "Add History Item"
+msgstr "Προσθήκη Αντικειμένου στο Ιστορικό"
+
+msgid "Add Tab"
+msgstr "Προσθήκη Καρτέλας"
+
+msgid "Address Bar"
+msgstr "Γραμμή Διευθύνσεων"
+
+msgid "Advanced"
+msgstr "Για προχωρημένους"
+
+msgid "Advanced Settings"
+msgstr "Προχωρημένες ρυθμίσεις"
+
+msgid "After Date:"
+msgstr "Μετά από την ημέρα:"
+
+msgid "After Time:"
+msgstr "Μετά από την ώρα:"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Always On Top"
+msgstr "Πάντα στο προσκήνειο"
+
+msgid "Always Show Sort Columns"
+msgstr "Μόνιμη εμφάνιση ταξινόμησης"
+
+msgid "Always sort folders first."
+msgstr "Εμφάνιση των φακέλων πρώτα"
+
+msgid "And Launch Files"
+msgstr "και άνοιγμα των αρχείων"
+
+msgid "Application Revision:"
+msgstr "Αναθεώρηση Εφαρμογής:"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "Apply changes."
+msgstr "Εφαρμογή αλλαγών"
+
+msgid "Are you sure you want to clear session history?"
+msgstr "Είστε σίγουροι ότι θέλετε να καθαρίσετε το ιστορικό;"
+
+msgid "Are you sure you want to delete this session?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή τη συνεδρία;"
+
+msgid "Arrange By"
+msgstr "Ταξινόμηση ως"
+
+msgid "At Least:"
+msgstr "Τουλάχιστον:"
+
+msgid "At Most:"
+msgstr "Το πολύ:"
+
+msgid "Attributes"
+msgstr "Ιδιότητες"
+
+msgid "Auto"
+msgstr "Αυτόματα"
+
+msgid "Auto collapse tree"
+msgstr "Σύμπτιξη Δέντρου"
+
+msgid "Auto expand tree"
+msgstr "Ανάπτυξη Δέντρου"
+
+msgid "Auto size cells in list view style."
+msgstr "Αυτόματο μήκος κελιών στην εμφάνιση λίστας"
+
+msgid "Automatic"
+msgstr "Αυτόματα"
+
+msgid "Back"
+msgstr "Πίσω"
+
+msgid "Backward"
+msgstr "Πίσω"
+
+msgid "Before Date:"
+msgstr "Πριν από την ημέρα:"
+
+msgid "Before Time:"
+msgstr "Πριν από την ώρα:"
+
+msgid "Bookmarks"
+msgstr "Αγαπημένα"
+
+msgid "Bookmarks Panel Settings"
+msgstr "Ρυθμίσεις Ταμπλώ Αγαπημένων "
+
+msgid "Bottom"
+msgstr "Κάτω"
+
+msgid "Breadcrumb Navigation"
+msgstr "Εναλλακτική Πλοήγηση"
+
+msgid "Browse..."
+msgstr "Αναζήτηση..."
+
+msgid "Bytes"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Άκυρο"
+
+msgid "Cancelled"
+msgstr "Ακυρώθηκε"
+
+msgid "Case Sensitive"
+msgstr "Διάκριση Κεφαλαίων/Πεζών"
+
+msgid "Case sensitivity"
+msgstr "Συμφωνία Κεφαλαίων/Πεζών"
+
+msgid "Clear History"
+msgstr "Καθαρισμός Ιστορικού"
+
+msgid "Clear List"
+msgstr "Καθαρισμός Λίστας"
+
+msgid "Clear Results"
+msgstr "Καθαρισμός αποτελεσμάτων"
+
+msgid "Clear filter history"
+msgstr "Καθαρισμός φίλτρου ιστορικού"
+
+msgid "Clear filters on folder change"
+msgstr "Καθαρισμός φίλτρων όταν αλλάζει ο φάκελος"
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "Close Other Tabs"
+msgstr "Κλείσιμο των άλλων Καρτελών"
+
+msgid "Close Tab"
+msgstr "Κλείσιμο Καρτέλας"
+
+msgid "Close Tabs on Left"
+msgstr "Κλείσιμο Καρτελών στα Αριστερά"
+
+msgid "Close Tabs on Right"
+msgstr "Κλείσιμο Καρτελών στα Δεξιά"
+
+msgid "Compressed"
+msgstr "Συμπιεσμένο"
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Continue from last time"
+msgstr "Συνέχεια από την τελευταία φορά"
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Copy Path"
+msgstr "Αντιγραφή Διαδρομής"
+
+msgid "Copy of active tab"
+msgstr "Αντιγραφή ενεργής καρτέλας"
+
+msgid "Create"
+msgstr "Δημιουργία"
+
+msgid "Create New Translation"
+msgstr "Δημιουργία Νέας Μετάφρασης"
+
+msgid "Create new translation."
+msgstr "Δημιουργία νέας μετάφρασης:"
+
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+msgid "CubicExplore Home Page"
+msgstr "Ιστοσελίδα του CubicExplorer"
+
+msgid "CubicExplorer Options"
+msgstr "Ρυθμίσεις CubicExplorer"
+
+msgid "Custom..."
+msgstr "Προσαρμογή..."
+
+msgid "Customize"
+msgstr "Προσαρμογή"
+
+msgid "Customizer..."
+msgstr "Προσαρμογή..."
+
+msgid "Cut"
+msgstr "Αποκοπή"
+
+msgid "Date && Time"
+msgstr "Ημέρα && Ώρα"
+
+msgid "Date Accessed"
+msgstr "Ημερομηνία Προσπέλασης"
+
+msgid "Date Created"
+msgstr "Ημερομηνία Δημιουργίας"
+
+msgid "Date Modified"
+msgstr "Ημερομηνία Επεξεργασίας"
+
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Delete active session."
+msgstr "Διαγραφή ενεργής συνεδρίας."
+
+msgid "Desktop"
+msgstr "Επιφάνεια Εργασίας"
+
+msgid "Details"
+msgstr "Λεπτομέριες"
+
+msgid "Direction"
+msgstr "Κατεύθηνση"
+
+msgid "Disconnect Network Drive..."
+msgstr "Αποσύνδεση Δικτυακού Οδηγού"
+
+msgid "Display"
+msgstr "Εμφάνιση"
+
+msgid "Display Settings"
+msgstr "Ρυθμίσεις Εμφάνισης"
+
+msgid "Do you want to override existing session?"
+msgstr "Θέλετε να υπερβήτε τη τρέχουσα συνεδρία;"
+
+msgid "Donate"
+msgstr "Δωρεά"
+
+msgid "Drives"
+msgstr "Οδηγοί"
+
+msgid "Drop Stack"
+msgstr "Σωρός"
+
+msgid "DualView"
+msgstr "Διπλή Προβολή"
+
+msgid "Dublicate Tab"
+msgstr "Διπλασιασμός Καρτέλας"
+
+msgid "Duplicate"
+msgstr "Διπλασιασμός"
+
+msgid "Duplicate Tab"
+msgstr "Διπλασιασμός Καρτέλας"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Edit Session"
+msgstr "Επεξεργασία Συνεδρίας"
+
+msgid "Edit session properties."
+msgstr "Επεξεργασία ρυθμίσεων συνεδρίας."
+
+msgid "Editor Options..."
+msgstr "Ρυθμίσεις Επεξεργαστή..."
+
+msgid "Empty Recycle Bin"
+msgstr "Άδειασμα Κάδου Ανακύκλωσης"
+
+msgid "English (default)"
+msgstr "Αγγλικά (Προεπιλεγμένο)"
+
+msgid "Enter each file mask on a separate line."
+msgstr "Εισαγωγή κάθε μάσκας σε χωριστή σειρά."
+
+msgid "Exclude File Masks:"
+msgstr "Εξαίρεση μασκών αρχείων:"
+
+msgid "Exit"
+msgstr "Έξοδος"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "File Contains:"
+msgstr "Περιεχόμενα Αρχείου:"
+
+msgid "File Name Mask"
+msgstr "Μάσκα Ονόματος αρχείου"
+
+msgid "File Search"
+msgstr "Εύρεση Αρχείων"
+
+msgid "Fileview"
+msgstr "Προβολή Αρχείων"
+
+msgid "Fileview Settings"
+msgstr "Ρυθμίσεις Προβολής Αρχείων"
+
+msgid "Filmstrip"
+msgstr "Φιλμ"
+
+msgid "Filters"
+msgstr "Φίλτρα"
+
+msgid "Find Next"
+msgstr "Εύρεση Επόμενου"
+
+msgid "Find Previous"
+msgstr "Εύρεση Προηγούμενου"
+
+msgid "Finished"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Focus"
+msgstr "Εστίαση"
+
+msgid "Focus Addressbar"
+msgstr "Εστίαση στην διεύθηνση"
+
+msgid "Folder Path"
+msgstr "Διαδρομή Φακέλου"
+
+msgid "Folder Up"
+msgstr "Πάνω"
+
+msgid "Folders"
+msgstr "Φάκελοι"
+
+msgid "Folders Panel Settings"
+msgstr "Ρυθμίσεις Ταμπλώ Φακέλων"
+
+msgid "Format"
+msgstr "Διαμόρφωση"
+
+msgid "Forward"
+msgstr "Εμπρός"
+
+msgid "Fullscreen"
+msgstr "Πλήρης Οθόνη"
+
+msgid "GB"
+msgstr ""
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+msgid "Group By"
+msgstr "Ομαδοποίηση βάση"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Hex"
+msgstr "Δεκαεξαδικό"
+
+msgid "Hidden"
+msgstr "Κρυφό"
+
+msgid "Highlight row completely"
+msgstr "Επισήμανση όλης της γραμμής"
+
+msgid "Highlighter"
+msgstr "Επισήμανση"
+
+msgid "History"
+msgstr "Ιστορικό"
+
+msgid "Image"
+msgstr "Φωτογραφία"
+
+msgid "Include File Masks:"
+msgstr "Συμπερίληψη Μασκών:"
+
+msgid "Include Subfolders"
+msgstr "Συμπερίληψη Υποφακέλων:"
+
+msgid "Insert"
+msgstr "Εισαγωγή"
+
+msgid "Invert Selection"
+msgstr "Αντιστροφή Επιλογής"
+
+msgid "KB"
+msgstr ""
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Language Editor"
+msgstr "Επεξεργαστής Γλώσσας"
+
+msgid "Large Icons"
+msgstr "Μεγάλα Εικονίδια"
+
+msgid "Launch Files Only"
+msgstr "άνοιγμα μόνο των αρχείων"
+
+msgid "Layout"
+msgstr "Περιβάλλον"
+
+msgid "Layouts"
+msgstr "Διαρρυθμίσεις"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "List"
+msgstr "Λίστα"
+
+msgid "Load Skin..."
+msgstr "Άνοιγμα Θέματος..."
+
+msgid "Load session"
+msgstr "Φόρτωμα συνεδρίας"
+
+msgid "Load skin from file"
+msgstr "Άνοιγμα θέματος από αρχείο"
+
+msgid "Load this session on startup."
+msgstr "Άνοιγμα Συνεδρίας στην Εκκίνηση."
+
+msgid "Loading..."
+msgstr "Φορτώνει..."
+
+msgid "Location"
+msgstr "Τοποθεσία"
+
+msgid "MB"
+msgstr ""
+
+msgid "Main Menu"
+msgstr "Κύριο Μενού"
+
+msgid "Manage Sessions"
+msgstr "Διαχείριση Συνεδριών"
+
+msgid "Manage..."
+msgstr "Διαχείριση..."
+
+msgid "Map Network Drive..."
+msgstr "Σύνδεση Δικτυακού Οδηγού..."
+
+msgid "Max Level:"
+msgstr "Μέγιστο επίπεδο:"
+
+msgid "Menu"
+msgstr "Μενού"
+
+msgid "Min Level:"
+msgstr "Ελάχιστο επίπεδο:"
+
+msgid "Modified"
+msgstr "Επεξεργασμένο"
+
+msgid "More..."
+msgstr "Περισσότερα..."
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Name && Location"
+msgstr "Όνομα && Τοποθεσία"
+
+msgid "Name Only"
+msgstr "Όνομα Μόνο"
+
+msgid "Navigation"
+msgstr "Πλοήγηση"
+
+msgid "New"
+msgstr "Νέο"
+
+msgid "New Folder"
+msgstr "Νέος Φάκελος"
+
+msgid "New Session"
+msgstr "Νέα Συνεδρία"
+
+msgid "No Extension"
+msgstr "Χωρίς Επεκτάσεις"
+
+msgid "No file loaded."
+msgstr "Το αρχέιο δε φορτώθηκε."
+
+msgid "None"
+msgstr "Χωρίς"
+
+msgid "OK"
+msgstr "Οκ"
+
+msgid "On Startup"
+msgstr "Στην Εκκίνηση"
+
+msgid "Open All in Tabs"
+msgstr "Άνοιγμα σε όλες τις καρτέλες"
+
+msgid "Open Command Prompt"
+msgstr "Άνοιγμα Γραμμής Εντολών"
+
+msgid "Open default tab"
+msgstr "Άνοιγμα προεπιλεγμένης καρτέλας"
+
+msgid "Open in new tab by default"
+msgstr "Άνοιγμα σε νέα καρτέλα"
+
+msgid "Open new tab as"
+msgstr "Άνοιγμα νέας καρτέλας ως"
+
+msgid "Open..."
+msgstr "Άνοιγμα..."
+
+msgid "Options"
+msgstr "Ρυθμίσεις"
+
+msgid "Options..."
+msgstr "Επιλογές..."
+
+msgid "Original"
+msgstr "Αγγλική Λέξη"
+
+msgid "Override"
+msgstr "Υπέρβαση"
+
+msgid "Panels"
+msgstr "Ταμπλώ"
+
+msgid "Paste"
+msgstr "Επικόληση"
+
+msgid "Paste Shortcut"
+msgstr "Επικόληση Συντόμευσης"
+
+msgid "Path"
+msgstr "Διαδρομή"
+
+msgid "Pause"
+msgstr "Παύση"
+
+msgid "PngImage31"
+msgstr "Φωτογραφία PNG"
+
+msgid "Properties"
+msgstr "Ιδιότητες"
+
+msgid "Properties..."
+msgstr "Ιδιότητες..."
+
+msgid "Publish Translation"
+msgstr "Δημοσίευση Μετάφρασης"
+
+msgid "QuickView"
+msgstr "Γρήγορη προβολή"
+
+msgid "Quickview"
+msgstr "Γρήγορη Προβολή"
+
+msgid "Read Only"
+msgstr "Μόνο για ανάγνωση"
+
+msgid "Redo"
+msgstr "Ακύρωση αναίρεσης"
+
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+msgid "Regular expression"
+msgstr "Σχετική Έκφραση"
+
+msgid "Relative"
+msgstr "Σχετικά"
+
+msgid "Reload"
+msgstr "Επαναφόρτωση"
+
+msgid "Remember Tabs"
+msgstr "Απομνημόνευση Καρτελών"
+
+msgid "Rename"
+msgstr "Μετονομασία"
+
+msgid "Replace"
+msgstr "Αντικατάσταση"
+
+msgid "Replace All"
+msgstr "Αντικατάσταση Όλων"
+
+msgid "Reuse already open tabs"
+msgstr "Επαναχρησιμοποίηση των ήδη ανοιχτών καρτελών"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Save As..."
+msgstr "Αποθήκευση ως"
+
+msgid "Save Session"
+msgstr "Αποθήκευση Συνεδρίας"
+
+msgid "Save active session with new name."
+msgstr "Αποθήκευση ενεργής συνεδρίας με νέο όνομα."
+
+msgid "Save active session."
+msgstr "Αποθήκευση ενεργής συνεδρίας."
+
+msgid "Save changes before closing?"
+msgstr "Αποθήκευση Αλλαγών πριν την Έξοδο"
+
+msgid "Save changes."
+msgstr "Αποθήκευση Αλλαγών"
+
+msgid "Save changes?"
+msgstr "Αποθήκευση Αλλαγών;"
+
+msgid "Save settings automatically."
+msgstr "Αυτόματη Αποθήκευση Αλλαγών"
+
+msgid "Save..."
+msgstr "Αποθήκευση..."
+
+msgid "Save/Load Settings"
+msgstr "Αποθήκευση/Φόρτωση Ρυθμίσεων"
+
+msgid "Scroll Left"
+msgstr "Κύλιση Αριστερά"
+
+msgid "Scroll Right"
+msgstr "Κύλιση Δεξιά"
+
+msgid "Search"
+msgstr "Εύρεση"
+
+msgid "Search File Mask"
+msgstr "Μάσκα Αναζήτησης Αρχείου"
+
+msgid "Search Word or Phrase in File Name"
+msgstr "Αναζήτηση Λέξης ή Φράσης στο Όνομα του Αρχείου"
+
+msgid "Search and Replace"
+msgstr "Αναζήτηση και Αντικατάσταση"
+
+msgid "Search from cursor"
+msgstr "Αναζήτηση μετά τον κέρσορα"
+
+msgid "Search in Directory"
+msgstr "Αναζήτηση σε Φάκελο"
+
+msgid "Searching from"
+msgstr "Αναζήτηση από"
+
+msgid "Select All"
+msgstr "Επιλογή Όλων"
+
+msgid "Select default folder for new tabs."
+msgstr "Επιλογή φακέλου για τις νέες καρτέλες."
+
+msgid "Select first item automatically"
+msgstr "Αυτόματη επιλογή πρώτου αντικειμένου"
+
+msgid "Select previous folder"
+msgstr "Επιλογή προηγούμενου φακέλου"
+
+msgid "Selected"
+msgstr "Επιλεγμένο"
+
+msgid "Selected text only"
+msgstr "Επιλεγμένο Κείμενο Μόνο"
+
+msgid "Separator"
+msgstr "Διαχωριστικό"
+
+msgid "Session Name"
+msgstr "Όνομα Συνεδρίας"
+
+msgid "Sessions"
+msgstr "Συνεδρίες"
+
+msgid "Short Folder Path"
+msgstr "Σύντομη Διαδρομή Φακέλου"
+
+msgid "Short Name Only"
+msgstr "Σύντομο Όνομα Μόνο"
+
+msgid "Short Path"
+msgstr "Σύντομη Διαδρομή"
+
+msgid "Show All Files"
+msgstr "Εμφάνιση Όλων των Αρχείων"
+
+msgid "Show Extensions"
+msgstr "Εμφάνιση Επεκτάσεων"
+
+msgid "Show Folders"
+msgstr "Εμφάνιση Φακέλων"
+
+msgid "Show Hidden Files"
+msgstr "Εμφάνιση Κρυμμένων Αρχείων"
+
+msgid "Show Hints"
+msgstr "Εμφάνιση Σχολίων"
+
+msgid "Show Path in Title bar"
+msgstr "Εμφάνιση Διαδρομής στη Γραμμή Τίτλου"
+
+msgid "Show Session Manager"
+msgstr "Προβολή Διαχειριστή Συνεδριών"
+
+msgid "Show Statusbar"
+msgstr "Εμφάνιση Γραμμής Κατάστασης"
+
+msgid "Show Toolbar"
+msgstr "Εμφάνιση Γραμμής Εργαλείων"
+
+msgid "Show in Groups"
+msgstr "Εμφάνιση σε Ομάδες"
+
+msgid "Single Instance Only"
+msgstr "Μόνο μία παρουσία"
+
+msgid "Single click mode"
+msgstr "Κατάσταση Μονού Κλικ"
+
+msgid "Size"
+msgstr "Μέγεθος"
+
+msgid "Size && Attributes"
+msgstr "Μέγεθος && Ιδιότητες"
+
+msgid "Small Icons"
+msgstr "Μικρά  Εικονίδια"
+
+msgid "Stack"
+msgstr "Σωρός"
+
+msgid "Start"
+msgstr "Εκίνηση"
+
+msgid "Status Bar"
+msgstr "Γραμμή Κατάστασης"
+
+msgid "Stop"
+msgstr "Διακοπή"
+
+msgid "Strict"
+msgstr "Αυστηρά"
+
+msgid "Subdirectories"
+msgstr "Υποφάκελοι"
+
+msgid "Support Forum"
+msgstr "Συζητήσεις Υποστήριξης"
+
+msgid "Switch to Next Tab"
+msgstr "Μετάβαση στην επόμενη καρτέλα"
+
+msgid "Switch to a new tab immediately"
+msgstr "Μετακίνηση σε νέα καρτέλα αμέσως"
+
+msgid "Switch to new tab."
+msgstr "Μετάβαση στη νέα καρτέλα"
+
+msgid "Swith to Previous Tab"
+msgstr "Μετάβαση στην προηγούμενη καρτέλα"
+
+msgid "System"
+msgstr "Σύστημα"
+
+msgid "Tabs"
+msgstr "Καρτέλες"
+
+msgid "Tabs Settings"
+msgstr "Ρυθμίσεις Καρτελών"
+
+msgid "Target"
+msgstr "Στόχος"
+
+msgid "Text"
+msgstr "Κείμενο"
+
+msgid "Text Editor"
+msgstr "Επεξεργαστής Κειμένου"
+
+msgid "Theme"
+msgstr "Θέμα"
+
+msgid "Thumbnails"
+msgstr "Μικρογραφίες"
+
+msgid "Thumbnails.album"
+msgstr "Άλμπουμ.μικρογραφίες"
+
+msgid "Thumbs Position"
+msgstr "Θέση Μικρογραφίας"
+
+msgid "Thumbs View Style"
+msgstr "Μορφή Μικρογραφίας"
+
+msgid "Tiles"
+msgstr "Πλακίδια"
+
+msgid "Toolbars"
+msgstr "Εργαλειοθήκες"
+
+msgid "Tools"
+msgstr "Εργαλεία"
+
+msgid "Top"
+msgstr "Πάνω"
+
+msgid "Total Size"
+msgstr "Συνολικό Μέγεθος"
+
+msgid "Translate CubicExplorer"
+msgstr "Μετάφραση CubicExplorer"
+
+msgid "Translation"
+msgstr "Μετάφραση"
+
+msgid "Translation Revision:"
+msgstr "Αναθεώρηση Μετάφρασης:"
+
+msgid "Translation Version"
+msgstr "Έκδοση Μετάφρασης"
+
+msgid "Translator's Email"
+msgstr "Email Μεταφραστή"
+
+msgid "Translator's Name"
+msgstr "Όνομα Μεταφραστή"
+
+msgid "Transparency"
+msgstr "Διαφάνεια"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Undo"
+msgstr "Αναίρεση"
+
+msgid "Untitled"
+msgstr "Ανώνυμο"
+
+msgid "Use strict filtering (wildcards are ? and *)"
+msgstr "Χρήση αυστηρού φιλτραρίσματος (χαρακτήρες μπαλαντέρ * και ?)"
+
+msgid "Version:"
+msgstr "Έκδοση:"
+
+msgid "View"
+msgstr "Προβολή"
+
+msgid "View Style"
+msgstr "Μορφή Προβολής"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "Όταν ανοίγω ένα φάκελο/αρχείο σε μία νέα καρτέλα, μετακίνηση σε αυτή αμέσως"
+
+msgid "Whole Word"
+msgstr "Όλη τη Λέξη"
+
+msgid "Whole words only"
+msgstr "Ολόκληρες λέξεις μόνο"
+
+msgid "Word List"
+msgstr "Λίστα Λέξεων"
+
+msgid "Word Wrap"
+msgstr "Αναδίπλωση Λέξεων"
+
+msgid "Word or Phrase in File Name"
+msgstr "Λέξη ή φράση στο Όνομα του αρχείου"
+

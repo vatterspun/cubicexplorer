@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date:                                     \n"
+"PO-Revision-Date: 2007-08-22 21:19+0200\n"
+"Last-Translator: Marko Savolainen\n"
+"Language-Team:                                     \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+"CE-POT-Version: 1070\n"
+"CE-Language: Finnish\n"
+
+msgid "About CubicExplorer"
+msgstr "Tietoja CubicExplorerista"
+
+msgid "About..."
+msgstr "Tietoja..."
+
+msgid "Actions"
+msgstr "Toiminnot"
+
+msgid "Add Bookmark"
+msgstr "Lisää kirjainmerkki"
+
+msgid "Add Category"
+msgstr "Lisää kategoria"
+
+msgid "Add Tab"
+msgstr "Lisää sivu"
+
+msgid "Address Bar"
+msgstr "Osoiterivi"
+
+msgid "Always Show Sort Columns"
+msgstr ""
+
+msgid "And Launch Files"
+msgstr "Ja käynnistä tiedostot"
+
+msgid "Application Rev:"
+msgstr "Ohjelman Rev"
+
+msgid "Application Revision:"
+msgstr ""
+
+msgid "Apply"
+msgstr "Käytä"
+
+msgid "Apply changes."
+msgstr "Käytä muutoksia"
+
+msgid "Arrange By"
+msgstr "Järjestä"
+
+msgid "Attributes"
+msgstr "Ominaisuudet"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Auto collapse tree"
+msgstr "Supista puu automaattisesti"
+
+msgid "Auto expand tree"
+msgstr "Laajenna puu automaattisesti"
+
+msgid "Automatic"
+msgstr "Automaattinen"
+
+msgid "Back"
+msgstr "Taakse"
+
+msgid "Backward"
+msgstr "Taaksepäin"
+
+msgid "Bookmarks"
+msgstr "Kirjainmerkit"
+
+msgid "Bookmarks Panel Settings"
+msgstr "Kirjainmerkki paneelin asetukset"
+
+msgid "Bottom"
+msgstr "Ala"
+
+msgid "Breadcrumb Navigation"
+msgstr ""
+
+msgid "Browse..."
+msgstr "Selaa..."
+
+msgid "Bytes"
+msgstr "Tavua"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Case sensitivity"
+msgstr "Kirjasinkoko vaikuttaa"
+
+msgid "Clear List"
+msgstr "Tyhjennä lista"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Close Tab"
+msgstr "Sulje sivu"
+
+msgid "Copy"
+msgstr "Kopioi"
+
+msgid "Copy Path"
+msgstr "Kopioi osoite"
+
+msgid "Copy of active tab"
+msgstr "Kopio aktiivisesta"
+
+msgid "Create"
+msgstr "Luo"
+
+msgid "Create New Translation"
+msgstr "Luo uusi käännös"
+
+msgid "Create new translation."
+msgstr ""
+
+msgid "CubicExplore Home Page"
+msgstr "CubicExplorerin kotisivut"
+
+msgid "CubicExplorer Options"
+msgstr ""
+
+msgid "Custom..."
+msgstr ""
+
+msgid "Customize"
+msgstr "Kustomoi"
+
+msgid "Customizer..."
+msgstr "Kustomoija..."
+
+msgid "Cut"
+msgstr "Leikkaa"
+
+msgid "Date Accessed"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Delete active session."
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Details"
+msgstr "Tiedot"
+
+msgid "Direction"
+msgstr "Suunta"
+
+msgid "Disconnect Network Drive..."
+msgstr "Katkaise verkkoasema"
+
+msgid "Display"
+msgstr "Näyttö"
+
+msgid "Display Settings"
+msgstr "Näytön Asetukset"
+
+msgid "Drives"
+msgstr "Asemat"
+
+msgid "Drop Stack"
+msgstr ""
+
+msgid "Dublicate Tab"
+msgstr "Monista sivu"
+
+msgid "Duplicate"
+msgstr "Monista"
+
+msgid "Duplicate Tab"
+msgstr ""
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Edit Session"
+msgstr "Muokkaa Sessiota"
+
+msgid "Edit session properties."
+msgstr "Muokkaa session asetuksia"
+
+msgid "Editor Options..."
+msgstr "Editorin asetukset..."
+
+msgid "Empty Recycle Bin"
+msgstr "Tyhjennä roskakori"
+
+msgid "English (default)"
+msgstr "Englanti (oletus)"
+
+msgid "Exit"
+msgstr "Lopeta"
+
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "File Search"
+msgstr "Tiedoston haku"
+
+msgid "Fileview"
+msgstr ""
+
+msgid "Fileview Settings"
+msgstr "Tiedostonäkymän asetukset"
+
+msgid "Filmstrip"
+msgstr "Filminauha"
+
+msgid "Filters"
+msgstr "Suodattimet"
+
+msgid "Find Next"
+msgstr "Etsi seuraava"
+
+msgid "Find Previous"
+msgstr "Etsi edellinen"
+
+msgid "Folder Path"
+msgstr "Kansion osoite"
+
+msgid "Folder Up"
+msgstr "Ylös"
+
+msgid "Folders"
+msgstr "Kansiot"
+
+msgid "Folders Panel Settings"
+msgstr "Kansio paneelin asetukset"
+
+msgid "Format"
+msgstr "Formaatti"
+
+msgid "Forward"
+msgstr "Eteenpäin"
+
+msgid "Fullscreen"
+msgstr "Kokoruutu"
+
+msgid "General"
+msgstr "Yleiset"
+
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+msgid "Group By"
+msgstr ""
+
+msgid "Help"
+msgstr "Ohje"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Highlight row completely"
+msgstr "Korosta koko rivi"
+
+msgid "Highlighter"
+msgstr ""
+
+msgid "Image"
+msgstr "Kuva"
+
+msgid "Insert"
+msgstr "Lisäys"
+
+msgid "Invert Selection"
+msgstr "Käännä valinta"
+
+msgid "KB"
+msgstr "kt"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Language Editor"
+msgstr "Kieli editori"
+
+msgid "Large Icons"
+msgstr "Isot kuvakkeet"
+
+msgid "Launch Files Only"
+msgstr "Käynnistä tiedostot pelkästään"
+
+msgid "Layouts"
+msgstr ""
+
+msgid "Left"
+msgstr "Vasen"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Load Skin..."
+msgstr ""
+
+msgid "Load skin from file"
+msgstr ""
+
+msgid "Load this session on startup."
+msgstr "Lataa tämä sessio käynnistyksessä"
+
+msgid "Loading..."
+msgstr "Lataa..."
+
+msgid "MB"
+msgstr "Mt"
+
+msgid "Map Network Drive..."
+msgstr "Yhdistä verkkoasema"
+
+msgid "Modified"
+msgstr "Muuttunut"
+
+msgid "More..."
+msgstr ""
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Name Only"
+msgstr "Vain nimi"
+
+msgid "Navigation"
+msgstr "Navigointi"
+
+msgid "New"
+msgstr "Uusi"
+
+msgid "New Folder"
+msgstr "Uusi kansio"
+
+msgid "New Session"
+msgstr "Uusi sessio"
+
+msgid "No Extension"
+msgstr "Ei päätettä"
+
+msgid "No file loaded."
+msgstr "Ei tiedostoa ladattu."
+
+msgid "None"
+msgstr "Ei mitään"
+
+msgid "OK"
+msgstr "Hyväksy"
+
+msgid "Open All in Tabs"
+msgstr "Avaa kaikki omiin sivuihin"
+
+msgid "Open Command Prompt"
+msgstr "Avaa komentorivi"
+
+msgid "Open new tab as"
+msgstr ""
+
+msgid "Open..."
+msgstr "Avaa..."
+
+msgid "Options"
+msgstr "Asetukset"
+
+msgid "Options..."
+msgstr "Asetukset..."
+
+msgid "Original"
+msgstr "Alkuperäinen"
+
+msgid "Override"
+msgstr "Ylikirjoitus"
+
+msgid "Panels"
+msgstr "Paneelit"
+
+msgid "Paste"
+msgstr "Liitä"
+
+msgid "Paste Shortcut"
+msgstr "Liitä oikotie"
+
+msgid "Path"
+msgstr "Osoite"
+
+msgid "Pause"
+msgstr "Tauko"
+
+msgid "Properties"
+msgstr "Tiedot"
+
+msgid "Properties..."
+msgstr "Tiedot..."
+
+msgid "Publish Translation"
+msgstr "Julkaise käännös"
+
+msgid "Quick Options"
+msgstr "Pika asetukset"
+
+msgid "Quickview"
+msgstr "Pikakatselin"
+
+msgid "Redo"
+msgstr "Tee uudelleen"
+
+msgid "Refresh"
+msgstr "Päivitä"
+
+msgid "Regular expression"
+msgstr ""
+
+msgid "Relative"
+msgstr "Suhteellinen"
+
+msgid "Reload"
+msgstr "Avaa uudelleen"
+
+msgid "Remember Tabs"
+msgstr "Muista sivut"
+
+msgid "Rename"
+msgstr "Nimeä uudelleen"
+
+msgid "Replace"
+msgstr "Korvaa"
+
+msgid "Replace All"
+msgstr "Korvaa Kaikki"
+
+msgid "Reuse already open tabs"
+msgstr "Käytä avoimia välilehtiä uudelleen"
+
+msgid "Right"
+msgstr "Oikea"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Save As..."
+msgstr "Tallenna nimellä..."
+
+msgid "Save active session with new name."
+msgstr "Tallenna aktiivinen sessio uudella nimellä"
+
+msgid "Save active session."
+msgstr "Tallenna aktiivinen sessio"
+
+msgid "Save changes before closing?"
+msgstr "Tallenna muutokset ennen sulkemista?"
+
+msgid "Save changes."
+msgstr "Tallenna muutokset."
+
+msgid "Save changes?"
+msgstr "Tallenna muutokset?"
+
+msgid "Save settings automatically."
+msgstr "Tallenna asetukset automaattisesti"
+
+msgid "Save/Load Settings"
+msgstr "Tallenna/Lataa asetukset"
+
+msgid "Scroll Left"
+msgstr ""
+
+msgid "Scroll Right"
+msgstr ""
+
+msgid "Search"
+msgstr "Etsi"
+
+msgid "Search File Mask"
+msgstr ""
+
+msgid "Search Word or Phrase in File Name"
+msgstr ""
+
+msgid "Search and Replace"
+msgstr "Etsi ja korvaa"
+
+msgid "Search from cursor"
+msgstr ""
+
+msgid "Search in Directory"
+msgstr "Etsi hakemistosta"
+
+msgid "Select All"
+msgstr "Valitse kaikki"
+
+msgid "Select default folder for new tabs."
+msgstr ""
+
+msgid "Selected"
+msgstr "Valittu"
+
+msgid "Selected text only"
+msgstr "Vain valittu teksti"
+
+msgid "Separator"
+msgstr "Erotin"
+
+msgid "Session Name"
+msgstr "Session Nimi"
+
+msgid "Sessions"
+msgstr "Sessiot"
+
+msgid "Short Folder Path"
+msgstr "Lyhyt kansion osoite"
+
+msgid "Short Name Only"
+msgstr "Lyhyt nimi"
+
+msgid "Short Path"
+msgstr "Lyhyt osoite"
+
+msgid "Show All Files"
+msgstr "Näytä kaikki tiedostot"
+
+msgid "Show Extensions"
+msgstr "Näytä päätteet"
+
+msgid "Show Folders"
+msgstr "Näytä kansiot"
+
+msgid "Show Hidden Files"
+msgstr "Näytä piilotetut tiedostot"
+
+msgid "Show Hints"
+msgstr "Näytä vihjeet"
+
+msgid "Show Path in Title bar"
+msgstr "Näytä polku otsikko rivillä."
+
+msgid "Show Statusbar"
+msgstr "Näytä tilarivi"
+
+msgid "Show Toolbar"
+msgstr "Näytä työkalurivi"
+
+msgid "Show in Groups"
+msgstr ""
+
+msgid "Single Instance"
+msgstr "Vain yksi ilmentymä."
+
+msgid "Single Instance Only"
+msgstr "Vain yksi ilmentymä"
+
+msgid "Single click mode"
+msgstr "Vain yksi klikkaus."
+
+msgid "Size"
+msgstr "Koko"
+
+msgid "Small Icons"
+msgstr "Pienet kuvakkeet"
+
+msgid "Smooth Scroll"
+msgstr "Sileä vieritys"
+
+msgid "Stack"
+msgstr ""
+
+msgid "Start"
+msgstr "Aloita"
+
+msgid "Status Bar"
+msgstr "Tilarivi"
+
+msgid "Stop"
+msgstr "Lopeta"
+
+msgid "Subdirectories"
+msgstr ""
+
+msgid "Support Forum"
+msgstr "Tuki foorumi"
+
+msgid "Switch to a new tab immediately"
+msgstr ""
+
+msgid "Tab Settings"
+msgstr ""
+
+msgid "Tabs"
+msgstr "Välilehdet"
+
+msgid "Tabs Settings"
+msgstr "Välilehtien asetukset"
+
+msgid "Target"
+msgstr "Kohde"
+
+msgid "Text"
+msgstr "Teksti"
+
+msgid "Text Editor"
+msgstr "Tekstieditori"
+
+msgid "Theme"
+msgstr "Teema"
+
+msgid "Thumbnails"
+msgstr "Pikkukuvat"
+
+msgid "Thumbs Position"
+msgstr "Pikkukuvien sijainti"
+
+msgid "Thumbs View Style"
+msgstr ""
+
+msgid "Tiles"
+msgstr "Tiilet"
+
+msgid "Toolbars"
+msgstr "Työkalupalkit"
+
+msgid "Tools"
+msgstr "Työkalut"
+
+msgid "Top"
+msgstr "Ylä"
+
+msgid "Total Size"
+msgstr "Yhteinen koko"
+
+msgid "Translate CubicExplorer"
+msgstr "Käännä CubicExplorer"
+
+msgid "Translation"
+msgstr "Käännös"
+
+msgid "Translation Rev:"
+msgstr "Kännöksen Rev"
+
+msgid "Translation Revision:"
+msgstr ""
+
+msgid "Translation Version"
+msgstr "Käännöksen versio"
+
+msgid "Translator's Email"
+msgstr "Kääntäjän Email"
+
+msgid "Translator's Name"
+msgstr "Kääntäjän nimi"
+
+msgid "Transparency"
+msgstr "Läpinäkyvyys"
+
+msgid "Type"
+msgstr "Tyyppi"
+
+msgid "Undo"
+msgstr "Peruuta"
+
+msgid "Untitled"
+msgstr "Nimetön"
+
+msgid "Version:"
+msgstr "Versio:"
+
+msgid "View"
+msgstr "Näytä"
+
+msgid "View Style"
+msgstr "Ikoni tyyli"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr ""
+
+msgid "Whole words only"
+msgstr "Vain kokonaiset sanat"
+
+msgid "Word List"
+msgstr "Sanalista"
+
+msgid "Word Wrap"
+msgstr "Vain kokonaiset sanat"
+

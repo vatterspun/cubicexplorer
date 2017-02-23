@@ -1,0 +1,1519 @@
+msgid ""
+msgstr ""
+"CE-POT-Version: 1490\n"
+"Last-Translator: 刘昌政 <lcz20@tom.com>\n"
+"CE-Language: Chinese (Simplified)\n"
+"Project-Id-Version: 0.95.1\n"
+
+msgid "%d file(s) failed to download!"
+msgstr "%d 个文件下载失败"
+
+msgid "%d folder(s) searched and %d item(s) found in %.3f second(s)"
+msgstr "检索%d 个文件夹,%d个项目找到,用时%.3f 秒"
+
+msgid "%d of %d"
+msgstr "%d  共 %d"
+
+msgid "..."
+msgstr "..."
+
+msgid "A long time ago"
+msgstr "很久前"
+
+msgid "A month ago"
+msgstr "1月前"
+
+msgid "About CubicExplorer"
+msgstr "关于CubiExplorer"
+
+msgid "About..."
+msgstr "关于"
+
+msgid "Accessed"
+msgstr "访问时间"
+
+msgid "Actual"
+msgstr "实际"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add Bookmark"
+msgstr "添加书签"
+
+msgid "Add Category"
+msgstr "添加类别"
+
+msgid "Add History Item"
+msgstr "添加当前会话"
+
+msgid "Add Session"
+msgstr "添加会话"
+
+msgid "Add Tab"
+msgstr "添加标签"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address Bar"
+msgstr "地址栏"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+msgid "After Date:"
+msgstr "日期之后"
+
+msgid "After Time:"
+msgstr "时间之后"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Allow Move"
+msgstr "允许移动"
+
+msgid "Always On Top"
+msgstr "窗口置顶"
+
+msgid "Always Show Sort Columns"
+msgstr "显示排序列"
+
+msgid "Always sort folders first."
+msgstr "文件夹优先排序"
+
+msgid "And Launch Files"
+msgstr "文件夹和文件"
+
+msgid "Application Revision:"
+msgstr "程序总字段:"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Apply Changes"
+msgstr "应用更改"
+
+msgid "Apply changes now?"
+msgstr "现在应用更改?"
+
+msgid "Apply changes."
+msgstr "应用更改"
+
+msgid "Archiver"
+msgstr "归档"
+
+msgid "Are you sure you want to clear session history?"
+msgstr "确认清空会话历史?"
+
+msgid "Are you sure you want to clear the list?"
+msgstr "确认清空列表?"
+
+msgid "Are you sure you want to delete selected bookmarks?"
+msgstr "确认删除已选书签?"
+
+msgid "Are you sure you want to delete this session?"
+msgstr "确认删除该会话?"
+
+msgid "Are you sure you want to do that?"
+msgstr "确认要执行?"
+
+msgid "Are you sure you want to quit?"
+msgstr "确定要退出?"
+
+msgid "Are you sure you want to restore default layout?"
+msgstr "确定恢复默认布局?"
+
+msgid "Are you sure you want to restore?"
+msgstr "确定要恢复?"
+
+msgid "Arrange By"
+msgstr "排序"
+
+msgid "At Least:"
+msgstr "最后:"
+
+msgid "At Most:"
+msgstr "最多"
+
+msgid "Attributes"
+msgstr "属性"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Auto Save History"
+msgstr "自动保存会话历史"
+
+msgid "Auto collapse tree"
+msgstr "自动折叠文件树"
+
+msgid "Auto expand tree"
+msgstr "自动展开文件树"
+
+msgid "Auto fit tabs"
+msgstr "自动调整标签宽度"
+
+msgid "Auto size cells in list view style."
+msgstr "自动调整列表模式图标大小"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Backups"
+msgstr "备份"
+
+msgid "Before Date:"
+msgstr "日期之前"
+
+msgid "Before Time:"
+msgstr "时间之前"
+
+msgid "Bookmarks"
+msgstr "收藏"
+
+msgid "Bookmarks Panel Settings"
+msgstr "收藏面板设置"
+
+msgid "Borders"
+msgstr "边框"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "Breadcrumb Navigation"
+msgstr "导航条"
+
+msgid "Browse..."
+msgstr "浏览"
+
+msgid "Build:"
+msgstr "编译:"
+
+msgid "Buttons"
+msgstr "按钮"
+
+msgid "Bytes"
+msgstr "字节"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancelled"
+msgstr "取消"
+
+msgid "Case Sensitive"
+msgstr "大小写过滤"
+
+msgid "Case sensitivity"
+msgstr "大小写过滤"
+
+msgid "Change order by dragging"
+msgstr "拖曳调整顺序"
+
+msgid "Check For Updates"
+msgstr "检查更新"
+
+msgid "Check for updates"
+msgstr "检查更新"
+
+msgid "Check for updates on startup"
+msgstr "启动时检查更新"
+
+msgid "Checkbox Selection"
+msgstr "多项选择模式"
+
+msgid "Clear Filters"
+msgstr "清空过滤设置"
+
+msgid "Clear History"
+msgstr "清空会话历史"
+
+msgid "Clear List"
+msgstr "清空列表"
+
+msgid "Clear Results"
+msgstr "清空结果"
+
+msgid "Clear Stack"
+msgstr "清空文件栈"
+
+msgid "Clear filter history"
+msgstr "清空过滤历史"
+
+msgid "Clear filters on folder change"
+msgstr "改变文件夹时清空过滤"
+
+msgid "Clear session history?"
+msgstr "确定清空会话历史?"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close Other Tabs"
+msgstr "关闭其他标签"
+
+msgid "Close Tab"
+msgstr "关闭标签"
+
+msgid "Close Tabs on Left"
+msgstr "关闭左侧标签"
+
+msgid "Close Tabs on Right"
+msgstr "关闭右侧标签"
+
+msgid "Close tab on double click"
+msgstr "双击关闭标签"
+
+msgid "Close to tray"
+msgstr "关闭到系统托盘"
+
+msgid "Column Settings"
+msgstr "列设置"
+
+msgid "Compressed"
+msgstr "压缩"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Connection error!"
+msgstr "连接出错!"
+
+msgid "Contact File"
+msgstr "连接文件"
+
+msgid "Contains hidden items"
+msgstr "包括隐藏项"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Continue from last time"
+msgstr "继续上次操作"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy Path"
+msgstr "复制路径"
+
+msgid "Copy of active tab"
+msgstr "复制激活标签"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Create New Translation"
+msgstr "创建新翻译"
+
+msgid "Create Symbolic Link"
+msgstr "创建特征链接"
+
+msgid "Create new translation."
+msgstr "创建新翻译"
+
+msgid "Created"
+msgstr "创建时间"
+
+msgid "CubicExplorer Home Page"
+msgstr "官方主页"
+
+msgid "CubicExplorer Options"
+msgstr "选项"
+
+msgid "Current version:"
+msgstr "当前版本:"
+
+msgid "Custom..."
+msgstr "自定义.."
+
+msgid "Customize"
+msgstr "自定义"
+
+msgid "Customizer..."
+msgstr "自定义.."
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Daily"
+msgstr "每天"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date && Time"
+msgstr "日期和时间"
+
+msgid "Date Accessed"
+msgstr "访问日期"
+
+msgid "Date Created"
+msgstr "创建日期"
+
+msgid "Date Modified"
+msgstr "修改日期"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default File Manager"
+msgstr "默认文件管理器"
+
+msgid "Default hotkeys become available after restart!"
+msgstr "重启后快捷键恢复为默认设置!"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Deleting multiple bookmarks!"
+msgstr "删除多个书签!"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Details"
+msgstr "详情"
+
+msgid "Dialog found!"
+msgstr "对话找到!"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Disconnect Network Drive..."
+msgstr "断开网络硬盘..."
+
+msgid "Disk Usage"
+msgstr "磁盘占用"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "Display Mode"
+msgstr "显示模式"
+
+msgid "Display Settings"
+msgstr "显示设置"
+
+msgid "Do you really want to update?"
+msgstr "确定更新?"
+
+msgid "Do you want to override existing session?"
+msgstr "确定要覆盖已有会话?"
+
+msgid "Do you want to override existing stack?"
+msgstr "确定覆盖已有文件栈?"
+
+msgid "Do you want to reset all hotkeys for this action?"
+msgstr "确定重设所有快捷键?"
+
+msgid "Do you want to update?"
+msgstr "确定更新?"
+
+msgid "Do you want to use it anyway?"
+msgstr "无论如何要使用?"
+
+msgid "Donate"
+msgstr "捐助"
+
+msgid "Down"
+msgstr "下"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download failed!"
+msgstr "下载失败"
+
+msgid "Drag Handle"
+msgstr "拖曳手柄"
+
+msgid "Drag and Drop to reorder the columns. "
+msgstr "拖放改变顺序"
+
+msgid "Drag buttons to/from toolbars"
+msgstr "拖放按钮到工具栏"
+
+msgid "Drives"
+msgstr "磁盘分区"
+
+msgid "Duplicate"
+msgstr "创建副本"
+
+msgid "Duplicate Hotkey"
+msgstr "创建快捷键副本"
+
+msgid "Duplicate Tab"
+msgstr "创建标签副本"
+
+msgid "Duplicate name"
+msgstr "创建名字副本"
+
+msgid "Dynamic Spacer"
+msgstr "动态空隙"
+
+msgid "Earlier this year"
+msgstr "今年早些时候"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Editor Options..."
+msgstr "编辑选项"
+
+msgid "Empty Recycle Bin"
+msgstr "空回收站"
+
+msgid "Empty Stack"
+msgstr "空文件栈"
+
+msgid "Empty folder"
+msgstr "空文件夹"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Enable Auto Save"
+msgstr "启用自动保存"
+
+msgid "English (default)"
+msgstr "英语(默认)"
+
+msgid "Enter each file mask on a separate line."
+msgstr "每行输入一个文件掩码"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error: Could not connect!"
+msgstr "错误:无法连接!"
+
+msgid "Exclude"
+msgstr "排除"
+
+msgid "Exclude File Masks:"
+msgstr "排除文件:"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Exit program when last tab is closed"
+msgstr "关闭所有标签时退出程序"
+
+msgid "Explorer"
+msgstr "浏览器"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File Contains:"
+msgstr "文件包含:"
+
+msgid "File Name Mask"
+msgstr "文件名(通配符)"
+
+msgid "File Search"
+msgstr "文件检索"
+
+msgid "File operation might be still running!"
+msgstr "文件使用中!"
+
+msgid "File size format:"
+msgstr "文件大小格式"
+
+msgid "Files to update"
+msgstr "更新文件"
+
+msgid "Fileview"
+msgstr "文件查看"
+
+msgid "Fileview Settings"
+msgstr "文件查看设置"
+
+msgid "Filmstrip"
+msgstr "幻灯片"
+
+msgid "Filters"
+msgstr "过滤"
+
+msgid "Find Next"
+msgstr "下一个"
+
+msgid "Find Previous"
+msgstr "上一个"
+
+msgid "Finished"
+msgstr "完成"
+
+msgid "Five months ago"
+msgstr "5月前"
+
+msgid "Fixed Spacer"
+msgstr "固定间距"
+
+msgid "Focus"
+msgstr "焦点"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Folder Path"
+msgstr "文件夹路径"
+
+msgid "Folder Up"
+msgstr "上级文件夹"
+
+msgid "Folders"
+msgstr "文件夹"
+
+msgid "Folders Panel Settings"
+msgstr "文件夹设置"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Forward"
+msgstr "向前"
+
+msgid "Four months ago"
+msgstr "4月前"
+
+msgid "Full expand on stack load"
+msgstr "加载时展开文件栈"
+
+msgid "Fullscreen"
+msgstr "全屏"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "General"
+msgstr "一般"
+
+msgid "General Settings"
+msgstr "普通设置"
+
+msgid "Gigantic"
+msgstr "超大"
+
+msgid "Global"
+msgstr "全局"
+
+msgid "Global Hotkey Settings"
+msgstr "全局热键设置"
+
+msgid "Group"
+msgstr "分组"
+
+msgid "Group By"
+msgstr "分组"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Hex"
+msgstr "HEX"
+
+msgid "Hibernate"
+msgstr "休眠"
+
+msgid "Hidden"
+msgstr "隐藏"
+
+msgid "Highlight row completely"
+msgstr "高亮整行"
+
+msgid "Highlighter"
+msgstr "高亮"
+
+msgid "History"
+msgstr "会话历史"
+
+msgid "Hotkey Settings"
+msgstr "热键设置"
+
+msgid "Hotkeys"
+msgstr "热键"
+
+msgid "Icon above text"
+msgstr "图标和文字"
+
+msgid "Icon only"
+msgstr "仅图标"
+
+msgid "If not, all changes will be lost."
+msgstr "假如否,则所有改动均会丢失."
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Include File Masks:"
+msgstr "包括文件(通配符)"
+
+msgid "Include Subfolders"
+msgstr "包括子文件夹"
+
+msgid "Info Bar"
+msgstr "信息栏"
+
+msgid "Insert"
+msgstr "插入"
+
+msgid "Invalid update!"
+msgstr "没有更新!"
+
+msgid "Invert Selection"
+msgstr "反选"
+
+msgid "Item(s)"
+msgstr "项"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Language Editor"
+msgstr "语言编辑器"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Large Icons"
+msgstr "大图标"
+
+msgid "Last check:"
+msgstr "最后检查:"
+
+msgid "Last hour"
+msgstr "1小时内"
+
+msgid "Last twenty-four hours"
+msgstr "24小时内"
+
+msgid "Launch Files Only"
+msgstr "只打开文件"
+
+msgid "Layouts"
+msgstr "布局"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Link Name"
+msgstr "链接名称"
+
+msgid "List"
+msgstr "列表"
+
+msgid "Live Update"
+msgstr "实时更新"
+
+msgid "Load session"
+msgstr "加载会话"
+
+msgid "Load theme from file"
+msgstr "从文件加载主题样式"
+
+msgid "Load theme from file..."
+msgstr "从文件加载主题样式"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Lock"
+msgstr "锁定"
+
+msgid "Lock Toolbars"
+msgstr "锁定工具条"
+
+msgid "Logoff"
+msgstr "注销"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Main Menu"
+msgstr "主菜单"
+
+msgid "Manage Sessions"
+msgstr "管理会话"
+
+msgid "Manage..."
+msgstr "管理会话..."
+
+msgid "Map Network Drive..."
+msgstr "映射网络磁盘"
+
+msgid "Max Level:"
+msgstr "最大层级"
+
+msgid "Medium"
+msgstr "中等"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Min Level:"
+msgstr "最小层级"
+
+msgid "Minimize to tray"
+msgstr "最小化到系统托盘"
+
+msgid "Modified"
+msgstr "修改时间"
+
+msgid "Modify Hotkey"
+msgstr "修改热键"
+
+msgid "More..."
+msgstr "更多..."
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name && Location"
+msgstr "名称和位置"
+
+msgid "Name Only"
+msgstr "仅文件名"
+
+msgid "Navigation"
+msgstr "导航"
+
+msgid "New"
+msgstr "新建"
+
+msgid "New Category"
+msgstr "新建类别"
+
+msgid "New File"
+msgstr "新建文件"
+
+msgid "New Folder"
+msgstr "新建文件夹"
+
+msgid "New Shortcut"
+msgstr "新建快捷方式"
+
+msgid "New Version Available"
+msgstr "有新版本!"
+
+msgid "New Window"
+msgstr "新建窗口"
+
+msgid "New text file"
+msgstr "新建文本文件"
+
+msgid "New version (%s) is available. Do you want to update now?"
+msgstr "新版本(%d),是否立即更新?"
+
+msgid "No Extension"
+msgstr "没有扩展名"
+
+msgid "No Selection"
+msgstr "没有选中项"
+
+msgid "No file loaded."
+msgstr "无法显示"
+
+msgid "No new updates"
+msgstr "没有更新内容"
+
+msgid "None"
+msgstr "无"
+
+msgid "Notify only about following update types"
+msgstr "仅提示下列更新内容"
+
+msgid "OK"
+msgstr "好"
+
+msgid "Official"
+msgstr "正式发布"
+
+msgid "On Startup"
+msgstr "启动"
+
+msgid "One or more files are missing!"
+msgstr "文件丢失!"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open All in Tabs"
+msgstr "打开所有项目"
+
+msgid "Open Command Prompt"
+msgstr "打开命令行"
+
+msgid "Open Containing Folder"
+msgstr "打开所在文件夹"
+
+msgid "Open default tab"
+msgstr "打开默认标签"
+
+msgid "Open in current tab"
+msgstr "在当前标签打开"
+
+msgid "Open in new tab"
+msgstr "在新标签打开"
+
+msgid "Open in new tab by default"
+msgstr "默认在新标签打开"
+
+msgid "Open last used"
+msgstr "打开上次使用的"
+
+msgid "Open new tab as"
+msgstr "新建标签"
+
+msgid "Open new tab next to current"
+msgstr "新标签紧贴当前标签"
+
+msgid "Open selected"
+msgstr "加载文件栈"
+
+msgid "Open..."
+msgstr "打开"
+
+msgid "Opening..."
+msgstr "打开中..."
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Options..."
+msgstr "选项"
+
+msgid "Original"
+msgstr "原文"
+
+msgid "Override"
+msgstr "覆盖"
+
+msgid "Override existing session?"
+msgstr "覆盖已有会话?"
+
+msgid "Override existing stack?"
+msgstr "覆盖已有文件栈?"
+
+msgid "Panels"
+msgstr "面板"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Paste Shortcut"
+msgstr "粘贴快捷方式"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Please choose different hotkey."
+msgstr "请选择另外一个快捷键."
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Properties..."
+msgstr "属性..."
+
+msgid "Proxy Login"
+msgstr "代理服务器登录"
+
+msgid "Proxy Settings"
+msgstr "代理设置"
+
+msgid "Publish Translation"
+msgstr "发布翻译"
+
+msgid "Published:"
+msgstr "发布:"
+
+msgid "QuickView"
+msgstr "内容预览"
+
+msgid "Quickview"
+msgstr "预览"
+
+msgid "Read Only"
+msgstr "只读"
+
+msgid "Reboot"
+msgstr "重启"
+
+msgid "Recycle Bin"
+msgstr "回收站"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Refresh Fileview"
+msgstr "刷新文件视图"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "Registered successfully!"
+msgstr "注册成功"
+
+msgid "Registration failed!"
+msgstr "注册失败"
+
+msgid "Regular expression"
+msgstr "正则表达式"
+
+msgid "Relative"
+msgstr "关系"
+
+msgid "Reload"
+msgstr "重新加载"
+
+msgid "Remember"
+msgstr "记住"
+
+msgid "Remove from Stack"
+msgstr "移除文件栈"
+
+msgid "Removing all items from Stack!"
+msgstr "移除所有文件栈项目?"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Replace"
+msgstr "替换"
+
+msgid "Replace All"
+msgstr "全部替换"
+
+msgid "Reset hotkeys?"
+msgstr "恢复默认热键设置?"
+
+msgid "Reset to default"
+msgstr "恢复默认设置"
+
+msgid "Restart CubicExplorer Now?"
+msgstr "现在重启程序?"
+
+msgid "Restart needed!"
+msgstr "改动生效需要重启!"
+
+msgid "Restore"
+msgstr "还原"
+
+msgid "Restore All"
+msgstr "全部还原"
+
+msgid "Restore Default Layout"
+msgstr "还原默认布局"
+
+msgid "Restore List"
+msgstr "还原列表"
+
+msgid "Restoring multiple items!"
+msgstr "还原多个项目!"
+
+msgid "Reuse already open tabs"
+msgstr "使用已打开标签"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save As..."
+msgstr "保存为..."
+
+msgid "Save Session"
+msgstr "保存会话"
+
+msgid "Save Stack"
+msgstr "保存文件栈"
+
+msgid "Save active session."
+msgstr "保存激活会话"
+
+msgid "Save changes before closing?"
+msgstr "是否保存更改?"
+
+msgid "Save changes."
+msgstr "保存更改"
+
+msgid "Save changes?"
+msgstr "保存更改?"
+
+msgid "Save settings automatically."
+msgstr "自动保存设置"
+
+msgid "Save..."
+msgstr "保存当前会话"
+
+msgid "Save/Load Settings"
+msgstr "保存/加载 设置"
+
+msgid "Scroll Left"
+msgstr "向左卷动"
+
+msgid "Scroll Right"
+msgstr "向右卷动"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search and Replace"
+msgstr "搜索并替换"
+
+msgid "Search from cursor"
+msgstr "从光标处搜索"
+
+msgid "Searching from"
+msgstr "搜索."
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select Session"
+msgstr "选择会话"
+
+msgid "Select default folder for new tabs."
+msgstr "选择新标签默认文件夹"
+
+msgid "Select existing translation or create new."
+msgstr "选择已有翻译或新建一个."
+
+msgid "Select first item automatically"
+msgstr "自动选择第一项"
+
+msgid "Select previous folder"
+msgstr "选择上一个文件夹"
+
+msgid "Select target folder"
+msgstr "选择目标文件夹"
+
+msgid "Selected"
+msgstr "选中"
+
+msgid "Selected text only"
+msgstr "仅选中文字"
+
+msgid "Separator"
+msgstr "分隔栏"
+
+msgid "Separators"
+msgstr "分隔栏"
+
+msgid "Session"
+msgstr "会话"
+
+msgid "Session Name"
+msgstr "会话名称"
+
+msgid "Session at"
+msgstr "会话在"
+
+msgid "Sessions"
+msgstr "会话"
+
+msgid "Set focus to address bar"
+msgstr "设置焦点到地址栏"
+
+msgid "Short Folder Path"
+msgstr "文件夹路径(8.3短格式)"
+
+msgid "Short Name Only"
+msgstr "仅文件名(8.3短格式)"
+
+msgid "Short Path"
+msgstr "文件名和路径(8.3短格式)"
+
+msgid "Shortcut"
+msgstr "快捷方式"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show All Files"
+msgstr "显示全部文件"
+
+msgid "Show Extensions"
+msgstr "显示扩展名"
+
+msgid "Show Folders"
+msgstr "显示文件夹"
+
+msgid "Show Hidden Files"
+msgstr "显示隐藏文件"
+
+msgid "Show Hints"
+msgstr "显示提示"
+
+msgid "Show InfoTips"
+msgstr "显示信息提示"
+
+msgid "Show Path in Title bar"
+msgstr "标题栏显示路径"
+
+msgid "Show Session Manager"
+msgstr "显示会话管理器"
+
+msgid "Show Statusbar"
+msgstr "显示状态栏"
+
+msgid "Show Toolbar"
+msgstr "显示工具条"
+
+msgid "Show in Groups"
+msgstr "分组显示"
+
+msgid "Show more tabs"
+msgstr "显示更多标签"
+
+msgid "Show/Hide"
+msgstr "显示/隐藏"
+
+msgid "Shut down"
+msgstr "关机"
+
+msgid "Single Instance Only"
+msgstr "只打开一个程序"
+
+msgid "Single click browsing"
+msgstr "单击浏览模式"
+
+msgid "Single click mode"
+msgstr "单击操作模式"
+
+msgid "Six months ago"
+msgstr "6月前"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Size && Attributes"
+msgstr "大小和属性"
+
+msgid "Sleep"
+msgstr "休眠"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small Icons"
+msgstr "小图标"
+
+msgid "Stack"
+msgstr "文件堆栈"
+
+msgid "Stack Name"
+msgstr "文件栈名称"
+
+msgid "Stack Settings"
+msgstr "文件栈设置"
+
+msgid "Stacks"
+msgstr "文件栈"
+
+msgid "Start minimized to tray"
+msgstr "启动时最小化到系统托盘"
+
+msgid "Starting CubicExplorer..."
+msgstr "启动CubicExplorer..."
+
+msgid "Status Bar"
+msgstr "状态栏"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Stretch"
+msgstr "下拉"
+
+msgid "Stretcher"
+msgstr "下拉按钮"
+
+msgid "Strict"
+msgstr "精确"
+
+msgid "Support Forum"
+msgstr "论坛"
+
+msgid "Switch to Next Tab"
+msgstr "切换到下一个标签"
+
+msgid "Switch to a new tab immediately"
+msgstr "立即切换到新标签"
+
+msgid "Swith to Previous Tab"
+msgstr "切换到上一个标签"
+
+msgid "System"
+msgstr "系统"
+
+msgid "System Folders"
+msgstr "系统文件夹"
+
+msgid "System Power"
+msgstr "电源管理"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Tabs"
+msgstr "标签"
+
+msgid "Tabs Settings"
+msgstr "标签设置"
+
+msgid "Target"
+msgstr "目标"
+
+msgid "Target Folder"
+msgstr "目标文件夹"
+
+msgid "Test"
+msgstr "测试更新"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Text Document"
+msgstr "文本文件"
+
+msgid "Text Editor"
+msgstr "文本编辑器"
+
+msgid "Text Filter"
+msgstr "文字过滤"
+
+msgid "Text only"
+msgstr "仅文字"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "This week"
+msgstr "本周"
+
+msgid "Three months ago"
+msgstr "3月前"
+
+msgid "Three weeks ago"
+msgstr "3周前"
+
+msgid "Thumbnails"
+msgstr "缩略图"
+
+msgid "Thumbs Position"
+msgstr "文件列表位置"
+
+msgid "Thumbs View Style"
+msgstr "文件列表样式"
+
+msgid "Tiles"
+msgstr "图标"
+
+msgid "Tiny"
+msgstr "最小"
+
+msgid "Toolbars"
+msgstr "工具条"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Top"
+msgstr "顶部"
+
+msgid "Total Size"
+msgstr "总大小"
+
+msgid "Translate CubicExplorer"
+msgstr "翻译CubiExplorer"
+
+msgid "Translation"
+msgstr "翻译"
+
+msgid "Translation Revision:"
+msgstr "翻译字段:"
+
+msgid "Translation Version"
+msgstr "翻译版本:"
+
+msgid "Translator's Email"
+msgstr "翻译者邮箱"
+
+msgid "Translator's Name"
+msgstr "翻译者名字"
+
+msgid "Transparency"
+msgstr "透明度"
+
+msgid "Tray Icon"
+msgstr "托盘图标"
+
+msgid "Two months ago"
+msgstr "2月前"
+
+msgid "Two weeks ago"
+msgstr "2周前"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Undo Delete"
+msgstr "撤销删除"
+
+msgid "Undo Tab Close"
+msgstr "恢复关闭的标签"
+
+msgid "Unregister"
+msgstr "还原默认设置"
+
+msgid "Unregistered successfully!"
+msgstr "还原默认文件管理器成功!"
+
+msgid "Unregistration failed!"
+msgstr "还原默认文件管理器失败"
+
+msgid "Up"
+msgstr "上"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update CubicExplorer"
+msgstr "更新CubicExplorer"
+
+msgid "Update type:"
+msgstr "更新类型:"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Updates Settings"
+msgstr "更新设置"
+
+msgid "Use Options->Updates to change them."
+msgstr "在"选项"->"更新"中更改设置"
+
+msgid "Use strict filtering (wildcards are ? and *)"
+msgstr "通配符模式(? 和*)"
+
+msgid "Use system settings"
+msgstr "使用系统设置"
+
+msgid "Use this version"
+msgstr "使用该版本"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Version Manager"
+msgstr "版本管理器"
+
+msgid "Version:"
+msgstr "版本:"
+
+msgid "Versions"
+msgstr "版本"
+
+msgid "View"
+msgstr "视图"
+
+msgid "View Style"
+msgstr "样式"
+
+msgid "WARNING! You are about to restore %d items."
+msgstr "警告:你要还原%d项."
+
+msgid "WARNING: Real file operations below"
+msgstr "警告:以下为实时文件操作"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Warning: changes are made immediately!"
+msgstr "警告:更改即时生效!"
+
+msgid "Warning: password will be saved in clear text!"
+msgstr "警告:密码将保存到明文文件!"
+
+msgid "Weekly"
+msgstr "周更新"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "自动切换到新标签"
+
+msgid "Whole Word"
+msgstr "全词匹配"
+
+msgid "Whole words only"
+msgstr "仅全词"
+
+msgid "Width of the selected column"
+msgstr "选定列宽度"
+
+msgid "Word List"
+msgstr "翻译表"
+
+msgid "Word Wrap"
+msgstr "自动换行"
+
+msgid "Word or Phrase in File Name"
+msgstr "文件名中查找"
+
+msgid "You have no update type notifications selected."
+msgstr "你没有选择要提示的更新类型"
+
+msgid "Zero"
+msgstr "0"
+
+msgid "already exists. Please choose another name."
+msgstr "名字已存在,请选择另外一个名字."
+
+msgid "is already assigned to"
+msgstr "已分配给"
+
+msgid "is already in use!"
+msgstr "使用中!"
+
+msgid "item"
+msgstr "项"
+
+msgid "items"
+msgstr "项"
+

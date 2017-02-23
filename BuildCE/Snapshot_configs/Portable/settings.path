@@ -1,0 +1,26 @@
+.\
+
+; CubicExplorer loads/saves settings from a folder specified in this file.
+; - Only one path is allowed.
+; - Relative path works.
+; - If the folder doesn't exist, it will be created when CubicExplorer starts. Parent folder must exist for it to work!
+; - If this file is missing or the folder can't be found or created, settings are saved in the same folder as CubicExplorer.exe.
+; - use [READONLY] in front of the path to prevent CubicExplorer from saving.
+; - Comment lines should start with ; character.
+;
+; System Variables supported in path:
+;
+; %ALLUSERSPROFILE% = Location of the All Users Profile.
+; %APPDATA% = Location where applications store data by default.
+; %HOMEDRIVE% = Drive letter that is connected to the user's home directory.
+; %HOMEPATH% = Full path of the user's home directory.
+; %PROGRAMFILES% = Location of the default install directory for applications.
+; %SYSTEMDRIVE% = Drive containing the Windows root directory.
+; %SYSTEMROOT% = Location of the Windows root directory.
+; %TEMP% = Default temporary directory.
+; %TMP% = Default temporary directory.
+; %USERPROFILE% = Location of the profile for the current user.
+; %WINDIR% = Location of the OS directory
+; %SYSDIR% = System Directory ( e.g. C:\Windows\System ).
+; %PERSONAL% = My Documents folder.
+; %CEDRIVE% = Drive from which CubicExplorer is run.

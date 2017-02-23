@@ -1,0 +1,15 @@
+0.80 RC3a (released 13.7.2007)
+- Fixed bug that caused QuickView to load files even if it wasn't visible.
+- Fixed flickering problem when changing layout.
+- Fixed refresh issue when renaming folder in FolderTree.
+- Fixed rename duplicate bug.
+- Fixed few layout issue.
+- Added check to see if item can be renamed.
+- Changed file loading to "read only" mode.
++ Added support for relative paths at command line.
++ Changed edit actions to support FolderTree also.
++ Added WAV extension to default Video extension.
++ Added support for Special Folders in Bookmarks.
++ Added support for system variables in command line.
++ Added support for link targets in command line.
++ Added FileSearch action to File menu

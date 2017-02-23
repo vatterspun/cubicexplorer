@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"CE-POT-Version: 924\n"
+"CE-Language: Vietnamese\n"
+"Last-Translator: Trần Vĩnh Cường <tranvinhcuong@gmail.com>\n"
+
+msgid "About CubicExplorer"
+msgstr "Giới Thiệu CubicExplorer"
+
+msgid "About..."
+msgstr "Giới Thiệu..."
+
+msgid "Actions"
+msgstr "Hành Động"
+
+msgid "Add Bookmark"
+msgstr "Tạo Dấu"
+
+msgid "Add Category"
+msgstr "Thêm Phân Loại"
+
+msgid "Add Tab"
+msgstr "Thêm Thẻ"
+
+msgid "Address Bar"
+msgstr "Thanh địa chỉ"
+
+msgid "Always Show Sort Columns"
+msgstr "Luôn Hiển Thị Cột Sắp Xếp"
+
+msgid "And Launch Files"
+msgstr "Mở Tập Tin"
+
+msgid "Application Revision:"
+msgstr "Ứng Dụng, Bản Bổ Sung:"
+
+msgid "Apply"
+msgstr "Áp Dụng"
+
+msgid "Apply changes."
+msgstr "Áp Dụng Thay Đổi"
+
+msgid "Attributes"
+msgstr "Thuộc Tính"
+
+msgid "Auto"
+msgstr "Tự Động"
+
+msgid "Auto Collapse Trees"
+msgstr "Tự Động Co Cây"
+
+msgid "Auto Expand Trees"
+msgstr "Tự Động Dãn Cây"
+
+msgid "Automatic"
+msgstr "Tự động"
+
+msgid "Back"
+msgstr "Lùi"
+
+msgid "Backward"
+msgstr "Lùi Lại"
+
+msgid "Bookmarks"
+msgstr "Dấu"
+
+msgid "Bottom"
+msgstr "Đáy"
+
+msgid "Breadcrumb Navigation"
+msgstr "Điều Hướng bằng Breadcrumb"
+
+msgid "Browse..."
+msgstr "Duyệt..."
+
+msgid "Bytes"
+msgstr "Byte"
+
+msgid "Cancel"
+msgstr "Loại Bỏ"
+
+msgid "Case sensitivity"
+msgstr "Phân Biệt Dạng Chữ"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Close Tab"
+msgstr "Đóng Thẻ"
+
+msgid "Copy"
+msgstr "Sao Chép"
+
+msgid "Copy Path"
+msgstr "Sao Chép Đường Dẫn"
+
+msgid "Create"
+msgstr "Tạo Mới"
+
+msgid "Create New Translation"
+msgstr "Tạo Bản Dịch Mới"
+
+msgid "Create new translation."
+msgstr "Tạo Bản Dịch Mới"
+
+msgid "CubicExplore Home Page"
+msgstr "Trang Chủ CubicExplorer"
+
+msgid "Customize"
+msgstr "Điều Chỉnh"
+
+msgid "Customizer..."
+msgstr "Bộ Điều Chỉnh..."
+
+msgid "Cut"
+msgstr "Cắt"
+
+msgid "Date Accessed"
+msgstr "Ngày Truy Cập"
+
+msgid "Date Created"
+msgstr "Ngày Tạo Ra"
+
+msgid "Date Modified"
+msgstr "Ngày Thay Đổi"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Details"
+msgstr "Chi Tiết"
+
+msgid "Direction"
+msgstr "Hướng"
+
+msgid "Disconnect Network Drive..."
+msgstr "Ngắt Kết Nối Ổ Đĩa Mạng"
+
+msgid "Drives"
+msgstr "Ổ Đĩa"
+
+msgid "Dublicate Tab"
+msgstr "Lặp Thẻ"
+
+msgid "Duplicate"
+msgstr "Lặp"
+
+msgid "Edit"
+msgstr "Sửa Chữa"
+
+msgid "Editor Options..."
+msgstr "Tùy Chọn Trình Soạn Thảo..."
+
+msgid "Empty Recycle Bin"
+msgstr "Đổ Rác"
+
+msgid "English (default)"
+msgstr "Tiếng Anh (mặc định)"
+
+msgid "Exit"
+msgstr "Thoát"
+
+msgid "File"
+msgstr "Tập Tin"
+
+msgid "File Search"
+msgstr "Tìm Tập Tin"
+
+msgid "Filmstrip"
+msgstr "Dải Phim"
+
+msgid "Filters"
+msgstr "Lọc"
+
+msgid "Find Next"
+msgstr "Tìm Tiếp"
+
+msgid "Find Previous"
+msgstr "Tìm Ngược Lại"
+
+msgid "Folder Path"
+msgstr "Đường Dẫn Thư Mục"
+
+msgid "Folder Up"
+msgstr "Lên"
+
+msgid "Folders"
+msgstr "Các Thư Mục"
+
+msgid "Format"
+msgstr "Định Dạng"
+
+msgid "Forward"
+msgstr "Kế"
+
+msgid "Fullscreen"
+msgstr "Toàn Màn Hình"
+
+msgid "General"
+msgstr "Tổng Quát"
+
+msgid "Help"
+msgstr "Trợ Giúp"
+
+msgid "Hex"
+msgstr "Thập Lục Phân"
+
+msgid "Highlighter"
+msgstr "Tô Sáng"
+
+msgid "Image"
+msgstr "Hình Ảnh"
+
+msgid "Insert"
+msgstr "Chèn"
+
+msgid "Invert Selection"
+msgstr "Đảo Ngược Lựa Chọn"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Language"
+msgstr "Ngôn Ngữ"
+
+msgid "Language Editor"
+msgstr "Trình Soạn Ngôn Ngữ"
+
+msgid "Large Icons"
+msgstr "Biểu Tượng Lớn"
+
+msgid "Launch Files Only"
+msgstr "Chỉ Thi Hành Tệp"
+
+msgid "Left"
+msgstr "Trái"
+
+msgid "List"
+msgstr "Danh Sách"
+
+msgid "Loading..."
+msgstr "Đang Nạp..."
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Map Network Drive..."
+msgstr "Ánh Xạ Ổ Đĩa Mạng"
+
+msgid "Modified"
+msgstr "Đã Sửa Chữa"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Name Only"
+msgstr "Chỉ Tên"
+
+msgid "Navigation"
+msgstr "Điều Hướng"
+
+msgid "New"
+msgstr "Tạo Mới"
+
+msgid "New Folder"
+msgstr "Tạo Thư Mục"
+
+msgid "No Extension"
+msgstr "Không Mở Rộng"
+
+msgid "No file loaded."
+msgstr "Không Có Tệp Được Nạp"
+
+msgid "None"
+msgstr "Không"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Open All in Tabs"
+msgstr "Mở Tất Cả Bằng Thẻ"
+
+msgid "Open Command Prompt"
+msgstr "Mở Dấu Nhắc Lệnh"
+
+msgid "Open..."
+msgstr "Mở..."
+
+msgid "Options"
+msgstr "Tùy Chọn"
+
+msgid "Original"
+msgstr "Bản Gốc"
+
+msgid "Override"
+msgstr "Chép Đè"
+
+msgid "Panels"
+msgstr "Pa-nen"
+
+msgid "Paste"
+msgstr "Dán"
+
+msgid "Paste Shortcut"
+msgstr "Dán Liên Kết"
+
+msgid "Path"
+msgstr "Đường Dẫn"
+
+msgid "Pause"
+msgstr "Tạm Dừng"
+
+msgid "Properties"
+msgstr "Tính Chất"
+
+msgid "Properties..."
+msgstr "Tính Chất..."
+
+msgid "Publish Translation"
+msgstr "Xuất Bản Bản Dịch"
+
+msgid "Quick Options"
+msgstr "Tùy Chọn Nhanh"
+
+msgid "Quickview"
+msgstr "Xem Nhanh"
+
+msgid "Redo"
+msgstr "Làm Lại"
+
+msgid "Refresh"
+msgstr "Nạp Lại"
+
+msgid "Regular expression"
+msgstr "Biểu Diễn Chính Tắc"
+
+msgid "Relative"
+msgstr "Tương Đối"
+
+msgid "Reload"
+msgstr "Nạp Lại"
+
+msgid "Remember Tabs"
+msgstr "Nhớ Thẻ"
+
+msgid "Rename"
+msgstr "Đổi Tên"
+
+msgid "Replace"
+msgstr "Thay Thế"
+
+msgid "Replace All"
+msgstr "Thay Thế Cả"
+
+msgid "Right"
+msgstr "Phải"
+
+msgid "Save"
+msgstr "Lưu"
+
+msgid "Save As..."
+msgstr "Lưu với Tên Khác..."
+
+msgid "Save changes before closing?"
+msgstr "Lưu Thay Đổi Trước Khi Đóng?"
+
+msgid "Save changes."
+msgstr "Lưu Thay Đổi."
+
+msgid "Save changes?"
+msgstr "Lưu Thay Đổi?"
+
+msgid "Search"
+msgstr "Tìm Kiếm"
+
+msgid "Search File Mask"
+msgstr "Tìm Mặt Nạ Tệp"
+
+msgid "Search Word or Phrase in File Name"
+msgstr "Tìm Từ hoặc Cụm Từ trong Tệp"
+
+msgid "Search and Replace"
+msgstr "Tìm và Thay"
+
+msgid "Search from cursor"
+msgstr "Tìm Từ Con Trỏ"
+
+msgid "Search in Directory"
+msgstr "Tìm Trong Thư Mục"
+
+msgid "Select All"
+msgstr "Chọn Tất"
+
+msgid "Selected"
+msgstr "Được Chọn"
+
+msgid "Selected text only"
+msgstr "Chỉ Văn Bản Được Chọn"
+
+msgid "Short Folder Path"
+msgstr "Đường Dẫn Ngắn"
+
+msgid "Short Name Only"
+msgstr "Chỉ Tên Ngắn"
+
+msgid "Short Path"
+msgstr "Hiển Thị Đường Dẫn"
+
+msgid "Show All Files"
+msgstr "Hiển Thị Tất Cả Tệp"
+
+msgid "Show Extensions"
+msgstr "Hiển Thị Phần Mở Rộng"
+
+msgid "Show Filtering Background"
+msgstr "Hiển Thị  Nền Lọc"
+
+msgid "Show Folders"
+msgstr "Hiển Thị Thư Mục"
+
+msgid "Show Hidden Files"
+msgstr "Hiển Thị Tệp Ẩn"
+
+msgid "Show Hints"
+msgstr "Hiển Thị Gợi Ý"
+
+msgid "Show Statusbar"
+msgstr "Hiển Thị Thanh Trạng Thái"
+
+msgid "Show Toolbar"
+msgstr "Hiển Thị Thanh Công Cụ"
+
+msgid "Single Instance Only"
+msgstr "Chỉ Một Cửa Sổ "
+
+msgid "Size"
+msgstr "Kích Thước"
+
+msgid "Small Icons"
+msgstr "Biểu Tượng Nhỏ"
+
+msgid "Smooth Scroll"
+msgstr "Cuộn Êm"
+
+msgid "Start"
+msgstr "Khởi ĐỘng"
+
+msgid "Status Bar"
+msgstr "Thanh Trạng Thái"
+
+msgid "Stop"
+msgstr "Dừng"
+
+msgid "Subdirectories"
+msgstr "Thư Mục Con"
+
+msgid "Support Forum"
+msgstr "Diễn Đàn Hỗ Trợ"
+
+msgid "Target"
+msgstr "Đích"
+
+msgid "Text"
+msgstr "Văn Bản"
+
+msgid "Text Editor"
+msgstr "Trình Soạn Văn Bản"
+
+msgid "Theme"
+msgstr "Chủ Đề"
+
+msgid "Thumbnails"
+msgstr "Hình Nhỏ"
+
+msgid "Thumbs Position"
+msgstr "Vị Trí Hình Nhỏ"
+
+msgid "Thumbs View Style"
+msgstr "Cách Xem Hình Nhỏ"
+
+msgid "Tiles"
+msgstr "Xếp Kề"
+
+msgid "Toolbars"
+msgstr "Thanh Công Cụ"
+
+msgid "Tools"
+msgstr "Công Cụ"
+
+msgid "Top"
+msgstr "Đầu"
+
+msgid "Total Size"
+msgstr "Tổng Kích Thước"
+
+msgid "Translate CubicExplorer"
+msgstr "Dịch CubicExplorer"
+
+msgid "Translation"
+msgstr "Bản Dịch"
+
+msgid "Translation Revision:"
+msgstr "Bản Dịch, Bản Bổ Sung:"
+
+msgid "Translation Version"
+msgstr "Phiên Bản Bản Dịch"
+
+msgid "Translator's Email"
+msgstr "Email Người Dịch"
+
+msgid "Translator's Name"
+msgstr "Tên Người Dịch"
+
+msgid "Transparency"
+msgstr "Trong Suốt"
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "Undo"
+msgstr "Hoàn Tác"
+
+msgid "Untitled"
+msgstr "Chưa Đặt Tên"
+
+msgid "Version:"
+msgstr "Phiên Bản:"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "View Style"
+msgstr "Cách Xem"
+
+msgid "Whole words only"
+msgstr "Chỉ Từ"
+
+msgid "Word List"
+msgstr "Danh Sách Từ"
+
+msgid "Word Wrap"
+msgstr "Ngắt Dòng"
+

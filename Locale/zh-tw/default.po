@@ -1,0 +1,658 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.90 RC1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"CE-POT-Version: 1049\n"
+"CE-Language: Chinese (Traditional)\n"
+"Last-Translator: Max Ding <maxding@gmail.com>\n"
+
+msgid "About CubicExplorer"
+msgstr "關於 CubicExplorer"
+
+msgid "About..."
+msgstr "關於..."
+
+msgid "Actions"
+msgstr "動作"
+
+msgid "Add Bookmark"
+msgstr "新增書籤"
+
+msgid "Add Category"
+msgstr "新增類別"
+
+msgid "Add Tab"
+msgstr "新增頁籤"
+
+msgid "Address Bar"
+msgstr "位址列"
+
+msgid "Always Show Sort Columns"
+msgstr "總是顯示排序欄"
+
+msgid "And Launch Files"
+msgstr "同時開始檔案"
+
+msgid "Application Revision:"
+msgstr "程式更新:"
+
+msgid "Apply"
+msgstr "套用"
+
+msgid "Apply changes."
+msgstr "套用變更"
+
+msgid "Arrange By"
+msgstr "排列由"
+
+msgid "Attributes"
+msgstr "屬性"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Auto Collapse Trees"
+msgstr "自動閉合目錄樹"
+
+msgid "Auto Expand Trees"
+msgstr "自動展開目錄樹"
+
+msgid "Auto collapse tree"
+msgstr "收摺多層子目錄"
+
+msgid "Auto expand tree"
+msgstr "展開多層子目錄"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Back"
+msgstr "上一頁"
+
+msgid "Backward"
+msgstr "前一個"
+
+msgid "Bookmarks"
+msgstr "書籤"
+
+msgid "Bookmarks Panel Settings"
+msgstr "將面版設定加入書籤"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "Breadcrumb Navigation"
+msgstr "路徑瀏覽列"
+
+msgid "Browse..."
+msgstr "瀏覽..."
+
+msgid "Bytes"
+msgstr "位元組"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Case sensitivity"
+msgstr "區分大小寫"
+
+msgid "Clear List"
+msgstr "清除列表"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Close Tab"
+msgstr "關閉頁籤"
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Copy Path"
+msgstr "複製路徑"
+
+msgid "Create"
+msgstr "建立"
+
+msgid "Create New Translation"
+msgstr "建立新的翻譯"
+
+msgid "Create new translation."
+msgstr "建立新的翻譯"
+
+msgid "CubicExplore Home Page"
+msgstr "CubicExplorer 首頁"
+
+msgid "CubicExplorer Options"
+msgstr "CubicExplorer 選項"
+
+msgid "Customize"
+msgstr "自訂"
+
+msgid "Customizer..."
+msgstr "自訂..."
+
+msgid "Cut"
+msgstr "剪下"
+
+msgid "Date Accessed"
+msgstr "資料已存取"
+
+msgid "Date Created"
+msgstr "資料已建立"
+
+msgid "Date Modified"
+msgstr "資料已變更"
+
+msgid "Default"
+msgstr "預設"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "Delete active session."
+msgstr "刪除目前作業區段"
+
+msgid "Details"
+msgstr "詳細資訊"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Disconnect Network Drive..."
+msgstr "中斷網路磁碟機..."
+
+msgid "Display"
+msgstr "顯示"
+
+msgid "Display Settings"
+msgstr "顯示設定"
+
+msgid "Drives"
+msgstr "磁碟機"
+
+msgid "Drop Stack"
+msgstr "放入堆疊"
+
+msgid "Dublicate Tab"
+msgstr "複製頁籤"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Edit Session"
+msgstr "編輯作業階段"
+
+msgid "Edit session properties."
+msgstr "編輯作業階段內容"
+
+msgid "Editor Options..."
+msgstr "編輯選項..."
+
+msgid "Empty Recycle Bin"
+msgstr "清空資源回收筒"
+
+msgid "English (default)"
+msgstr "英文(預設)"
+
+msgid "Exit"
+msgstr "離開"
+
+msgid "File"
+msgstr "檔案"
+
+msgid "File Search"
+msgstr "搜尋檔案"
+
+msgid "Fileview"
+msgstr "檔案檢視"
+
+msgid "Fileview Settings"
+msgstr "檔案檢視設定"
+
+msgid "Filmstrip"
+msgstr "幻燈片"
+
+msgid "Filters"
+msgstr "過濾"
+
+msgid "Find Next"
+msgstr "尋找下一個"
+
+msgid "Find Previous"
+msgstr "尋找上一個"
+
+msgid "Folder Path"
+msgstr "資料夾路徑"
+
+msgid "Folder Up"
+msgstr "上一層"
+
+msgid "Folders"
+msgstr "資料夾"
+
+msgid "Folders Panel Settings"
+msgstr "資料夾面版設定"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Forward"
+msgstr "下一頁"
+
+msgid "Fullscreen"
+msgstr "全螢幕"
+
+msgid "General"
+msgstr "一般"
+
+msgid "General Settings"
+msgstr "基本設定"
+
+msgid "Help"
+msgstr "說明"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Highlight row completely"
+msgstr "完全地標明直行"
+
+msgid "Highlighter"
+msgstr "標明"
+
+msgid "Image"
+msgstr "影像"
+
+msgid "Insert"
+msgstr "插入"
+
+msgid "Invert Selection"
+msgstr "反向選擇"
+
+msgid "KB"
+msgstr ""
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Language Editor"
+msgstr "語言編輯器"
+
+msgid "Large Icons"
+msgstr "大圖示"
+
+msgid "Launch Files Only"
+msgstr "只開啟檔案"
+
+msgid "Layouts"
+msgstr "佈局"
+
+msgid "Left"
+msgstr "左"
+
+msgid "List"
+msgstr "清單"
+
+msgid "Load Skin..."
+msgstr "載入面版.."
+
+msgid "Load skin from file"
+msgstr "從檔案載入面版"
+
+msgid "Load this session on startup."
+msgstr "啟動時載入此作業階段"
+
+msgid "Loading..."
+msgstr "載入中..."
+
+msgid "MB"
+msgstr ""
+
+msgid "Map Network Drive..."
+msgstr "連線網路磁碟機..."
+
+msgid "Modified"
+msgstr "已變更"
+
+msgid "More..."
+msgstr "更多.."
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Name Only"
+msgstr "只有檔名"
+
+msgid "Navigation"
+msgstr "導覽"
+
+msgid "New"
+msgstr "新增"
+
+msgid "New Folder"
+msgstr "新資料夾"
+
+msgid "New Session"
+msgstr "新的作業階段"
+
+msgid "No Extension"
+msgstr "沒有副檔名"
+
+msgid "No file loaded."
+msgstr "檔案未載入"
+
+msgid "None"
+msgstr "無"
+
+msgid "OK"
+msgstr "確定"
+
+msgid "Open All in Tabs"
+msgstr "開啟頁籤中的資料"
+
+msgid "Open Command Prompt"
+msgstr "開始命令提示字元"
+
+msgid "Open..."
+msgstr "開啟..."
+
+msgid "Options"
+msgstr "選項"
+
+msgid "Options..."
+msgstr "選項..."
+
+msgid "Original"
+msgstr "原始"
+
+msgid "Override"
+msgstr "覆寫"
+
+msgid "Panels"
+msgstr "面板"
+
+msgid "Paste"
+msgstr "貼上"
+
+msgid "Paste Shortcut"
+msgstr "貼上捷徑"
+
+msgid "Path"
+msgstr "路徑"
+
+msgid "Pause"
+msgstr "暫停"
+
+msgid "Properties"
+msgstr "內容"
+
+msgid "Properties..."
+msgstr "內容..."
+
+msgid "Publish Translation"
+msgstr "發表翻譯"
+
+msgid "Quick Options"
+msgstr "快速選項"
+
+msgid "Quickview"
+msgstr "快速檢視"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "Regular expression"
+msgstr "正規表示式"
+
+msgid "Relative"
+msgstr "相關"
+
+msgid "Reload"
+msgstr "重新載入"
+
+msgid "Remember Tabs"
+msgstr "記住頁籤設定"
+
+msgid "Rename"
+msgstr "重新命名"
+
+msgid "Replace"
+msgstr "取代"
+
+msgid "Replace All"
+msgstr "全部取代"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Save"
+msgstr "儲存"
+
+msgid "Save As..."
+msgstr "另存新檔... "
+
+msgid "Save active session with new name."
+msgstr "目前作業區段另存新檔"
+
+msgid "Save active session."
+msgstr "儲存目前作業區段"
+
+msgid "Save changes before closing?"
+msgstr "關閉前儲存變更?"
+
+msgid "Save changes."
+msgstr "儲存變更"
+
+msgid "Save changes?"
+msgstr "儲存變更?"
+
+msgid "Save settings automatically."
+msgstr "自動儲存設定"
+
+msgid "Save/Load Settings"
+msgstr "儲存/載入設定"
+
+msgid "Search"
+msgstr "搜尋"
+
+msgid "Search File Mask"
+msgstr "搜尋檔案遮罩"
+
+msgid "Search Word or Phrase in File Name"
+msgstr "搜尋檔名中的文字"
+
+msgid "Search and Replace"
+msgstr "搜尋及取代"
+
+msgid "Search from cursor"
+msgstr "從游標中搜尋"
+
+msgid "Search in Directory"
+msgstr "從資料夾中搜尋"
+
+msgid "Select All"
+msgstr "全選"
+
+msgid "Selected"
+msgstr "已選取"
+
+msgid "Selected text only"
+msgstr "只有選取的文字"
+
+msgid "Separator"
+msgstr "分隔線"
+
+msgid "Session Name"
+msgstr "作業階段名稱"
+
+msgid "Sessions"
+msgstr "作業階段"
+
+msgid "Short Folder Path"
+msgstr "簡短資料夾路徑"
+
+msgid "Short Name Only"
+msgstr "簡短檔案"
+
+msgid "Short Path"
+msgstr "簡短路徑"
+
+msgid "Show All Files"
+msgstr "顯示全部的檔案"
+
+msgid "Show Extensions"
+msgstr "顯示副檔名"
+
+msgid "Show Filtering Background"
+msgstr "顯示過濾中背景"
+
+msgid "Show Folders"
+msgstr "顯示資料夾"
+
+msgid "Show Hidden Files"
+msgstr "顯示隱藏的檔案"
+
+msgid "Show Hints"
+msgstr "顯示提示"
+
+msgid "Show Path in Title bar"
+msgstr "在標題列顯示路徑"
+
+msgid "Show Statusbar"
+msgstr "顯示狀態列"
+
+msgid "Show Toolbar"
+msgstr "顯示工具列"
+
+msgid "Single Instance Only"
+msgstr "單一執行緒"
+
+msgid "Single click mode"
+msgstr "單鍵模式"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Small Icons"
+msgstr "小圖示"
+
+msgid "Smooth Scroll"
+msgstr "平滑捲動"
+
+msgid "Stack"
+msgstr "堆疊"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Status Bar"
+msgstr "狀態列"
+
+msgid "Stop"
+msgstr "中止"
+
+msgid "Subdirectories"
+msgstr "子資料夾"
+
+msgid "Support Forum"
+msgstr "開發論壇"
+
+msgid "Tabs"
+msgstr "頁籤"
+
+msgid "Tabs Settings"
+msgstr "頁籤設定"
+
+msgid "Target"
+msgstr "目的地"
+
+msgid "Text"
+msgstr "純文字"
+
+msgid "Text Editor"
+msgstr "純文字編輯器"
+
+msgid "Theme"
+msgstr "佈景主題"
+
+msgid "Thumbnails"
+msgstr "縮圖"
+
+msgid "Thumbs Position"
+msgstr "縮圖位置"
+
+msgid "Thumbs View Style"
+msgstr "縮圖檢視風格"
+
+msgid "Tiles"
+msgstr "標題"
+
+msgid "Toolbars"
+msgstr "工具列"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Top"
+msgstr "頂端"
+
+msgid "Total Size"
+msgstr "全部大小"
+
+msgid "Translate CubicExplorer"
+msgstr "翻譯 CubicExplorer"
+
+msgid "Translation"
+msgstr "翻譯"
+
+msgid "Translation Revision:"
+msgstr "翻譯更新:"
+
+msgid "Translation Version"
+msgstr "翻譯版本"
+
+msgid "Translator's Email"
+msgstr "譯者 Email"
+
+msgid "Translator's Name"
+msgstr "譯者名稱"
+
+msgid "Transparency"
+msgstr "透明度"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Undo"
+msgstr "復原"
+
+msgid "Untitled"
+msgstr "未命名"
+
+msgid "Version:"
+msgstr "版本:"
+
+msgid "View"
+msgstr "檢視"
+
+msgid "View Style"
+msgstr "檢視風格"
+
+msgid "Whole words only"
+msgstr "全部的文字"
+
+msgid "Word List"
+msgstr "文字清單"
+
+msgid "Word Wrap"
+msgstr "文字斷行"
+

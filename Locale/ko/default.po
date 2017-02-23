@@ -1,0 +1,1459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"CE-POT-Version: 1430\n"
+"CE-Language: Korean\n"
+"Last-Translator: Jinhwan-Jeong <yongdoria#gmail#com>\n"
+
+msgid "%d file(s) failed to download!"
+msgstr "%d 파일 다운로드 실패!"
+
+msgid "%d folder(s) searched and %d item(s) found in %.3f second(s)"
+msgstr "%d 폴더와 %d 항목을 %.3f 초에 찾음"
+
+msgid "%d of %d"
+msgstr "%d (%d)"
+
+msgid "..."
+msgstr "..."
+
+msgid "A long time ago"
+msgstr "오래 전"
+
+msgid "A month ago"
+msgstr "한달 전"
+
+msgid "About CubicExplorer"
+msgstr "CubicExplorer 정보"
+
+msgid "About..."
+msgstr "CubicExplorer 정보..."
+
+msgid "Accessed"
+msgstr "접근 날짜"
+
+msgid "Actual"
+msgstr "실제"
+
+msgid "Add"
+msgstr "더하기"
+
+msgid "Add Bookmark"
+msgstr "북마크 더하기"
+
+msgid "Add Category"
+msgstr "카테고리 더하기"
+
+msgid "Add History Item"
+msgstr "작업 내역 더하기"
+
+msgid "Add Session"
+msgstr "세션 더하기"
+
+msgid "Add Tab"
+msgstr "탭 더하기"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Address Bar"
+msgstr "주소 막대"
+
+msgid "Advanced"
+msgstr "고급"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "After Date:"
+msgstr "날짜 이후:"
+
+msgid "After Time:"
+msgstr "시간 이후:"
+
+msgid "All"
+msgstr "전체"
+
+msgid "Allow Move"
+msgstr "이동 허용"
+
+msgid "Always On Top"
+msgstr "항상 위에 위치"
+
+msgid "Always Show Sort Columns"
+msgstr "항상 열 정렬 보이기"
+
+msgid "Always sort folders first."
+msgstr "항상 폴더 우선 정렬."
+
+msgid "And Launch Files"
+msgstr "그리고 파일 실행"
+
+msgid "Application Revision:"
+msgstr "응용프로그램 수정버전:"
+
+msgid "Apply"
+msgstr "적용"
+
+msgid "Apply Changes"
+msgstr "변경 적용"
+
+msgid "Apply changes now?"
+msgstr "변경을 지금 적용하겠습니까?"
+
+msgid "Apply changes."
+msgstr "변경 적용."
+
+msgid "Archiver"
+msgstr "아키브"
+
+msgid "Are you sure you want to clear session history?"
+msgstr "세션 작업 내역을 지우겠습니까?"
+
+msgid "Are you sure you want to clear the list?"
+msgstr "목록을 지우겠습니까?"
+
+msgid "Are you sure you want to delete selected bookmarks?"
+msgstr "선택된 북마크를 지우겠습니까?"
+
+msgid "Are you sure you want to delete this session?"
+msgstr "이 세션을 지우겠습니까?"
+
+msgid "Are you sure you want to do that?"
+msgstr "그것을 실행하겠습니까?"
+
+msgid "Are you sure you want to restore?"
+msgstr "복구하겠습니까?"
+
+msgid "Arrange By"
+msgstr "정렬방법"
+
+msgid "At Least:"
+msgstr "최소:"
+
+msgid "At Most:"
+msgstr "최대:"
+
+msgid "Attributes"
+msgstr "속성"
+
+msgid "Author"
+msgstr "저자"
+
+msgid "Auto"
+msgstr "자동"
+
+msgid "Auto Save History"
+msgstr "작업 내역 자동 저장"
+
+msgid "Auto collapse tree"
+msgstr "자동 트리 접기"
+
+msgid "Auto expand tree"
+msgstr "자동 트리 확장"
+
+msgid "Auto fit tabs"
+msgstr "탭 크기 자동 조정"
+
+msgid "Auto size cells in list view style."
+msgstr "목록 보기 스타일에서 셀 크기 자동 조정."
+
+msgid "Automatic"
+msgstr "자동"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "Backups"
+msgstr "백업"
+
+msgid "Before Date:"
+msgstr "날짜 이전:"
+
+msgid "Before Time:"
+msgstr "시간 이전:"
+
+msgid "Bookmarks"
+msgstr "북마크"
+
+msgid "Bookmarks Panel Settings"
+msgstr "북마크 창 설정"
+
+msgid "Borders"
+msgstr "경계"
+
+msgid "Bottom"
+msgstr "하단"
+
+msgid "Breadcrumb Navigation"
+msgstr "이동 경로 탐색"
+
+msgid "Browse..."
+msgstr "찾기..."
+
+msgid "Build:"
+msgstr "생성:"
+
+msgid "Buttons"
+msgstr "단추"
+
+msgid "Bytes"
+msgstr "바이트"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cancelled"
+msgstr "취소"
+
+msgid "Case Sensitive"
+msgstr "대소문자 구분"
+
+msgid "Case sensitivity"
+msgstr "대소문자 구분"
+
+msgid "Change order by dragging"
+msgstr "끌기에 의해 순서 변경"
+
+msgid "Check For Updates"
+msgstr "업데이트 체크"
+
+msgid "Check for updates"
+msgstr "업데이트 체크"
+
+msgid "Check for updates on startup"
+msgstr "시작시 업데이트 체크"
+
+msgid "Checkbox Selection"
+msgstr "체크박스 선택"
+
+msgid "Clear Filters"
+msgstr "필터 지우기"
+
+msgid "Clear History"
+msgstr "작업 내역 지우기"
+
+msgid "Clear List"
+msgstr "목록 지우기"
+
+msgid "Clear Results"
+msgstr "결과 지우기"
+
+msgid "Clear Stack"
+msgstr "스택 지우기"
+
+msgid "Clear filter history"
+msgstr "필터 작업 내역 지우기"
+
+msgid "Clear filters on folder change"
+msgstr "폴더가 변경된 필터 지우기"
+
+msgid "Clear session history?"
+msgstr "세션 작업 내역 지울까요?"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Close Other Tabs"
+msgstr "다른 탭 닫기"
+
+msgid "Close Tab"
+msgstr "탭 닫기"
+
+msgid "Close Tabs on Left"
+msgstr "왼쪽 탭 닫기"
+
+msgid "Close Tabs on Right"
+msgstr "오른쪽 탭 닫기"
+
+msgid "Close tab on double click"
+msgstr "이중클릭으로 탭 닫기"
+
+msgid "Close to tray"
+msgstr "트레이로 가기"
+
+msgid "Column Settings"
+msgstr "열 설정"
+
+msgid "Compressed"
+msgstr "압축"
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "Connection error!"
+msgstr "연결 오류!"
+
+msgid "Contact File"
+msgstr "연락처 파일"
+
+msgid "Contains hidden items"
+msgstr "숨김 항목 포함"
+
+msgid "Content"
+msgstr "내용"
+
+msgid "Continue from last time"
+msgstr "마지막 시간으로부터 계속"
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "Copy Path"
+msgstr "경로 복사"
+
+msgid "Copy of active tab"
+msgstr "활성 탭 복사"
+
+msgid "Create"
+msgstr "생성"
+
+msgid "Create New Translation"
+msgstr "새 변역 생성"
+
+msgid "Create Symbolic Link"
+msgstr "심볼릭 링크 생성"
+
+msgid "Create new translation."
+msgstr "새 번역 생성."
+
+msgid "Created"
+msgstr "생성됨"
+
+msgid "CubicExplorer Home Page"
+msgstr " CubicExplorer 홈페이지"
+
+msgid "CubicExplorer Options"
+msgstr " CubicExplorer 설정"
+
+msgid "Current version:"
+msgstr "현재 버전:"
+
+msgid "Custom..."
+msgstr "사용자 설정..."
+
+msgid "Customize"
+msgstr "사용자 설정"
+
+msgid "Customizer..."
+msgstr "사용자 설정..."
+
+msgid "Cut"
+msgstr "잘라내기"
+
+msgid "Daily"
+msgstr "매일"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Date && Time"
+msgstr "날짜 && 시간"
+
+msgid "Date Accessed"
+msgstr "접근 날짜"
+
+msgid "Date Created"
+msgstr "생성 날짜"
+
+msgid "Date Modified"
+msgstr "수정 날짜"
+
+msgid "Default"
+msgstr "기본"
+
+msgid "Default hotkeys become available after restart!"
+msgstr "기본 단축키는 재시작 후 사용할 수 있습니다!"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Deleting multiple bookmarks!"
+msgstr "복수 북마크 삭제 중!"
+
+msgid "Desktop"
+msgstr "데스크톱"
+
+msgid "Details"
+msgstr "자세히"
+
+msgid "Direction"
+msgstr "방향"
+
+msgid "Disconnect Network Drive..."
+msgstr "네트워크 드라이브 연결 해제..."
+
+msgid "Disk Usage"
+msgstr "디스크 사용"
+
+msgid "Display"
+msgstr "보이기"
+
+msgid "Display Mode"
+msgstr "보이기 모드"
+
+msgid "Display Settings"
+msgstr "보이기 설정"
+
+msgid "Do you really want to update?"
+msgstr "업데이트를 하겠습니까?"
+
+msgid "Do you want to override existing session?"
+msgstr "기존 세션을 재정의할까요?"
+
+msgid "Do you want to override existing stack?"
+msgstr "기존 스택을 재정의하겠습니까?"
+
+msgid "Do you want to reset all hotkeys for this action?"
+msgstr "이 작업을 위한 전체 단축키를 초기화하겠습니까?"
+
+msgid "Do you want to update?"
+msgstr "업데이트하겠습니까?"
+
+msgid "Do you want to use it anyway?"
+msgstr "어째뜬 이것을 사용하겠습니까?"
+
+msgid "Donate"
+msgstr "기부"
+
+msgid "Down"
+msgstr "아래로"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Download failed!"
+msgstr "다운로드 실패"
+
+msgid "Drag Handle"
+msgstr "핸들 끌기"
+
+msgid "Drag and Drop to reorder the columns. "
+msgstr "열을 재 정렬하기 위하여 드래그앤드롭"
+
+msgid "Drag buttons to/from toolbars"
+msgstr "도구막대에서 단추 끌기"
+
+msgid "Drives"
+msgstr "드라이브"
+
+msgid "Duplicate"
+msgstr "복제"
+
+msgid "Duplicate Hotkey"
+msgstr "단축키 복제"
+
+msgid "Duplicate Tab"
+msgstr "탭 복제"
+
+msgid "Duplicate name"
+msgstr "복제 이름"
+
+msgid "Dynamic Spacer"
+msgstr "가변 공간"
+
+msgid "Earlier this year"
+msgstr "이 해 초"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Editor Options..."
+msgstr "편집기 설정..."
+
+msgid "Empty Recycle Bin"
+msgstr "휴지통 비우기"
+
+msgid "Empty Stack"
+msgstr "스택 비우기"
+
+msgid "Empty folder"
+msgstr "폴더 비우기"
+
+msgid "Enable"
+msgstr "가능"
+
+msgid "Enable Auto Save"
+msgstr "자동저장 가능"
+
+msgid "English (default)"
+msgstr "영어(기본값)"
+
+msgid "Enter each file mask on a separate line."
+msgstr ""
+
+msgid "Exclude File Masks:"
+msgstr "파일 마슼크 제외:"
+
+msgid "Exit"
+msgstr "종료"
+
+msgid "Exit program when last tab is closed"
+msgstr "마지막 탭이 닫힐 때 프로그램 종료"
+
+msgid "Explorer"
+msgstr "탐색"
+
+msgid "File"
+msgstr "파일"
+
+msgid "File Contains:"
+msgstr "파일 포함"
+
+msgid "File Name Mask"
+msgstr "파일명 마스크"
+
+msgid "File Search"
+msgstr "파일 찾기"
+
+msgid "File size format:"
+msgstr "파일 크기 형식:"
+
+msgid "Files to update"
+msgstr "업데이트할 파일"
+
+msgid "Fileview"
+msgstr "파일 미리보기"
+
+msgid "Fileview Settings"
+msgstr "파일 미리보기 설정"
+
+msgid "Filmstrip"
+msgstr "슬라이드"
+
+msgid "Filters"
+msgstr "필터"
+
+msgid "Find Next"
+msgstr "다음 찾기"
+
+msgid "Find Previous"
+msgstr "이전 찾기"
+
+msgid "Finished"
+msgstr "완료"
+
+msgid "Five months ago"
+msgstr "5달 전"
+
+msgid "Fixed Spacer"
+msgstr "고정 공간"
+
+msgid "Focus"
+msgstr "포커스"
+
+msgid "Folder"
+msgstr "폴더"
+
+msgid "Folder Path"
+msgstr "폴더 경로"
+
+msgid "Folder Up"
+msgstr "상위 폴더로"
+
+msgid "Folders"
+msgstr "폴더"
+
+msgid "Folders Panel Settings"
+msgstr "폴더창 설정"
+
+msgid "Format"
+msgstr "형식"
+
+msgid "Forward"
+msgstr "앞으로"
+
+msgid "Four months ago"
+msgstr "4달 전"
+
+msgid "Full expand on stack load"
+msgstr "스택 읽어올 때 완전 확장"
+
+msgid "Fullscreen"
+msgstr "전체화면"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "General"
+msgstr "일반"
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+msgid "Gigantic"
+msgstr "거대"
+
+msgid "Global"
+msgstr "전역"
+
+msgid "Global Hotkey Settings"
+msgstr "전역 단축키 설정"
+
+msgid "Group"
+msgstr "그룹"
+
+msgid "Group By"
+msgstr "그룹"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Hibernate"
+msgstr "하이버네이트"
+
+msgid "Hidden"
+msgstr "숨김"
+
+msgid "Highlight row completely"
+msgstr "완전히 행 강조"
+
+msgid "Highlighter"
+msgstr "강조"
+
+msgid "History"
+msgstr "작업 내역"
+
+msgid "Hotkey Settings"
+msgstr "단축키 설정"
+
+msgid "Hotkeys"
+msgstr "단축키"
+
+msgid "Icon above text"
+msgstr "문자열 위 아이콘"
+
+msgid "Icon only"
+msgstr "아이콘만"
+
+msgid "If not, all changes will be lost."
+msgstr "없다면, 모든 변경을 잃습니다."
+
+msgid "Image"
+msgstr "이미지"
+
+msgid "Include File Masks:"
+msgstr "파일 마스크 포함:"
+
+msgid "Include Subfolders"
+msgstr "하위 폴더 포함"
+
+msgid "Info Bar"
+msgstr "정보 막대"
+
+msgid "Insert"
+msgstr "삽입"
+
+msgid "Invalid update!"
+msgstr "부적합한 업데이트!"
+
+msgid "Invert Selection"
+msgstr "선택 반전"
+
+msgid "Item(s)"
+msgstr "항목"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Language Editor"
+msgstr "언어 편집기"
+
+msgid "Large"
+msgstr "크게"
+
+msgid "Large Icons"
+msgstr "큰 아이콘"
+
+msgid "Last check:"
+msgstr "마지막 체크:"
+
+msgid "Last hour"
+msgstr "마지막 시간"
+
+msgid "Last twenty-four hours"
+msgstr "마지막 24시"
+
+msgid "Launch Files Only"
+msgstr "파일만 실행"
+
+msgid "Layouts"
+msgstr "윤곽"
+
+msgid "Left"
+msgstr "왼쪽"
+
+msgid "Link Name"
+msgstr "링크명"
+
+msgid "List"
+msgstr "목록"
+
+msgid "Live Update"
+msgstr "라이브 업데이트"
+
+msgid "Load session"
+msgstr "세션 읽어오기"
+
+msgid "Load theme from file"
+msgstr "파일로부터 테마 읽어오기"
+
+msgid "Load theme from file..."
+msgstr "파일로부터 테마 읽어오기..."
+
+msgid "Loading..."
+msgstr "읽어오는 중..."
+
+msgid "Location"
+msgstr "위치"
+
+msgid "Lock"
+msgstr "잠김"
+
+msgid "Logoff"
+msgstr "로그아웃"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Main Menu"
+msgstr "주 메뉴"
+
+msgid "Manage Sessions"
+msgstr "세션 관리"
+
+msgid "Manage..."
+msgstr "관리..."
+
+msgid "Map Network Drive..."
+msgstr "네트워크 드라이브 연결..."
+
+msgid "Max Level:"
+msgstr "최대 레벨:"
+
+msgid "Medium"
+msgstr "중간"
+
+msgid "Menu"
+msgstr "메뉴"
+
+msgid "Min Level:"
+msgstr "최소 레벨:"
+
+msgid "Minimize to tray"
+msgstr "트레이로 최소화"
+
+msgid "Modified"
+msgstr "수정"
+
+msgid "Modify Hotkey"
+msgstr "단축키 수정"
+
+msgid "More..."
+msgstr "더 많이..."
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Name && Location"
+msgstr "이름 && 위치"
+
+msgid "Name Only"
+msgstr "이름만"
+
+msgid "Navigation"
+msgstr "이동"
+
+msgid "New"
+msgstr "새로"
+
+msgid "New Category"
+msgstr "새 카테고리"
+
+msgid "New Folder"
+msgstr "새 폴더"
+
+msgid "New Shortcut"
+msgstr "새 단축키"
+
+msgid "New Version Available"
+msgstr "새 버전 이용 가능"
+
+msgid "New Window"
+msgstr "새 창"
+
+msgid "New version (%s) is available. Do you want to update now?"
+msgstr "새 버전 (%s)이 사용가능합니다. 지금 업데이트할까요?"
+
+msgid "No Extension"
+msgstr "확장자 없음"
+
+msgid "No Selection"
+msgstr "선택 없음"
+
+msgid "No file loaded."
+msgstr "읽어온 파일 없음."
+
+msgid "No new updates"
+msgstr "새 업데이트 없음"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Notify only about following update types"
+msgstr "다음 업데이트 형식에 대하여만 알립니다"
+
+msgid "OK"
+msgstr "완료"
+
+msgid "Official"
+msgstr "공식판"
+
+msgid "On Startup"
+msgstr "시동시"
+
+msgid "One or more files are missing!"
+msgstr "하나 이상의 파일이 빠졌습니다!"
+
+msgid "Open"
+msgstr "열기"
+
+msgid "Open All in Tabs"
+msgstr "탭으로 전체 열기"
+
+msgid "Open Command Prompt"
+msgstr "DOS 창 열기"
+
+msgid "Open Containing Folder"
+msgstr "포함된 폴더 열기"
+
+msgid "Open default tab"
+msgstr "기본 탭 열기"
+
+msgid "Open in current tab"
+msgstr "현재 탭에서 열기"
+
+msgid "Open in new tab"
+msgstr "새 탭에서 열기"
+
+msgid "Open in new tab by default"
+msgstr "기본으로 새 탭에서 열기"
+
+msgid "Open last used"
+msgstr "마지막 사용된 탭 열기"
+
+msgid "Open new tab as"
+msgstr "새 탭 열기"
+
+msgid "Open new tab next to current"
+msgstr "현재 탭 옆에 새 탭 열기"
+
+msgid "Open selected"
+msgstr "선택된 것 열기"
+
+msgid "Open..."
+msgstr "열기..."
+
+msgid "Opening..."
+msgstr "여는 중..."
+
+msgid "Options"
+msgstr "설정"
+
+msgid "Options..."
+msgstr "설정..."
+
+msgid "Original"
+msgstr "원본"
+
+msgid "Override"
+msgstr "재정의"
+
+msgid "Override existing session?"
+msgstr "기존 세션을 재정의할까요?"
+
+msgid "Override existing stack?"
+msgstr "기존 스택을 재정의할까요?"
+
+msgid "Panels"
+msgstr "창"
+
+msgid "Password"
+msgstr "암호"
+
+msgid "Paste"
+msgstr "붙여넣기"
+
+msgid "Paste Shortcut"
+msgstr "단축키 붙여넣기"
+
+msgid "Path"
+msgstr "경로"
+
+msgid "Please choose different hotkey."
+msgstr "다른 단축키 선택하시오"
+
+msgid "Port"
+msgstr "포트"
+
+msgid "Properties"
+msgstr "속성"
+
+msgid "Properties..."
+msgstr "속성..."
+
+msgid "Proxy Login"
+msgstr "프록시 로그인"
+
+msgid "Proxy Settings"
+msgstr "프록시 설정"
+
+msgid "Publish Translation"
+msgstr "번역 출판"
+
+msgid "Published:"
+msgstr "출판:"
+
+msgid "QuickView"
+msgstr "빠른보기"
+
+msgid "Quickview"
+msgstr "빠른보기"
+
+msgid "Read Only"
+msgstr "읽기만"
+
+msgid "Reboot"
+msgstr "리부팅"
+
+msgid "Recycle Bin"
+msgstr "휴지통"
+
+msgid "Redo"
+msgstr "다음 실행"
+
+msgid "Refresh"
+msgstr "새로이"
+
+msgid "Regular expression"
+msgstr "정규 표현식"
+
+msgid "Relative"
+msgstr "상대적"
+
+msgid "Reload"
+msgstr "다시 읽어오기"
+
+msgid "Remember"
+msgstr "기억"
+
+msgid "Remove from Stack"
+msgstr "스택에서 제거"
+
+msgid "Removing all items from Stack!"
+msgstr "스택에서 전체 항목 제거 중!"
+
+msgid "Rename"
+msgstr "다른 이름으로"
+
+msgid "Replace"
+msgstr "치환"
+
+msgid "Replace All"
+msgstr "전체 치환"
+
+msgid "Reset hotkeys?"
+msgstr "단축키 초기화할까요?"
+
+msgid "Reset to default"
+msgstr "기본값으로 초기화"
+
+msgid "Restart CubicExplorer Now?"
+msgstr " CubicExplorer 를 지금 재시작하겠습니까?"
+
+msgid "Restart needed!"
+msgstr "재시작이 필요합니다!"
+
+msgid "Restore"
+msgstr "복구"
+
+msgid "Restore All"
+msgstr "전체 복구"
+
+msgid "Restore List"
+msgstr "목록 복구"
+
+msgid "Restoring multiple items!"
+msgstr "다수 항목 복구 중!"
+
+msgid "Reuse already open tabs"
+msgstr "이미 열린 탭을 재사용"
+
+msgid "Right"
+msgstr "오른쪽"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Save As..."
+msgstr "다른 이름으로 저장..."
+
+msgid "Save Session"
+msgstr "세션 저장"
+
+msgid "Save Stack"
+msgstr "스택 저장"
+
+msgid "Save active session."
+msgstr "활성 세션 저장"
+
+msgid "Save changes before closing?"
+msgstr "닫기 전 변경을 저장할까요?"
+
+msgid "Save changes."
+msgstr "변경을 저장"
+
+msgid "Save changes?"
+msgstr "변경을 저장할까요?"
+
+msgid "Save settings automatically."
+msgstr "자동으로 설정 저장"
+
+msgid "Save..."
+msgstr "저장..."
+
+msgid "Save/Load Settings"
+msgstr "설정 저장/읽어오기"
+
+msgid "Scroll Left"
+msgstr "왼쪽 스크롤"
+
+msgid "Scroll Right"
+msgstr "오른쪽 스크롤"
+
+msgid "Search"
+msgstr "찾기"
+
+msgid "Search and Replace"
+msgstr "찾기 및 치환"
+
+msgid "Search from cursor"
+msgstr "커서부터 찾기"
+
+msgid "Searching from"
+msgstr "찾기"
+
+msgid "Select All"
+msgstr "전체 찾기"
+
+msgid "Select Session"
+msgstr "세션 찾기"
+
+msgid "Select default folder for new tabs."
+msgstr "새 탭을 위해 기본 폴더 선택."
+
+msgid "Select existing translation or create new."
+msgstr "기존 번역을 선택 또는 새로 생성."
+
+msgid "Select first item automatically"
+msgstr "자동으로 처음 항목 선택"
+
+msgid "Select previous folder"
+msgstr "이전 폴더 선택"
+
+msgid "Select target folder"
+msgstr "대상 폴더 선택"
+
+msgid "Selected"
+msgstr "선택됨"
+
+msgid "Selected text only"
+msgstr "선택된 문자열만"
+
+msgid "Separator"
+msgstr "분리자"
+
+msgid "Separators"
+msgstr "분리자"
+
+msgid "Session"
+msgstr "세션"
+
+msgid "Session Name"
+msgstr "세션명"
+
+msgid "Session at"
+msgstr "세션"
+
+msgid "Sessions"
+msgstr "세션"
+
+msgid "Set focus to address bar"
+msgstr "포커스를 주소 막대로 설정"
+
+msgid "Short Folder Path"
+msgstr "짧은 폴더 경로"
+
+msgid "Short Name Only"
+msgstr "짧은 이름만"
+
+msgid "Short Path"
+msgstr "짧은 경로"
+
+msgid "Shortcut"
+msgstr "단축키"
+
+msgid "Show"
+msgstr "보이기"
+
+msgid "Show All Files"
+msgstr "전체 파일 보이기"
+
+msgid "Show Extensions"
+msgstr "확장자 보이기"
+
+msgid "Show Folders"
+msgstr "폴더 보이기"
+
+msgid "Show Hidden Files"
+msgstr "숨김 파일 보이기"
+
+msgid "Show Hints"
+msgstr "힌트 보이기"
+
+msgid "Show InfoTips"
+msgstr "정보 팁 보이기"
+
+msgid "Show Path in Title bar"
+msgstr "제목 막대에서 경로 보이기"
+
+msgid "Show Session Manager"
+msgstr "세션 관리자 보이기"
+
+msgid "Show Statusbar"
+msgstr "상태막대 보이기"
+
+msgid "Show Toolbar"
+msgstr "도구막대 보이기"
+
+msgid "Show in Groups"
+msgstr "그룹에서 보이기"
+
+msgid "Show more tabs"
+msgstr "더 많은 탭 보이기"
+
+msgid "Show/Hide"
+msgstr "보이기/숨기기"
+
+msgid "Shut down"
+msgstr "종료하기"
+
+msgid "Single Instance Only"
+msgstr "단일 작업만"
+
+msgid "Single click browsing"
+msgstr "단일 클릭 찾기"
+
+msgid "Single click mode"
+msgstr "단일 클릭 모드"
+
+msgid "Six months ago"
+msgstr "6달 전"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Size && Attributes"
+msgstr "크기 && 속성"
+
+msgid "Sleep"
+msgstr "잠자기"
+
+msgid "Small"
+msgstr "작음"
+
+msgid "Small Icons"
+msgstr "작은 아이콘"
+
+msgid "Stack"
+msgstr "스택"
+
+msgid "Stack Name"
+msgstr "스택명"
+
+msgid "Stack Settings"
+msgstr "스택 설정"
+
+msgid "Start minimized to tray"
+msgstr "시작시 트레이로 최소화"
+
+msgid "Status Bar"
+msgstr "상태 막대"
+
+msgid "Stop"
+msgstr "중지"
+
+msgid "Stretch"
+msgstr "확장"
+
+msgid "Strict"
+msgstr "고정"
+
+msgid "Support Forum"
+msgstr "지원 포럼"
+
+msgid "Switch to Next Tab"
+msgstr "다음 탭으로 전환"
+
+msgid "Switch to a new tab immediately"
+msgstr "즉시 새 탭으로 전환"
+
+msgid "Swith to Previous Tab"
+msgstr "이전 탭으로 전환"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "System Folders"
+msgstr "시스템 폴더"
+
+msgid "System Power"
+msgstr "시스템 전원"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Tabs"
+msgstr "탭"
+
+msgid "Tabs Settings"
+msgstr "탭 설정"
+
+msgid "Target"
+msgstr "대상"
+
+msgid "Target Folder"
+msgstr "대상 폴더"
+
+msgid "Test"
+msgstr "테스트"
+
+msgid "Text"
+msgstr "문자열"
+
+msgid "Text Document"
+msgstr "문자열 문서"
+
+msgid "Text Editor"
+msgstr "문자열 편집기"
+
+msgid "Text Filter"
+msgstr "문자열 필터"
+
+msgid "Text only"
+msgstr "문자열만"
+
+msgid "Theme"
+msgstr "배경 테마"
+
+msgid "This week"
+msgstr "이 주"
+
+msgid "Three months ago"
+msgstr "3달 전"
+
+msgid "Three weeks ago"
+msgstr "3주 전"
+
+msgid "Thumbnails"
+msgstr "썸네일"
+
+msgid "Thumbs Position"
+msgstr "쎔네일 위치"
+
+msgid "Thumbs View Style"
+msgstr "썸네일 보기 형태"
+
+msgid "Tiles"
+msgstr "타일"
+
+msgid "Tiny"
+msgstr "작게"
+
+msgid "Toolbars"
+msgstr "도구막대"
+
+msgid "Tools"
+msgstr "도구"
+
+msgid "Top"
+msgstr "상단"
+
+msgid "Total Size"
+msgstr "전체 크기"
+
+msgid "Translate CubicExplorer"
+msgstr " CubicExplorer 번역"
+
+msgid "Translation"
+msgstr "번역"
+
+msgid "Translation Revision:"
+msgstr "번역 개정:"
+
+msgid "Translation Version"
+msgstr "번역 버전"
+
+msgid "Translator's Email"
+msgstr "번역자 이메일"
+
+msgid "Translator's Name"
+msgstr "번역자 이름"
+
+msgid "Transparency"
+msgstr "투명도"
+
+msgid "Tray Icon"
+msgstr "트레이 아이콘"
+
+msgid "Two months ago"
+msgstr "2달 전"
+
+msgid "Two weeks ago"
+msgstr "2주 전"
+
+msgid "Type"
+msgstr "형태"
+
+msgid "Undo"
+msgstr "이전 작업"
+
+msgid "Undo Delete"
+msgstr "이전 작업 삭제"
+
+msgid "Undo Tab Close"
+msgstr "이전 작업 탭 닫기"
+
+msgid "Untitled"
+msgstr "제목없음"
+
+msgid "Up"
+msgstr "위로"
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Update CubicExplorer"
+msgstr " CubicExplorer 업데이트"
+
+msgid "Update type:"
+msgstr "업데이트 형태:"
+
+msgid "Updates"
+msgstr "업데이트"
+
+msgid "Updates Settings"
+msgstr "업데이트 설정"
+
+msgid "Use Options->Updates to change them."
+msgstr "그들을 변경하기 위하여 설정->업데이트 사용."
+
+msgid "Use strict filtering (wildcards are ? and *)"
+msgstr 엄격한 필터링 사용(와일드 카드는 ?와 *)""
+
+msgid "Use system settings"
+msgstr "시스템 설정 사용"
+
+msgid "Use this version"
+msgstr "이 버전 사용"
+
+msgid "Username"
+msgstr "사용자명"
+
+msgid "Version"
+msgstr "버전"
+
+msgid "Version Manager"
+msgstr "버전 관리자"
+
+msgid "Version:"
+msgstr "버전:"
+
+msgid "Versions"
+msgstr "버전"
+
+msgid "View"
+msgstr "보기"
+
+msgid "View Style"
+msgstr "보기 스타일"
+
+msgid "WARNING! You are about to restore %d items."
+msgstr "경고: %d 항목을 복구하려고 합니다."
+
+msgid "WARNING: Real file operations below"
+msgstr "경고: 실제 파일은 아래와 같이 작동합니다"
+
+msgid "Warning"
+msgstr "경고"
+
+msgid "Warning: changes are made immediately!"
+msgstr "경고: 변경은 즉시 됩니다!"
+
+msgid "Warning: password will be saved in clear text!"
+msgstr "경고: 암호는 빈 문자열에서 저장될 것입니다!"
+
+msgid "Weekly"
+msgstr "매주"
+
+msgid "When I open folder/file in a new tab, switch to it immediately "
+msgstr "새 탭에서 폴더/파일 열 때, 즉시 그것으로 변경 "
+
+msgid "Whole Word"
+msgstr "전체 단어"
+
+msgid "Whole words only"
+msgstr "전체 단어만"
+
+msgid "Width of the selected column"
+msgstr "선택된 열의 너비"
+
+msgid "Word List"
+msgstr "단어 목록"
+
+msgid "Word Wrap"
+msgstr "단어 줄바꿈"
+
+msgid "Word or Phrase in File Name"
+msgstr "파일명에서 단어 또는 구"
+
+msgid "You have no update type notifications selected."
+msgstr "선택된 알림 타입을 업데이트하지 못했습니다."
+
+msgid "Zero"
+msgstr "제로"
+
+msgid "already exists. Please choose another name."
+msgstr "이미 있습니다. 다른 이름을 선택하세요."
+
+msgid "is already assigned to"
+msgstr "이미 지정됨"
+
+msgid "is already in use!"
+msgstr "이미 사용 중!"
+
+msgid "item"
+msgstr "항목"
+
+msgid "items"
+msgstr "항목"
+

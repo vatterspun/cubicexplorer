@@ -1,0 +1,2 @@
+DEFAULT_LAYOUT_DATA RCDATA ..\BuildCE\Snapshot_configs\layout.xml
+DEFAULT_SETTINGS_DATA RCDATA ..\BuildCE\Snapshot_configs\settings.xml

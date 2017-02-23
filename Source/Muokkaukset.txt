@@ -1,0 +1,84 @@
+***********************************************************************************
+- JvDockControlForm.pas -->TJvDockTabPageControl.LoadFromStream 
+
+-->Lisätty rivi:
+
+TJvDockVSNETTabSheet(Pages[I]).OldVisible:= Boolean(SheetVisible);
+
+--> ennen riviä:
+
+DockClients[Index].Visible:= Boolean(SheetVisible);
+
+***********************************************************************************
+
+***********************************************************************************
+- JvDockControlForm.pas -->ApplyShowingChanged
+
+-->Lisätty rivi:
+
+  if GShowingChanged = nil then
+  Exit;
+
+--> rivien jälkeen:
+
+procedure ApplyShowingChanged;
+var
+  I: Integer;
+begin
+
+***********************************************************************************
+
+
+***********************************************************************************
+- JvDockVSNetStyle.pas -->TJvDockVSNetStyle.EndPopup
+Changed to virtual
+
+- JvDockVSNetStyle.pas -->TJvDockVSNetStyle.BeginPopup
+Changed to virtual
+
+- JvDockTree.pas -->TJvDockTree.HideControl
+Changed to virtual
+***********************************************************************************
+
+***********************************************************************************
+* Windows 98 , crash at shutdown
+***********************************************************************************
+- pngimage.pas -->TPngObject.Destroy
+
+-->Rivi siirretty
+
+{$IFDEF UseDelphi}fCanvas.Free;{$ENDIF}
+
+-->Yläpuolelle
+
+{Free object list}
+ClearChunks;
+fChunkList.Free;
+***********************************************************************************
+
+***********************************************************************************
+- EasyListview.pas -->TCustomEasyListview.DoPaintRect
+
+-->Lisätty rivi:
+
+ClipHeader(ACanvas, True);
+
+--> ennen riviä:
+
+    while Assigned(Item) do
+    begin
+      // Need to paint the focused item last if its text may overlap another cell when focused
+      if not Item.Focused or not Item.View.OverlappedFocus then
+      begin
+        if not SelectedOnly or (SelectedOnly and Item.Selected) then
+        begin
+          if View = elsReport then
+            PaintReportView(Item, ViewClipRect, OrgPt)
+          else
+            Item.Paint(ACanvas, ViewClipRect, nil, False);
+        end
+      end;
+      Item := Groups.NextItemInRect(Item, ViewClipRect);
+    end;
+
+***********************************************************************************
